@@ -1,0 +1,70 @@
+name	letter	transform	code	weaponMod1Code	weaponMod1Param	weaponMod1Min	weaponMod1Max	weaponMod2Code	weaponMod2Param	weaponMod2Min	weaponMod2Max	weaponMod3Code	weaponMod3Param	weaponMod3Min	weaponMod3Max	helmMod1Code	helmMod1Param	helmMod1Min	helmMod1Max	helmMod2Code	helmMod2Param	helmMod2Min	helmMod2Max	helmMod3Code	helmMod3Param	helmMod3Min	helmMod3Max	shieldMod1Code	shieldMod1Param	shieldMod1Min	shieldMod1Max	shieldMod2Code	shieldMod2Param	shieldMod2Min	shieldMod2Max	shieldMod3Code	shieldMod3Param	shieldMod3Min	shieldMod3Max
+Chipped Amethyst		18	gcv	prop-spearsynergy		10	10	att		75	75	dmg%		39	39	prop-dmgtounholy		10	10	ac		75	75	hp		30	30	prop-dmgtototem		10	10	ac		75	75	hp		60	60
+Flawed Amethyst		18	gfv	prop-spearsynergy		15	15	att		125	125	dmg%		52	52	prop-dmgtounholy		15	15	ac		125	125	hp		40	40	prop-dmgtototem		15	15	ac		125	125	hp		80	80
+Amethyst		18	gsv	prop-spearsynergy		20	20	att		175	175	dmg%		65	65	prop-dmgtounholy		20	20	ac		175	175	hp		50	50	prop-dmgtototem		20	20	ac		175	175	hp		100	100
+Flawless Amethyst		18	gzv	prop-spearsynergy		25	25	att		225	225	dmg%		78	78	prop-dmgtounholy		25	25	ac		225	225	hp		60	60	prop-dmgtototem		25	25	ac		225	225	hp		120	120
+Perfect Amethyst		17	gpv	prop-spearsynergy		30	30	att		275	275	dmg%		91	91	prop-dmgtounholy		30	30	ac		275	275	hp		70	70	prop-dmgtototem		30	30	ac		275	275	hp		140	140
+Chipped Sapphire		5	gcb	prop-dmgtofragment		10	10	att		75	75	dmg%		39	39	prop-dmgtotrap		10	10	ac		75	75	hp		30	30	extra-cold		5	5	ac		75	75	hp		60	60
+Flawed Sapphire		5	gfb	prop-dmgtofragment		15	15	att		125	125	dmg%		52	52	prop-dmgtotrap		15	15	ac		125	125	hp		40	40	extra-cold		8	8	ac		125	125	hp		80	80
+Sapphire		5	gsb	prop-dmgtofragment		20	20	att		175	175	dmg%		65	65	prop-dmgtotrap		20	20	ac		175	175	hp		50	50	extra-cold		10	10	ac		175	175	hp		100	100
+Flawless Sapphire		5	glb	prop-dmgtofragment		25	25	att		225	225	dmg%		78	78	prop-dmgtotrap		25	25	ac		225	225	hp		60	60	extra-cold		13	13	ac		225	225	hp		120	120
+Perfect Sapphire		6	gpb	prop-dmgtofragment		30	30	att		275	275	dmg%		91	91	prop-dmgtotrap		30	30	ac		275	275	hp		70	70	extra-cold		15	15	ac		275	275	hp		140	140
+Chipped Emerald		11	gcg	prop-dmgtohoming		10	10	att		75	75	dmg%		39	39	prop-dmgtomeleeexplosion		10	10	ac		75	75	hp		30	30	extra-pois		5	5	ac		75	75	hp		60	60
+Flawed Emerald		11	gfg	prop-dmgtohoming		15	15	att		125	125	dmg%		52	52	prop-dmgtomeleeexplosion		15	15	ac		125	125	hp		40	40	extra-pois		8	8	ac		125	125	hp		80	80
+Emerald		11	gsg	prop-dmgtohoming		20	20	att		175	175	dmg%		65	65	prop-dmgtomeleeexplosion		20	20	ac		175	175	hp		50	50	extra-pois		10	10	ac		175	175	hp		100	100
+Flawless Emerald		11	glg	prop-dmgtohoming		25	25	att		225	225	dmg%		78	78	prop-dmgtomeleeexplosion		25	25	ac		225	225	hp		60	60	extra-pois		13	13	ac		225	225	hp		120	120
+Perfect Emerald		12	gpg	prop-dmgtohoming		30	30	att		275	275	dmg%		91	91	prop-dmgtomeleeexplosion		30	30	ac		275	275	hp		70	70	extra-pois		15	15	ac		275	275	hp		140	140
+Chipped Ruby		8	gcr	prop-dmgbombardment		10	10	att		75	75	dmg%		39	39	prop-dmgtoholy		10	10	ac		75	75	hp		30	30	extra-fire		5	5	ac		75	75	hp		60	60
+Flawed Ruby		8	gfr	prop-dmgbombardment		15	15	att		125	125	dmg%		52	52	prop-dmgtoholy		15	15	ac		125	125	hp		40	40	extra-fire		8	8	ac		125	125	hp		80	80
+Ruby		8	gsr	prop-dmgbombardment		20	20	att		175	175	dmg%		65	65	prop-dmgtoholy		20	20	ac		175	175	hp		50	50	extra-fire		10	10	ac		175	175	hp		100	100
+Flawless Ruby		8	glr	prop-dmgbombardment		25	25	att		225	225	dmg%		78	78	prop-dmgtoholy		25	25	ac		225	225	hp		60	60	extra-fire		13	13	ac		225	225	hp		120	120
+Perfect Ruby		9	gpr	prop-dmgbombardment		30	30	att		275	275	dmg%		91	91	prop-dmgtoholy		30	30	ac		275	275	hp		70	70	extra-fire		15	15	ac		275	275	hp		140	140
+Chipped Diamond		1	gcw	prop-dmgtochained		10	10	att		75	75	dmg%		39	39	prop-dmgtowind		10	10	ac		75	75	hp		30	30	prop-dmgtosummon		10	10	ac		75	75	hp		60	60
+Flawed Diamond		1	gfw	prop-dmgtochained		15	15	att		125	125	dmg%		52	52	prop-dmgtowind		15	15	ac		125	125	hp		40	40	prop-dmgtosummon		15	15	ac		125	125	hp		80	80
+Diamond		1	gsw	prop-dmgtochained		20	20	att		175	175	dmg%		65	65	prop-dmgtowind		20	20	ac		175	175	hp		50	50	prop-dmgtosummon		20	20	ac		175	175	hp		100	100
+Flawless Diamond		1	glw	prop-dmgtochained		25	25	att		225	225	dmg%		78	78	prop-dmgtowind		25	25	ac		225	225	hp		60	60	prop-dmgtosummon		25	25	ac		225	225	hp		120	120
+Perfect Diamond		0	gpw	prop-dmgtochained		30	30	att		275	275	dmg%		91	91	prop-dmgtowind		30	30	ac		275	275	hp		70	70	prop-dmgtosummon		30	30	ac		275	275	hp		140	140
+Chipped Topaz		14	gcy	prop-dmgtonova		10	10	att		75	75	dmg%		39	39	prop-marksmanship		10	10	ac		75	75	hp		30	30	extra-ltng		5	5	ac		75	75	hp		60	60
+Flawed Topaz		14	gfy	prop-dmgtonova		15	15	att		125	125	dmg%		52	52	prop-marksmanship		15	15	ac		125	125	hp		40	40	extra-ltng		8	8	ac		125	125	hp		80	80
+Topaz		14	gsy	prop-dmgtonova		20	20	att		175	175	dmg%		65	65	prop-marksmanship		20	20	ac		175	175	hp		50	50	extra-ltng		10	10	ac		175	175	hp		100	100
+Flawless Topaz		14	gly	prop-dmgtonova		25	25	att		225	225	dmg%		78	78	prop-marksmanship		25	25	ac		225	225	hp		60	60	extra-ltng		13	13	ac		225	225	hp		120	120
+Perfect Topaz		13	gpy	prop-dmgtonova		30	30	att		275	275	dmg%		91	91	prop-marksmanship		30	30	ac		275	275	hp		70	70	extra-ltng		15	15	ac		275	275	hp		140	140
+Chipped Skull		2	skc	prop-dmgtomultishot		10	10	att		75	75	dmg%		39	39	prop-dmgtoearth		10	10	ac		75	75	hp		30	30	prop-bloodskilldamage		10	10	ac		75	75	hp		60	60
+Flawed Skull		2	skf	prop-dmgtomultishot		15	15	att		125	125	dmg%		52	52	prop-dmgtoearth		15	15	ac		125	125	hp		40	40	prop-bloodskilldamage		15	15	ac		125	125	hp		80	80
+Skull		2	sku	prop-dmgtomultishot		20	20	att		175	175	dmg%		65	65	prop-dmgtoearth		20	20	ac		175	175	hp		50	50	prop-bloodskilldamage		20	20	ac		175	175	hp		100	100
+Flawless Skull		2	skl	prop-dmgtomultishot		25	25	att		225	225	dmg%		78	78	prop-dmgtoearth		25	25	ac		225	225	hp		60	60	prop-bloodskilldamage		25	25	ac		225	225	hp		120	120
+Perfect Skull		3	skz	prop-dmgtomultishot		30	30	att		275	275	dmg%		91	91	prop-dmgtoearth		30	30	ac		275	275	hp		70	70	prop-bloodskilldamage		30	30	ac		275	275	hp		140	140
+Expansion																																							
+El Rune	r01L	18	r01	dmg-norm		20	20	dex		8	8	swing1		5	5	hp		158	158	res-all		30	30	lifesteal		10	10	deadly		10	10	str		15	15	vit		15	15
+Eld Rune	r02L	18	r02	dex		9	9	enr		9	9	cast1		7	7	mana		316	316	cast2		12	12	manasteal		10	10	deadly		12	12	str		15	15	vit		15	15
+Tir Rune	r03L	18	r03	dmg-norm		22	22	dex		10	10	swing1		8	8	hp		158	158	res-all		30	30	lifesteal		10	10	deadly		14	14	str		15	15	vit		15	15
+Nef Rune	r04L	18	r04	dex		11	11	enr		11	11	cast1		9	9	mana		316	316	cast2		12	12	manasteal		10	10	deadly		16	16	str		20	20	vit		20	20
+Eth Rune	r05L	18	r05	dmg-norm		24	24	dex		12	12	swing1		10	10	hp		158	158	res-all		30	30	lifesteal		10	10	deadly		18	18	str		25	25	vit		25	25
+Ith Rune	r06L	18	r06	dex		13	13	enr		13	13	cast1		12	12	mana		316	316	cast2		15	15	manasteal		10	10	deadly		20	20	str		30	30	vit		30	30
+Tal Rune	r07L	18	r07	dmg-norm		26	26	dex		14	14	swing1		13	13	hp		188	188	res-all		30	30	move2		12	12	balance3		12	12	hp%		4	4	nec		1	1
+Ral Rune	r08L	18	r08	dex		15	15	enr		15	15	cast1		14	14	mana		316	316	cast2		15	15	manasteal		20	20	balance3		14	14	hp%		5	5	bar		1	1
+Ort Rune	r09L	18	r09	dmg-norm		28	28	dex		16	16	swing1		15	15	hp		188	188	res-all		30	30	move2		12	12	balance3		16	16	hp%		6	6	ama		1	1
+Thul Rune	r10L	18	r10	dex		17	17	enr		17	17	cast1		17	17	mana		316	316	cast2		15	15	manasteal		20	20	balance3		18	18	hp%		7	7	sor		1	1
+Amn Rune	r11L	18	r11	dmg-norm		30	30	dex		18	18	swing1		18	18	hp		206	206	res-all		30	30	move2		12	12	balance3		20	20	hp%		8	8	pal		1	1
+Sol Rune	r12L	18	r12	dex		19	19	enr		19	19	cast1		19	19	mana		316	316	cast2		15	15	manasteal		20	20	balance3		22	22	hp%		8	8	dru		1	1
+Shael Rune	r13L	18	r13	dmg-norm		40	40	dex		20	20	swing1		20	20	hp		206	206	res-all		20	20	move2		12	12	balance3		24	24	hp%		8	8	ass		1	1
+Dol Rune	r14L	18	r14	dex		21	21	enr		21	21	cast1		21	21	all-stats		13	13	res-all		20	20	att		400	400	ac-miss		600	600	cast1		10	10	hp%		8	8
+Hel Rune	r15L	18	r15	dmg-norm		44	44	dex		22	22	swing1		22	22	all-stats		14	14	res-all		20	20	att		400	400	ac-miss		600	600	cast1		11	11	hp%		8	8
+Io Rune	r16L	18	r16	dex		23	23	enr		23	23	cast1		23	23	all-stats		15	15	res-all		20	20	att		400	400	ac-miss		600	600	cast1		12	12	hp%		8	8
+Lum Rune	r17L	18	r17	dmg-norm		48	48	dex		24	24	swing1		24	24	all-stats		16	16	res-all		20	20	bothdr		90	90	ac-miss		600	600	cast1		13	13	ass		2	2
+Ko Rune	r18L	18	r18	dex		25	25	enr		25	25	cast1		25	25	all-stats		17	17	res-all		20	20	bothdr		90	90	sor		2	2	pal		2	2	dru		2	2
+Fal Rune	r19L	18	r19	dmg-norm		50	50	dex		26	26	swing1		28	28	all-stats		18	18	res-all		20	20	bothdr		90	90	nec		2	2	bar		2	2	ama		2	2
+Lem Rune	r20L	18	r20	dex		27	27	enr		27	27	cast1		26	26	all-stats		19	19	res-all		20	20	bothdr		96	96	ac-miss		500	500	cast1		25	25	res-all-max		1	1
+Pul Rune	r21L	18	r21	dmg-norm		60	60	dex		28	28	swing1		32	32	all-stats		20	20	res-all		22	22	bothdr		102	102	oskill	Guardian Of Wind	3	3	hp%		9	9	ac		1000	1000
+Um Rune	r22L	18	r22	dex		29	29	enr		29	29	cast1		27	27	all-stats		21	21	res-all		23	23	bothdr		108	108	oskill	Guardian Of Earth	3	3	hp%		9	9	att		1000	1000
+Mal Rune	r23L	18	r23	dmg-norm		70	70	dex		30	30	swing1		36	36	all-stats		22	22	res-all		24	24	bothdr		114	114	oskill	Arcane Warrior	3	3	hp%		9	9	def		1000	1000
+Ist Rune	r24L	18	r24	dex		35	35	enr		35	35	cast1		28	28	all-stats		23	23	res-all		25	25	bothdr		120	120	oskill	Flame Cloak	3	3	hp%		9	9	extra-fire		30	30
+Gul Rune	r25L	18	r25	dmg-norm		80	80	dex		40	40	swing1		40	40	mana		800	800	res-all-max		1	1	oskill	Warmth	3	3	oskill	Frost Cloak	3	3	hp%		9	9	extra-cold		30	30
+Vex Rune	r26L	18	r26	dex		45	45	enr		45	45	cast1		30	30	hp		206	206	ease		-15	-15	res-all-max		1	1	oskill	Storm Cloak	3	3	hp%		9	9	extra-ltng		30	30
+Ohm Rune	r27L	18	r27	dmg%		300	300	extra-cold		23	23	dmg-max		100	100	hp		260	260	ease		-15	-15	mag%		30	30	dr%		8	8	hp%		13	13	ac		1000	1000
+Lo Rune	r28L	18	r28	dmg%		300	300	extra-fire		23	23	dmg-max		100	100	hp		270	270	ease		-15	-15	cast1		20	20	dr%		8	8	hp%		13	13	ac		1000	1000
+Sur Rune	r29L	18	r29	dmg%		300	300	extra-ltng		23	23	dmg-max		100	100	reduce-ac		25	25	ease		-15	-15	ac		750	750	dr%		8	8	hp%		13	13	ac		1000	1000
+Ber Rune	r30L	18	r30	dmg%		400	400	extra-pois		23	23	dmg-max		100	100	dmg%		175	175	ease		-15	-15	att		1400	1400	dr%		8	8	hp%		13	13	ac		1000	1000
+Jah Rune	r31L	18	r31	dmg%		425	425	all-stats		20	20	swing1		40	40	red-mag		180	180	ease		-15	-15	regen		1300	1300	oskill	Critical Strike	3	3	oskill	Bloodborne	3	3	oskill	Ravager	3	3
+Cham Rune	r32L	18	r32	dmg%		450	450	all-stats		20	20	swing1		40	40	red-dmg		180	180	ease		-15	-15	balance1		50	50	oskill	Enchant	3	3	oskill	Lightning Speed	3	3	oskill	Frostborne	3	3
+Zod Rune	r33L	18	r33	dmg%		457	457	all-stats		20	20	swing1		40	40	pierce-immunity-damage		7	7	ease		-15	-15	prop-torment		5	5	aura	125	6	6	aura	Crippling Wave	9	9	aura	Fanaticism	9	9

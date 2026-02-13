@@ -1,0 +1,425 @@
+code	*order	*class	*used	*legendary	*Enabled	func1	stat1	set1	val1	func2	stat2	set2	val2	func3	stat3	set3	val3	func4	stat4	set4	val4	func5	stat5	set5	val5	func6	stat6	set6	val6	func7	stat7	set7	val7	*Tooltip	*Parameter	*Min	*Max	*Notes	*eol
+ac	1				1	1	armorclass																											+# Defense		Min #	Max #		0
+ac-miss	2				1	1	armorclass_vs_missile																											+# Defense vs. Missile		Min #	Max #		0
+ac-hth	3				1	1	armorclass_vs_hth																											+# Defense vs. Melee		Min #	Max #		0
+red-dmg	4				1	1	normal_damage_reduction																											Damage Reduced by #		Min #	Max #		0
+red-dmg%	5				1	1	damageresist																											Damage Reduced by #%		Min %	Max %		0
+ac%	6				1	2	item_armor_percent																											+#% Enhanced Defense		Min %	Max %		0
+red-mag	7				1	1	magic_damage_reduction																											Magic Damage Reduced by #		Min #	Max #		0
+str	8				1	1	strength																											+# to Strength		Min #	Max #		0
+dex	9				1	1	dexterity																											+# to Dexterity		Min #	Max #		0
+vit	10				1	1	vitality																											+# to Vitality		Min #	Max #		0
+enr	11				1	1	energy																											+# to Energy		Min #	Max #		0
+mana	12				1	1	maxmana																											+# to Mana		Min #	Max #		0
+mana%	13				1	1	item_maxmana_percent																											Increase Maximum Mana #%		Min %	Max %		0
+hp	14				1	1	maxhp																											+# to Life		Min #	Max #		0
+hp%	15				1	1	item_maxhp_percent																											Increase Maximum Life #%		Min %	Max %		0
+att	16				1	1	tohit																											+# to Attack Rating		Min #	Max #		0
+block	17				1	1	toblock																											#% Increased Chance of Blocking		Min %	Max %		0
+cold-min	18				1	1	coldmindam																											+# to Minimum Cold Damage		Min #	Max #		0
+cold-max	19				1	1	coldmaxdam																											+# to Maximum Cold Damage		Min #	Max #		0
+cold-len	20				1	1	coldlength																													Min #	Max #	# of Frames (25 Frames = 1 Second)	0
+fire-min	21				1	1	firemindam																											+# to Minimum Fire Damage		Min #	Max #		0
+fire-max	22				1	1	firemaxdam																											+# to Maximum Fire Damage		Min #	Max #		0
+ltng-min	23				1	1	lightmindam																											+# to Minimum Lightning Damage		Min #	Max #		0
+ltng-max	24				1	1	lightmaxdam																											+# to Maximum Lightning Damage		Min #	Max #		0
+pois-min	25				1	1	poisonmindam																											+# to Minimum Poison Damage		Min #	Max #		0
+pois-max	26				1	1	poisonmaxdam																											+# to Maximum Poison Damage		Min #	Max #		0
+pois-len	27				1	1	poisonlength																													Min #	Max #	# of Frames (25 Frames = 1 Second)	0
+dmg-min	28				1	5																												+# to Minimum Damage		Min #	Max #		0
+dmg-max	29				1	6																												+# to Maximum Damage		Min #	Max #		0
+dmg%	30				1	7																												+#% Enhanced Damage		Min %	Max %		0
+dmg-to-mana	31				1	1	item_damagetomana																											#% Damage Taken Goes To Mana		Min %	Max %		0
+res-fire	32				1	1	fireresist																											Fire Resist +#%		Min %	Max %		0
+res-fire-max	33				1	1	maxfireresist																											+#% to Maximum Fire Resist		Min %	Max %		0
+res-ltng	34				1	1	lightresist																											Lightning Resist +#%		Min %	Max %		0
+res-ltng-max	35				1	1	maxlightresist																											+#% to Maximum Lightning Resist		Min %	Max %		0
+res-cold	36				1	1	coldresist																											Cold Resist +#%		Min %	Max %		0
+res-cold-max	37				1	1	maxcoldresist																											+#% to Maximum Cold Resist		Min %	Max %		0
+res-mag	38				1	1	magicresist																											Magic Resist +#%		Min %	Max %		0
+res-mag-max	39				1	1	maxmagicresist																											+#% to Maximum Magic Resist		Min %	Max %		0
+res-pois	40				1	1	poisonresist																											Poison Resist +#%		Min %	Max %		0
+res-pois-max	41				1	1	maxpoisonresist																											+#% to Maximum Poison Resist		Min %	Max %		0
+res-all	42				1	1	fireresist			3	lightresist			3	coldresist			3	poisonresist															All Resistances +#		Min %	Max %		0
+res-all-max	43				1	1	maxfireresist			3	maxlightresist			3	maxcoldresist			3	maxpoisonresist																	Min %	Max %	Currently Not Used	0
+abs-fire%	44				1	1	item_absorbfire_percent																											+# Fire Absorb		Min #	Max #		0
+abs-fire	45				1	1	item_absorbfire																											Fire Absorb #%		Min %	Max %		0
+abs-ltng%	46				1	1	item_absorblight_percent																											+# Lightning Absorb		Min #	Max #		0
+abs-ltng	47				1	1	item_absorblight																											Lightning Absorb #%		Min %	Max %		0
+abs-mag%	48				1	1	item_absorbmagic_percent																											+# Magic Absorb		Min #	Max #		0
+abs-mag	49				1	1	item_absorbmagic																											Magic Absorb #%		Min %	Max %		0
+abs-cold%	50				1	1	item_absorbcold_percent																											+# Cold Absorb		Min #	Max #		0
+abs-cold	51				1	1	item_absorbcold																											Cold Absorb #%		Min %	Max %		0
+dur	52				1	1	maxdurability																											Durability: # of #		Min #	Max #		0
+dur%	53				1	13	item_maxdurability_percent																											Increase Maximum Durability #%		Min %	Max %		0
+regen	54				1	1	hpregen																											Replenish Life +#		Min #	Max #		0
+thorns	55				1	1	item_attackertakesdamage																											Attacker Takes Damage of #		Min #	Max #		0
+swing1	56				1	8	item_fasterattackrate																											+#% Increased Attack Speed		Min %	Max %		0
+swing2	57				1	8	item_fasterattackrate																											+#% Increased Attack Speed		Min %	Max %		0
+swing3	58				1	8	item_fasterattackrate																											+#% Increased Attack Speed		Min %	Max %		0
+gold%	59				1	1	item_goldbonus																											#% Extra Gold from Monsters		Min %	Max %		0
+mag%	60				1	1	item_magicbonus																											#% Better Chance of Getting Magic Items		Min %	Max %		0
+knock	61				1	1	item_knockback																											Knockback		1	1		0
+regen-stam	62				1	1	staminarecoverybonus																											Heal Stamina Plus #%		Min %	Max %		0
+regen-mana	63				1	1	manarecoverybonus																											Regenerate Mana #%		Min %	Max %		0
+stam	64				1	1	maxstamina																											+# Maximum Stamina		Min #	Max #		0
+time	65				1	1	item_timeduration																													Min #	Max #	Currently Not Used	0
+manasteal	66				1	1	manadrainmindam																											#% Mana stolen per hit		Min #	Max #		0
+lifesteal	67				1	1	lifedrainmindam																											#% Life stolen per hit		Min #	Max #		0
+ama	68				1	21	item_addclassskills		0																									+# to Amazon Skill Levels		Min #	Max #		0
+pal	69				1	21	item_addclassskills		3																									+# to Paladin Skill Levels		Min #	Max #		0
+nec	70				1	21	item_addclassskills		2																									+# to Necromancer Skill Levels		Min #	Max #		0
+sor	71				1	21	item_addclassskills		1																									+# to Sorceress Skill Levels		Min #	Max #		0
+bar	72				1	21	item_addclassskills		4																									+#  to Barbarian Skill Levels		Min #	Max #		0
+herb	73				1	1	item_doubleherbduration																													Min #	Max #	Currently Not Used	0
+light	74				1	1	item_lightradius																											+# to Light Radius		Min #	Max #		0
+color	75				1	1	item_lightcolor	1																												Min #	Max #	Currently Not Used	0
+ease	76				1	1	item_req_percent																											Requirements -#%		Min %	Max %		0
+move1	77				1	8	item_fastermovevelocity																											+#% Faster Run/Walk		Min %	Max %		0
+move2	78				1	8	item_fastermovevelocity																											+#% Faster Run/Walk		Min %	Max %		0
+move3	79				1	8	item_fastermovevelocity																											+#% Faster Run/Walk		Min %	Max %		0
+balance1	80				1	8	item_fastergethitrate																											+#% Faster Hit Recovery		Min %	Max %		0
+balance2	81				1	8	item_fastergethitrate																											+#% Faster Hit Recovery		Min %	Max %		0
+balance3	82				1	8	item_fastergethitrate																											+#% Faster Hit Recovery		Min %	Max %		0
+block1	83				1	8	item_fasterblockrate																											+#% Faster Block Rate		Min %	Max %		0
+block2	84				1	8	item_fasterblockrate																											+#% Faster Block Rate		Min %	Max %		0
+block3	85				1	8	item_fasterblockrate																											+#% Faster Block Rate		Min %	Max %		0
+cast1	86				1	8	item_fastercastrate																											+#% Faster Cast Rate		Min %	Max %		0
+cast2	87				1	8	item_fastercastrate																											+#% Faster Cast Rate		Min %	Max %		0
+cast3	88				1	8	item_fastercastrate																											+#% Faster Cast Rate		Min %	Max %		0
+res-pois-len	89				1	1	item_poisonlengthresist																											Poison Length Reduced by #%		Min %	Max %		0
+dmg	90				1	1	item_normaldamage																											Damage +#		Min #	Max #		0
+howl	91				1	1	item_howl																											Hit Causes Monster to Flee #%		Min %/128	Max %/128		0
+stupidity	92				1	1	item_stupidity																											Hit Blinds Target +#		Min #	Max #		0
+ignore-ac	93				1	1	item_ignoretargetac																											Ignore Target's Defense		1	1		0
+reduce-ac	94				1	1	item_fractionaltargetac																											-#% Target Defense		Min #	Max #		0
+noheal	95				1	1	item_preventheal																											Prevent Monster Heal		1	1		0
+half-freeze	96				1	1	item_halffreezeduration																											Half Freeze Duration		1	1		0
+att%	97				1	1	item_tohit_percent																											#% Bonus to Attack Rating		Min %	Max %		0
+dmg-ac	98				1	1	item_damagetargetac																											-# to Monster Defense Per Hit		Min #	Max #		0
+dmg-demon	99				1	1	item_demondamage_percent																											+#% Damage to Demons		Min %	Max %		0
+dmg-undead	100				1	1	item_undeaddamage_percent																											+#% Damage to Undead		Min %	Max %		0
+att-demon	101				1	1	item_demon_tohit																											+# to Attack Rating against Demons		Min #	Max #		0
+att-undead	102				1	1	item_undead_tohit																											+# to Attack Rating against Undead		Min #	Max #		0
+throw	103				1	1	item_throwable																													1	1	Currently Not Used	0
+fireskill	104				1	21	item_elemskill		1																									+# to Fire Skills		Min #	Max #		0
+allskills	105				1	1	item_allskills																											+# to All Skills		Min #	Max #		0
+light-thorns	106				1	1	item_attackertakeslightdamage																											Attacker Takes Lightning Damage of #		Min #	Max #		0
+freeze	107				1	1	item_freeze																											Freezes Target +#		Min #	Max #		0
+openwounds	108				1	1	item_openwounds																											#% Chance of Open Wounds		Min %	Max %		0
+crush	109				1	1	item_crushingblow																											#% Chance of Crushing Blow		Min %	Max %		0
+kick	110				1	1	item_kickdamage																											+# Kick Damage		Min %	Max %		0
+mana-kill	111				1	1	item_manaafterkill																											+# to Mana after each Kill		Min #	Max #		0
+demon-heal	112				1	1	item_healafterdemonkill																											+# Life after each Demon Kill		Min #	Max #		0
+bloody	113				1	1	item_extrablood																													Min #	Max #	Visuals Only	0
+deadly	114				1	1	item_deadlystrike																											#% Deadly Strike		Min #	Max #		0
+slow	115				1	1	item_slow																											Slows Target by #%		Min #	Max #		0
+nofreeze	116				1	1	item_cannotbefrozen																											Cannot Be Frozen		1	1		0
+stamdrain	117				1	1	item_staminadrainpct																											#% Slower Stamina Drain		Min #	Max #		0
+reanimate	118				1	24	item_reanimate																											Reanimate As: [Returned]	monstats.txt hcIdx	Min %	Max %		0
+pierce	119				1	1	item_pierce																											Piercing Attack		Min %	Max %		0
+magicarrow	120				1	1	item_magicarrow																											Fires Magic Arrows		Min #	Max #		0
+explosivearrow	121				1	1	item_explosivearrow																											Fires Explosive Arrows or Bolts		Min #	Max #		0
+Expansion	122																																						0
+dru	123				1	21	item_addclassskills		5																									+# to Druid Skill Levels		Min #	Max #		0
+ass	124				1	21	item_addclassskills		6																									+# to Assassin Skill Levels		Min #	Max #		0
+skill	125				1	22	item_singleskill																											+# to [Skill] ([Class] only)	Skill	Min #	Max #		0
+skilltab	126				1	10	item_addskill_tab																											+# to [Class Skill Tab] Skills	Class Skill Tab ID	Min #	Max #	"[Class Skill Tab ID] = (Amazon = 0-2, Sorceress = 3-5, Necromancer = 6-8, Paladin = 9-11, Barbarian = 12-14, Druid = 15-17,  Assassin = 18-20)"	0
+aura	127				1	22	item_aura			24	item_aura_display																							Level # [Skill] Aura When Equipped	Skill	Min #	Max #		0
+att-skill	128				1	11	item_skillonattack																											#% Chance to cast level # [Skill] on attack	Skill	"% Chance (If 0, then default to 5)"	Skill Level		0
+hit-skill	129				1	11	item_skillonhit																											#% Chance to cast level # [Skill] on striking	Skill	"% Chance (If 0, then default to 5)"	Skill Level		0
+gethit-skill	130				1	11	item_skillongethit																											#% Chance to cast level # [Skill] when struck	Skill	"% Chance (If 0, then default to 5)"	Skill Level		0
+gembonus	131																																						0
+regen-dur	132																																						0
+fire-fx	133																																						0
+ltng-fx	134																																						0
+sock	135				1	14	item_numsockets																											Socketed (#)		Min #	Max #		0
+dmg-fire	136				1	15	firemindam			16	firemaxdam																							Adds #-# Fire Damage		Min #	Max #		0
+dmg-ltng	137				1	15	lightmindam			16	lightmaxdam																							Adds #-# Lightning Damage		Min #	Max #		0
+dmg-mag	138				1	15	magicmindam			16	magicmaxdam																							Adds #-# Magic Damage		Min #	Max #		0
+dmg-cold	139				1	15	coldmindam			16	coldmaxdam			17	coldlength																			Adds #-# Cold Damage	Length (Frames)	Min #	Max #	# of Frames (25 Frames = 1 Second)	0
+dmg-pois	140				1	15	poisonmindam			16	poisonmaxdam			17	poisonlength																			Adds #-# Poison Damage Over # Seconds	Length (Frames)	Min #	Max #	# of Frames (25 Frames = 1 Second)	0
+dmg-throw	141				1	15	item_throw_mindamage			16	item_throw_maxdamage																									Min #	Max #	Currently Not Used	0
+dmg-norm	142				1	15	mindamage			16	maxdamage																							Adds #-# Damage		Min #	Max #		0
+ac/lvl	143				1	17	item_armor_perlevel																											+# Defense (Based on Character Level)	ac/lvl (8ths)				0
+ac%/lvl	144				1	17	item_armorpercent_perlevel																											+#% Enhanced Defense (Based on Character Level)	#/8 per Level				0
+hp/lvl	145				1	17	item_hp_perlevel																											+# to Life (Based on Character Level)	#/8 per Level				0
+mana/lvl	146				1	17	item_mana_perlevel																											+# to Mana (Based on Character Level)	#/8 per Level				0
+dmg/lvl	147				1	17	item_maxdamage_perlevel																											+# to Maximum Damage (Based on Character Level)	#/8 per Level				0
+dmg%/lvl	148				1	17	item_maxdamage_percent_perlevel																											+#% Enhanced Maximum Damage (Based on Character Level)	#/8 per Level				0
+str/lvl	149				1	17	item_strength_perlevel																											+# to Strength (Based on Character Level)	#/8 per Level				0
+dex/lvl	150				1	17	item_dexterity_perlevel																											+# to Dexterity (Based on Character Level)	#/8 per Level				0
+enr/lvl	151				1	17	item_energy_perlevel																											+# to Energy (Based on Character Level)	#/8 per Level			Currently Not Used	0
+vit/lvl	152				1	17	item_vitality_perlevel																											+# to Vitality (Based on Character Level)	#/8 per Level				0
+att/lvl	153				1	17	item_tohit_perlevel																											+# to Attack Rating (Based on Character Level)	#/2 per Level				0
+att%/lvl	154				1	17	item_tohitpercent_perlevel																											#% Bonus to Attack Rating (Based on Character Level)	#/2 per Level				0
+dmg-cold/lvl	155				1	17	item_cold_damagemax_perlevel																											+# to Maximum Cold Damage (Based on Character Level)	#/8 per Level			Currently Not Used	0
+dmg-fire/lvl	156				1	17	item_fire_damagemax_perlevel																											+# to Maximum Fire Damage (Based on Character Level)	#/8 per Level			Currently Not Used	0
+dmg-ltng/lvl	157				1	17	item_ltng_damagemax_perlevel																											+# to Maximum Lightning Damage (Based on Character Level)	#/8 per Level			Currently Not Used	0
+dmg-pois/lvl	158				1	17	item_pois_damagemax_perlevel																											+# to Maximum Poison Damage (Based on Character Level)	#/8 per Level			Currently Not Used	0
+res-cold/lvl	159				1	17	item_resist_cold_perlevel																											Cold Resist +#% (Based on Character Level)	#/8 per Level				0
+res-fire/lvl	160				1	17	item_resist_fire_perlevel																											Fire Resist +#% (Based on Character Level)	#/8 per Level				0
+res-ltng/lvl	161				1	17	item_resist_ltng_perlevel																											Lightning Resist +#% (Based on Character Level)	#/8 per Level				0
+res-pois/lvl	162				1	17	item_resist_pois_perlevel																											Poison Resist +#% (Based on Character Level)	#/8 per Level				0
+abs-cold/lvl	163				1	17	item_absorb_cold_perlevel																											Absorbs Cold Damage (Based on Character Level)	#/8 per Level				0
+abs-fire/lvl	164				1	17	item_absorb_fire_perlevel																											Absorbs Fire Damage (Based on Character Level)	#/8 per Level				0
+abs-ltng/lvl	165				1	17	item_absorb_ltng_perlevel																											Absorbs Lightning Damage (Based on Character Level)	#/8 per Level			Currently Not Used	0
+abs-pois/lvl	166				1	17	item_absorb_pois_perlevel																											Absorbs Poison Damage (Based on Character Level)	#/8 per Level			Currently Not Used	0
+thorns/lvl	167				1	17	item_thorns_perlevel																											Attacker Takes Damage of # (Based on Character Level)	#/8 per Level				0
+gold%/lvl	168				1	17	item_find_gold_perlevel																											#% Extra Gold from Monsters (Based on Character Level)	#/8 per Level				0
+mag%/lvl	169				1	17	item_find_magic_perlevel																											#% Better Chance of Getting Magic Items (Based on Character Level)	#/8 per Level				0
+regen-stam/lvl	170				1	17	item_regenstamina_perlevel																											Heal Stamina Plus #% (Based on Character Level)	#/8 per Level				0
+stam/lvl	171				1	17	item_stamina_perlevel																											+# Maximum Stamina (Based on Character Level)	#/8 per Level				0
+dmg-dem/lvl	172				1	17	item_damage_demon_perlevel																											+#% Damage to Demons (Based on Character Level)	#/8 per Level				0
+dmg-und/lvl	173				1	17	item_damage_undead_perlevel																											+#% Damage to Undead (Based on Character Level)	#/8 per Level				0
+att-dem/lvl	174				1	17	item_tohit_demon_perlevel																											+# to Attack Rating against Demons (Based on Character Level)	#/2 per Level				0
+att-und/lvl	175				1	17	item_tohit_undead_perlevel																											+# to Attack Rating against Undead (Based on Character Level)	#/2 per Level				0
+crush/lvl	176				1	17	item_crushingblow_perlevel																											#% Chance of Crushing Blow (Based on Character Level)	#/8 per Level			Currently Not Used	0
+wounds/lvl	177				1	17	item_openwounds_perlevel																											#% Chance of Open Wounds (Based on Character Level)	#/8 per Level			Currently Not Used	0
+kick/lvl	178				1	17	item_kick_damage_perlevel																											+# Kick Damage (Based on Character Level)	#/8 per Level			Currently Not Used	0
+deadly/lvl	179				1	17	item_deadlystrike_perlevel																											#% Deadly Strike (Based on Character Level)	#/8 per Level				0
+gems%/lvl	180																																						0
+rep-dur	181				1	17	item_replenish_durability																											Repairs 1 durability in # seconds	Repair Speed			Repair 1 Durability every 100/[Repair Speed] seconds	0
+rep-quant	182				1	17	item_replenish_quantity																											Replenishes quantity	Repair Speed			Replenish 1 Quantity every 100/[Repair Speed] seconds	0
+stack	183				1	1	item_extra_stack																											Increased Stack Size		Min #	Max #		0
+item%	184																																						0
+dmg-slash	185																																						0
+dmg-slash%	186																																						0
+dmg-crush	187																																						0
+dmg-crush%	188																																						0
+dmg-thrust	189																																						0
+dmg-thrust%	190																																						0
+abs-slash	191																																						0
+abs-crush	192																																						0
+abs-thrust	193																																						0
+abs-slash%	194																																						0
+abs-crush%	195																																						0
+abs-thrust%	196																																						0
+prop-lightningfurymaxprojectiles	197	ama	2	1	1	1	lightningfurymaxprojectiles																											additional projectiles to lightning fury		1	1	use small x	0
+prop-windstrikeconverttoltng	198	ama	2		1	1	windstrikeconverttoltng																											100% of wind strikes weapon damage is converted to ltng, 100% additional aoe damage to wind strike		Min %	Max %	uxe x%	0
+prop-lifeandmanaafterkilltospearmaiden	199	ama	1	1	1	1	lifeandmanaafterkilltospearmaiden																											life after kill to spear maiden		Min %	Max %	use x	0
+prop-enabledoublebenefittomagicquiver	200	ama	2		1	1	enabledoublebenefittomagicquiver																											doubles the base stat benefits of magic quiver		Min #	Max #	boolean	0
+prop-FCRsynergytometeorarrow	201	ama	2	1	1	1	FCRsynergytometeorarrow																											increases damage to meteor arrow proportionate to faster cast rate		Min #	Max #	use 1	0
+prop-coldrrtoshatterjav	202	ama	2	1	1	1	coldrrtoshatterjav																											cold resist reduction to shatter javelin while attacking		Min #	Max #	use x%	0
+prop-clustercdr	203	ama	2	1	1	1	clustercdr																											increased effectiveness of cluster grenades		Min #	Max #	use 1	0
+prop-arrowrainrangedmg	204	ama	2	1	1	1	arrowrainrangedmg																											increased effectiveness of arrow rain		Min #	Max #	use 1	0
+prop-fragmentdmgtoeleleg	205	ama	2	1	1	1	fragmentdmgtoeleleg																											increased damage to fragment skills per elemental legend base level		Min #	Max #	use small x%	0
+prop-skillsynFOGandES	206	ama	1	1	1	1	skillsynFOGandES																											fan of glaives and evil spearit synergy		Min #	Max #	use small x%	0
+prop-skillsynHAandHS	207	ama	2	1	1	1	skillsynHAandHS																											heavens arrow and holy spearit synergy		Min #	Max #	use small x%	0
+prop-FARVSS	208	sor	2	1	1	1	FARVSS																											volcanic strike, snowball, storm strike dmg from attack speed		Min #	Max #	use 1	0
+prop-FTduration	209	sor	2	1	1	1	FTduration																											flame torrent duration and cdr		Min #	Max #	use 1	0
+prop-hptoflamecloak	210	sor	1	1	1	1	hptoflamecloak																											hp while flame cloak is active		Min #	Max #	use small x%	0
+prop-LRduration	211	sor	2	1	1	1	LRduration																											lightning rod state duration		Min #	Max #	in frames	0
+prop-skillsynSCandLO	212	sor	2	1	1	1	skillsynSCandLO																											storm cloak/ lightning orb synergy		Min #	Max #	use low %	0
+prop-winddmgtoeleleg	213	ama	1	1	1	1	winddmgtoeleleg																											wind damage to elemental legend per base level		Min %	Max %	use small x%	0
+prop-multishottoPOA	214	ama	2	1	1	1	multishottoPOA																											multishot dmg to power of arrows		Min %	Max %	use small x%	0
+prop-heavensarrowcd	215	ama	2	1	1	1	heavensarrowcd																											heavens arrow cooldown		Min %	Max %	use 1	0
+prop-chainedwarmth	216	sor	2	1	1	1	chainedwarmth																											base damage to chained skills per warmth		Min %	Max %	use small x%	0
+prop-TPproj	217	sor	2	1	1	1	TPproj																											projectiles to Twin peaks		Min %	Max %	use 1	0
+prop-projtobloodstream	218	nec	2		1	1	projtobloodstream																											propjectiles to bloodstream				use small x	0
+prop-blooddmgtoacidskull	219	nec	2	1	1	1	blooddmgtoacidskull																											blood damage after using acid skull per base level				use small x%	0
+prop-dblharbinger	220	nec	2	11	1	1	dblharbinger																											doubles effects of harbinger				use 1	0
+prop-bloodnovacast	221	nec	2	1	1	1	bloodnovacast																											scales nova damage and size on FCR				use 1	0
+prop-hellknifemasterysyn	222	nec	2	1	1	1	hellknifemasterysyn																											increased hells knife damage per knife mastery base level				use small x%	0
+prop-gdproj	223	nec	2	1	1	1	gdproj																											+1 proj to ghostly dagger				use 1	0
+prop-necromagedr	224	nec	2	1	1	1	necromagedr																											doubles damage reduction from necromage				use 1	0
+prop-bbdmg	225	nec	2	1	1	1	bbdmg																											doubles bloodborne max damage				use 1	0
+prop-unholymark	226	nec	2	1	1	1	unholymark																											dmg to unholy per marksman base level				use small X%	0
+prop-foncd	227	nec	2	1	1	1	foncd																											cdr divisor for fan of knives				use 1	0
+prop-agentbuff	228	nec	2	1	1	1	agentbuff																											increased damage to bone spikes per knife mastery base level				use 1	0
+prop-skillsynBSandSC	229	nec	2	1	1	1	skillsynBSandSC																											skillsynergy between spiritc circle and bone storm				use 1	0
+prop-novabrain	230	nec	2	1	1	1	novabrain																											after using brain grenade, gain enhanced damage				use small %	0
+prop-holyswordlight	231	pal	2	1	1	1	holyswordlight																											after using holy sword strike, increase your light radius by half your energy				use 1	0
+prop-bloodgeyserrange	232	nec	2	1	1	1	bloodgeyserrange																											reduces range of blood geysers				use 5 twice	0
+prop-ricfrommark	233	nec	2	1	1	1	ricfrommark																											increase ricochet damage from marksmanship				use small x%	0
+pierce-fire	234				1	1	passive_fire_pierce																											-#% to Enemy Fire Resistance		Min %	Max %		0
+pierce-ltng	235				1	1	passive_ltng_pierce																											-#% to Enemy Lightning Resistance		Min %	Max %		0
+pierce-cold	236				1	1	passive_cold_pierce																											-#% to Enemy Cold Resistance		Min %	Max %		0
+pierce-pois	237				1	1	passive_pois_pierce																											-#% to Enemy Poison Resistance		Min %	Max %		0
+dmg-mon	238																																						0
+dmg%-mon	239																																						0
+att-mon	240																																						0
+att%-mon	241																																						0
+ac-mon	242																																						0
+ac%-mon	243																																						0
+indestruct	244				1	20																												Indestructible		1	1		0
+charged	245				1	19	item_charged_skill																											Level # [Skill] (#/# Charges)	Skill	# of Max Charges	Skill Level		0
+extra-fire	246				1	1	passive_fire_mastery																											+#% to Fire Skill Damage		Min %	Max %		0
+extra-ltng	247				1	1	passive_ltng_mastery																											+#% to Lightning Skill Damage		Min %	Max %		0
+extra-cold	248				1	1	passive_cold_mastery																											+#% to Cold Skill Damage		Min %	Max %		0
+extra-pois	249				1	1	passive_pois_mastery																											+#% to Poison Skill Damage		Min %	Max %		0
+dmg-elem	250				1	15	firemindam			16	firemaxdam			15	lightmindam			16	lightmaxdam			15	coldmindam			16	coldmaxdam			17	coldlength			Adds #-# Fire/Lightning/Cold Damage		Min #	Max #		0
+dmg-elem-min	251				1	1	firemindam			3	lightmindam			3	coldmindam																			+# to Minimum Fire/Lightning/Cold Damage		Min #	Max #	Currently Not Used	0
+dmg-elem-max	252				1	1	firemaxdam			3	lightmaxdam			3	coldmaxdam			17	coldlength															+# to Maximum Fire/Lightning/Cold Damage		Min #	Max #	Currently Not Used	0
+all-stats	253				1	1	strength			3	energy			3	dexterity			3	vitality															+# to all Attributes		Min #	Max #		0
+addxp	254				1	1	item_addexperience																											+#% to Experience Gained		Min %	Max %		0
+heal-kill	255				1	1	item_healafterkill																											+# Life after each Kill		Min #	Max #		0
+cheap	256				1	1	item_reducedprices																											Reduces all Vendor Prices #%		Min %	Max %		0
+rip	257				1	1	item_restinpeace																											Slain Monsters Rest in Peace		1	1		0
+att-mon%	258				1	24	attack_vs_montype																											#% to Attack Rating versus [Monster Type]	monstats.txt MonType	Min #	Max #	Currently Not Used	0
+dmg-mon%	259				1	24	damage_vs_montype																											#% to Damage versus [Monster Type]	monstats.txt MonType	Min #	Max #	Currently Not Used	0
+kill-skill	260				1	11	item_skillonkill																											#% Chance to cast level # [Skill] when you Kill an Enemy	Skill	"% Chance (If 0, then default to 5)"	Skill Level		0
+death-skill	261				1	11	item_skillondeath																											#% Chance to cast level # [Skill] when you Die	Skill	"% Chance (If 0, then default to 5)"	Skill Level		0
+levelup-skill	262				1	11	item_skillonlevelup																											#% Chance to cast level # [Skill] when you Level-Up	Skill	"% Chance (If 0, then default to 5)"	Skill Level		0
+skill-rand	263				1	12	item_singleskill																											+# to [Skill] ([Class] only)	Skill Level	Min Skill ID	Max Skill ID		0
+fade	264				1	17	fade																													Min #	Max #	Visuals Only	0
+levelreq	265				1	1	item_levelreq																											Required Level: #		Min #	Max #		0
+ethereal	266				1	23																												Ethereal		1	1		0
+oskill	267				1	22	item_nonclassskill			22	item_nonclassskill_display																							+# to [Skill]	Skill	Min #	Max #		0
+state	268				1	24	state																												State	1	1	Applies a State on the unit	0
+randclassskill	269				1	36	item_addclassskills		3																									+# to [Class] Skill Levels		Min Class ID	Max Class ID	val1 = # of Skill levels	0
+noconsume	270				1	1	item_noconsume																											+# to not Consume Quantity		Min %	Max %		0
+extra-mag	278				1	1	passive_mag_mastery																											+#% to Magic Skill Damage		Min %	Max %		0
+maxchainhits-volcanicstrike	279	sor	2		1	1	volcanicstrikemaxchainhits																											max chain hits to volcanic strike		Min #	Max #		0
+throwingaxe-damage	280	bar	2		1	1	homingaxespercentincrease																											damage to throwing axes		Min %	Max %		0
+maxchainhits-stormstrike	281	sor	2		1	1	stormstrikemaxchainhits																											max chain hits to storm strike		Min #	Max #		0
+maxchainhits-snowball	282	sor	2		1	1	snowballmaxchainhits																											max chain hits to snowball		Min #	Max #		0
+prop-maxmultiarrow	283	ama	2		1	1	maxarrowstomultishotelement																											max arrows to elemental multishot arrows		Min #	Max #		0
+prop-judgesyn	284	pal	2	1	1	1	judgesyn																											damage synergy to judgement cross from scepter master		Min #	Max #		0
+skilldam-physaxe	285	bar	2	1	1	1	physaxeskilldmg																											physical axe skill damage		Min %	Max %		0
+prop-pvrange	286	ass	2		1	1	pvrange																											range to poison vials		Min #	Max #		0
+additionalprojectiles-cursedhammer	287	pal	2		1	1	maximumcursedhammers																											max projectiles to cursed hammer		Min #	Max #		0
+skillmod-auracooldownelemental	288	pal	2		1	1	auracooldownelemental																											reduced cooldown to offensive fire/cold/lightning paladin auras		1	1		0
+synergybonus-paladinelementalauradamage	289	pal	1	1	1	1	paladinauradamage																											increased damage to elemental paladin auras		Min #	Max #		0
+climandholyswordsynergybonus	290	pal	2		1	1	climandhssdmg																											increased damage to climhazard and holy sword strike		Min #	Max #		0
+enchantFBLSdmgincrease	291	sor	1	1	1	1	enchantfrostborneLSdmg																											increased damage to enchant, frostborne and lightning speed		Min #	Max #		0
+prop-projectilestomacetoss	292	pal	2		1	1	projectilestomacetoss																											increased projectiles to macetoss		Min #	Max #		0
+prop-maxtargetstovolcanicshout	293	bar	2		1	1	volcanicshouttargets																											maxtargets to volcanic shout		Min #	Max #		0
+prop-maxtargetstoelectricalstorm	294	bar	2		1	1	electricalstormtargets																											maxtargets to electrical storm		Min #	Max #		0
+prop-maxhptolongevity	295	pal	2	1	1	1	maxhptolongevity																											max hp to longevity		Min #	Max #		0
+prop-forcewavemaxchainhits	296	bar	2		1	1	forcewavemaxchainhits																											targets to forcewave		Min #	Max #		0
+prop-FCRandAStoenchant	297	sor	2	1	1	1	fcrtoenchant																											faster cast rate and attack speed to Enchant		Min #	Max #		0
+skillmod-fanofglaivecdr	298	ama	2	1	1	1	fanofglaivecdr																											reduced cooldown to fanofglaives		1	1	5 at a time	0
+prop-increasedtargetstoavalanche	299	bar	2		1	1	increasedtargetstoavalanche																											targets to avalanche		Min #	Max #		0
+prop-cdrtosorcauras	300	sor	2		1	1	cdrtosorcauras																											cooldown reduction to sorc auras		Min #	Max #	2 at a time	0
+prop-arrowpower	301	ama	2		1	1	arrowpower																											arrow power		Min #	Max #	5 per additional arrow	0
+prop-swordsplosioncdr	302	bar	1	1	1	1	swordsplosioncdr																											cooldown reduction to swordsplosion		Min #	Max #	use 1	0
+prop-bloodskilldamage	303		2		1	1	bloodmastery																											increase blood skill damage		Min #	Max #		0
+prop-bonespikesmaxtargets	304	nec	2		1	1	bonespikesmaxtargets																											increased targets to bone spikes		Min #	Max #		0
+prop-bleedingheartenergysynergy	305	nec	1	1	1	1	bleedingheartenergysynergy																											enables bleeding heart to get increased damage from energy		1	1	boolean	0
+prop-spiritbarrageincreasedduration	306	nec	2		1	1	spiritbarrageincreasedduration																											increased duration to spirit barrage		Min #	Max #		0
+prop-maximumviperssummoned	307	nec	1		1	1	maximumviperssummoned																											increased number of vipers summoned		Min #	Max #		0
+prop-spiritbarragemulti	308	nec	1	1	1	1	spiritbarragemulti																											increased cast frequency of Spirit Barrage		Min #	Max #		0
+prop-marksmanship	309	nec	1		1	1	marksmanship																											marksmanship		Min #	Max #	%	0
+prop-targetstoteslaarrow	310	ama	2		1	1	targetstoteslaarrow																											targets to tesla arrow		Min #	Max #		0
+prop-teslaarrowrange	311	ama	2		1	1	teslaarrowrange																											range of tesla arrow		Min #	Max #		0
+prop-multishoteventama	312	ama	2	1	1	1	multishoteventama																											amazon multishot missles trigger more item events		Min #	Max #		0
+prop-magrestofade	313	ass	2		1	1	magrestofade																											magic res to fade base level		Min #	Max #	use 1	0
+prop-chainlightningarrowcdr	314	ama	1	1	1	1	chainlightningarrowcdr																											chain lightning arrow cooldown reduced by one half		1	1		0
+prop-spearsynergy	315	ama	2		1	1	spearsynergy																											damage to spear skills		Min #	Max #	%	0
+prop-ltngpiercetolightningspeed	316	sor	2		1	1	ltngpiercetolightningspeed																											ltng RR to lightning speed		Min #	Max #		0
+prop-HSBD	317	pal	2		1	1	HSBD																											enhanced damage to holy shield		1	1	use x%	0
+prop-heavensfurycd	318	pal	2	1	1	1	heavensfurycd																											cooldown reduction to heaven's fury		1	1		0
+prop-attratingtoff	319	sor	2		1	1	attratingtoff																											att rating bonus to frozen fortress while FF is active		1	1	use small x%	0
+prop-coldrrtoff	320	sor	2	1	1	1	coldrrtoff																											cold rr to frozen fortress		1	1	use1	0
+prop-BOTHdoublemfbonus	321	pal	2		1	1	BOTHdoublemfbonus																											doubles magic find bonus to BOTH		1	1	1	0
+prop-teleportcdr	322	sor	1	111	1	1	teleportcdr																											teleport cdr		1	1	1	0
+prop-defensetolongevity	323	pal	2		1	1	defensetolongevity																											defense to longevity per base level		1	1	x%	0
+prop-projectilestoiceshard	324	sor	2		1	1	projectilestoiceshard																											projectiles to ice shard		1	1	1	0
+prop-targetstoevilspearit	325	ama	2		1	1	targetstoevilspearit																											max targets to evil spearit		1	1	max 3	0
+prop-speardamagetopowerofarrows	326	ama	1	1	1	1	speardamagetopowerofarrows																											increased spear damage to power of arrows		1	1	small x %	0
+prop-dmgtofragment	327		1		1	1	dmgtofragment																											dmgtofragment		1	1		0
+prop-dmgtohoming	328		1		1	1	dmgtohoming																											dmgtohoming		1	1		0
+prop-dmgbombardment	329		1		1	1	dmgbombardment																											dmgbombardment		1	1		0
+prop-dmgtochained	330		1		1	1	dmgtochained																											dmgtochained		1	1		0
+prop-dmgtomeleeexplosion	331		1		1	1	dmgtomeleeexplosion																											dmgtomeleeexplosion		1	1		0
+prop-dmgtonova	332		1		1	1	dmgtonova																											dmgtonova		1	1		0
+prop-dmgtomultishot	333		1		1	1	dmgtomultishot																											dmgtomultishot		1	1		0
+prop-dmgtowind	334		1		1	1	dmgtowind																											dmgtowind		1	1		0
+prop-dmgtoearth	335		1		1	1	dmgtoearth																											dmgtoearth		1	1		0
+prop-dmgtoholy	336		1		1	1	dmgtoholy																											dmgtoholy		1	1		0
+prop-dmgtotrap	337		1		1	1	dmgtotrap																											dmgtotrap		1	1		0
+prop-dmgtosummon	338		1		1	1	dmgtosummon																											dmgtosummon		1	1		0
+prop-dmgtototem	339		1		1	1	dmgtototem																											dmgtototem		1	1		0
+prop-doublespearsynergytoflamingspears	340	ama	2	1	1	1	doublespearsynergytoflamingspears																											increases damage bonus from spear synergy to flaming spears		1	1	boolean	0
+prop-dmgtoallelements	341		1	1	1	1	passive_fire_mastery			3	passive_cold_mastery			3	passive_ltng_mastery																			all elemental damage		1	1	boolean	0
+prop-dmgtounholy	342		1		1	1	dmgtounholy																											unholy skill damage		1	1		0
+prop-boneshotcd	343	nec		1	1	1	boneshotcd																											boneshot cooldown		1	1	use 1	0
+prop-judgereduce	344	pal	2	1	1	1	judgereduce																											dmg reduce during judgement cross		1	1	use 1	0
+prop-palinovaadd	345	pal	2	1	1	1	palinovaadd																											paladin aura projectiles		1	1	use 2 for weapon 1 for charm	0
+prop-CHZproj	346	pal	2	1	1	1	CHZproj																											climhazard projectile add		1	1	1	0
+prop-holyfanatic	347	pal	2	1	1	1	holyfanatic																											fanaticism increases holy damage		1	1	use small x%	0
+prop-hammerfire	348	pal	2	1	1	1	hammerfire																											increased damage to fire skills per hammer nova point		1	1	use small x%	0
+prop-holydmgtoWOL	349	pal	2	1	1	1	holydmgtoWOL																											warrior of light grants multishot% = to 1/3rd of light radius		1	1	use1	0
+prop-armortoSS	350	pal	2	1	1	1	armortoSS																											armor to shield split per base level		1	1	use x%	0
+prop-windsdebuff	351	dru	2	1	1	1	windsdebuff																											dmg resist to fridgid winds		1	1	use 15-30%	0
+prop-exptobovine	352	dru	2	1	1	1	exptobovine																											melee explosion to bovine per base level		1	1	use small x%	0
+prop-smashbuff	353	dru	2	1	1	1	smashbuff																											dmg bonus while attacking to shattering and mollten smash		1	1	use 1	0
+prop-coldtotemrate	354	dru	2	1	1	1	coldtotemrate																											dmg frequency of cold totem		1	1	use 3	0
+prop-guardiancd	355	dru	2	1	1	1	guardiancd																											cooldown to guardian skills		1	1	use 1	0
+prop-windtowaveoflight	356	dru	2	1	1	1	windtowaveoflight																											wind skill damage when using wave of light		1	1	use low x %	0
+prop-chibonus	357	dru	2	1	1	1	chibonus																											increased damage bonus while under the effects of chi strike		1	1	use low x %	0
+prop-skillsynSGandRW	358	dru	2	1	1	1	skillsynSGandRW																											skill synergy to sweeping gale and razor winds		1	1	use low x %	0
+prop-moomoobuff	359	dru	2	11	1	1	moomoobuff																											multiplier to moo moo grand		1	1	use1	0
+prop-skillsynSFandSE	360	dru	2	1	1	1	skillsynSFandSE																											skill synergy to stonefist and Splitting Earth		1	1	use low x %	0
+prop-SSduration	361	dru	2	1	1	1	SSduration																											duration to stone spears		1	1	use 1	0
+prop-maxdbloodhoove	362	dru	2	1	1	1	maxdbloodhoove																											weapon damage increase while using blood hooves		1	1	use small x%	0
+prop-avafrag	363	bar	2	11	1	1	avafrag																											avalanche synergy from fragment skills		1	1	use1	0
+prop-axestormmaster	364	bar	1	1	1	1	axestormmaster																											axe storm synergy from Axe Master		1	1	use1	0
+prop-rockstr	365	bar	2	1	1	1	rockstr																											rocksplit str synergy		1	1	use1	0
+prop-moesyn	366	bar	2	1	1	1	moesyn																											enhanced damage per point in zantetsuken and blade mastery		1	1	use small x %	0
+prop-zansyn	367	bar	2	1	1	1	zansyn																											zantetsuken synergy from blade mastery		1	1	use small x %	0
+prop-coldrrtoFB	368	bar	2	1	1	1	coldrrtoFB																											cold rr to frostborne		1	1	use 1	0
+prop-eswind	369	bar	2	1	1	1	eswind																											electrical strom gains synergy from wind damage		1	1	use 1	0
+prop-bores	370	bar	2	1	1	1	bores																											battle orders max res		1	1	use small x%	0
+prop-dblintimidate	371	bar	2	1	1	1	dblintimidate																											doubles intimidations rr		1	1	use 1	0
+prop-hfproj	372	bar	2		1	1	hfproj																											additional projectiles to hellfire		1	1	use small x %	0
+prop-hfsyn	373	bar	2	1	1	1	hfsyn																											arcane warrior synergy to hellfire		1	1	use small x %	0
+prop-awpierce	374	bar	2	1	1	1	awpierce																											fire pierce while arcane warrior is active		1	1	use 1 	0
+prop-Bsfromsword	375	bar	2	1	1	1	Bsfromsword																											baal sword dmg synergy from swordsplosion		1	1	use small x%	0
+prop-tmsyn	376	bar	2	1	1	1	tmsyn																											thunderous mace syn from mace mastery		1	1	use small x%	0
+prop-skillsynVSandEP	377	bar	2	1	1	1	skillsynVSandEP																											skill synergy volcanic shout and explosive potion		1	1	use small x%	0
+prop-moeexp	378	bar	2	1	1	1	moeexp																											melee explosion damage to master of earth		1	1	use small x%	0
+prop-pvfrag	379	ass	2	1	1	1	pvfrag																											poison vial damage bonus from fargment		1	1	use small x%	0
+prop-dextocow	380	dru		111	1	1	dextocow																											1/4 of vitality adds to dex		1	1	use small x%	0
+prop-stormtotemrate	381	dru	2	1	1	1	stormtotemrate																											increased cast frequency to storm totem		1	1	use 3	0
+prop-burstsyngow	382	dru	2	1	1	1	burstsyngow																											dmg synergy to bovine burst from guardian of wind		1	1	use small x%	0
+prop-wolnovasyn	383	dru	2	1	1	1	wolnovasyn																											extra dmg to wave of light based on dmgtonova		1	1	use small x%	0
+prop-earthdamagetosweepinggale	384	dru	2		1	1	earthdamagetosweepinggale																											dmg to earth based on base skill level of sweeping gale		1	1	use small x%	0
+prop-ftpierce	385	dru	2	1	1	1	ftpierce																											fire pierce to fire totem		1	1	use 1	0
+prop-strnat	386	dru	2	1	1	1	strnat																											enhanced damage to molten smash and shattering smash of nature per base level		1	1	use x%	0
+prop-polereduce	387	dru	2	1	1	1	polereduce																											magic/damage reduction to polearm mastery		1	1	use x%	0
+prop-cripplerr	388	pal	2	1	1	1	cripplerr																											phys rr to crippling wave		1	1	use 1	0
+prop-ppcorrode	389	ass	2	11	1	1	ppcorrode																											pois rr to corrosion		1	1	use 1	0
+prop-skillsyncombostrike	390	ass	2	1	1	1	skillsyncombostrike																											skill synergy to dispersion strike from combination strike		1	1	use  small x%	0
+prop-combstrdur	391	ass	2	1	1	1	combstrdur																											doubles the duration to combo strike charges		1	1	use 1	0
+prop-sludgewaveproj	392	ass	2	1	1	1	sludgewaveproj																											projectiles to sludge wave		1	1	use 1	0
+prop-smtrapbonus	393	ass	2	1	1	1	smtrapbonus																											shuriken spiral increased damage based on trap master		1	1	use small x%	0
+prop-smmodifier	394	ass	2	1	1	1	smmodifier																											energy to shadow mage		1	1	use 5. no charm	0
+prop-dcdblcombo	395	ass	2	1	1	1	dcdblcombo																											detonating claw combo bonus		1	1	use 1	0
+prop-fcdblcombo	396	ass	2	1	1	1	fcdblcombo																											fridgid claw combo bonus		1	1	use 1	0
+prop-tcdblcombo	397	ass	2	1	1	1	tcdblcombo																											tesla claw combo bonus		1	1	use 1	0
+prop-chiburstbuff	398	ass	2	11	1	1	chiburstbuff																											increased dr and rr to chi burst		1	1	use 1	0
+prop-skillsynPHandFB	399	ass	2	1	1	1	skillsynPHandFB																											skill synergy to poison hadoken and frost bomb		1	1	use small x %	0
+prop-skillsynTCandDS	400	ass	2	1	1	1	skillsynTCandDS																											skill synergy to tectonic claw and death spikes		1	1	use small x %	0
+prop-tgmod	401	ass	2	1	1	1	tgmod																											increased fall rate and radius to toxic gases		1	1	use 1	0
+prop-venomcombo	402	ass	2	1	1	1	venomcombo																											damage synergy from combo points to venom		1	1	use 1	0
+prop-skillsynSCandSS	403	ass	1	1	1	1	skillsynSCandSS																											damage synergy from shuriken stars and shadow claw		1	1	use 1	0
+prop-Torment	404		1	1	1	1	Torment																											torment		1	1		0
+prop-Tormentdesc	405		1	1	1	1	Tormentdesc																											tormentdescription		1	1		0
+vit%	406				1	1	vitpercent																											vitpercent		1	1		0
+enr%	407				1	1	enrpercent																											enrpercent		1	1		0
+dex%	408				1	1	dexpercent																											enrpercent		1	1		0
+str%	409				1	1	strpercent																											strpercent		1	1		0
+dr%	410				1	1	normaldrpercent																											damage reduction percent		1	1		0
+mdr%	411				1	1	magicdrpercent																											 magic damage reduction percent		1	1		0
+prop-mbvel	412	ass	2		1	1	mbvel																											mind blast velocity %		1	1	use x%	0
+prop-upgrade	413				1	1	upgradeitem																											item upgrade cap		1	1	use 1	0
+prop-potential	414				1	1	potential																											potential		1	1	use 1	0
+allstat%	415				1	1	vitpercent			3	enrpercent			3	dexpercent			3	strpercent															all stat%		1	1		0
+cast-skill	416				1	11	unused203																											#% Chance to cast level # [Skill] on striking	Skill	"% Chance (If 0, then default to 5)"	Skill Level		0
+leg-att-skill	417				1	11	legendary attack skill																											#% Chance to cast level # [Skill] on striking	Skill	"% Chance (If 0, then default to 5)"	Skill Level		0
+prop-hammernovahak	418	pal	2		1	1	hammernovahak																											heal after kill to hammer nova		1	1	use x	0
+prop-dmgpercenttostonefist	419	dru	2		1	1	dmgpercenttostonefist																											enhanced weapon damage while attacking with stonefist per stonefist base level		1	1	use x%	0
+prop-dmgpercenttobovineburst	420	dru	2		1	1	dmgpercenttobovineburst																											enhanced weapon damage while attacking with bovine burst per bovine burst base level		1	1	use x%	0
+prop-drpercenttommm	421	dru	2		1	1	drpercenttommm																											increased damage reduction percent after using  moo moo magic		1	1	use 1	0
+bothdr	422				1	1	normal_damage_reduction			1	magic_damage_reduction																							both damage reduction		Min #	Max #		0
+aura_hidden	423				1	22	item_aura																											Level # [Skill] Aura When Equipped	Skill	Min #	Max #		0
+prop-healthpotioneffectiveness	424				1	1	healthpotioneffectiveness																											health potion base amount doubled		1	1		0
+prop-hpregen%	425				1	1	hpregen%																											percent increase to hp regen		1	1		0
+prop-combopoints	426				1	1	combopoints																											+ combo points		Min #	Max #		0
+prop-corrupted	427				1	1	corrupted																													1	1		0
+mythicaldesc	428				1	24	item_mythicaldesc			3	maxhpflag																							use monstats index to determine string					0
+pierce-immunity-mag	429				1	1	item_pierce_magic_immunity																											Monster Magic Immunity is Sundered		Min %	Max %		0
+charmweight_prop					1	1	charmweight																											Charm Weight: #		Min #	Max #		0
+oskill_hidden					1	22	item_nonclassskill																											+# to [Skill]		Min #	Max #		0

@@ -1,0 +1,1057 @@
+Name	version	*order	spawnable	rare	level	maxlevel	levelreq	classspecific	class	classlevelreq	frequency	group	mod1code	mod1param	mod1min	mod1max	mod2code	mod2param	mod2min	mod2max	mod3code	mod3param	mod3min	mod3max	transformcolor	itype1	itype2	itype3	itype4	itype5	itype6	itype7	etype1	etype2	etype3	etype4	etype5	multiply	add
+		1																																				0	0
+Sturdy	100	2	1	1	1		1				5	101	res-all		2	5	enr		2	4						scha	mcha	jewl										0	0
+Strong	100	3	1	1	1		1				5	101	move2		3	5	dex		2	4						scha	mcha	jewl										0	0
+Blessed	100	4	1	1	1		1				5	101	block1		2	2	str		2	4						scha	mcha	jewl										0	0
+Blessed	100	5	1	1	1		1				5	101	dmg-mag		10	60	dmg-max		5	6						weap	glov	ring	amul	misl	belt	lcha						0	0
+Saintly	100	6	1	1	1		1				5	101	dmg-ltng		10	60										weap	glov	ring	amul	misl	belt	lcha						0	0
+Holy	100	7	1	1	1		1				5	101	hp		15	24	mana		10	12						scha	mcha	jewl										0	0
+Devious	100	8	1	1	1		1				5	103	dmg-cold		10	60										weap	glov	ring	amul	misl	belt	lcha						0	0
+Fortified	100	9	1	1	1		1				5	103	res-all		2	5	enr		2	4						scha	mcha	jewl										0	0
+		10																																				0	0
+		11																																				0	0
+		12																																				0	0
+Jagged	100	13	1	1	1		1				5	106	move2		3	5	dex		2	4						scha	mcha	jewl										0	0
+Deadly	100	14	1	1	1		1				5	106	block1		2	2	str		2	4						scha	mcha	jewl										0	0
+Vicious	100	15	1	1	1		1				5	106	all-stats		3	4	dmg-max		5	6						weap	glov	ring	amul	misl	belt	lcha						0	0
+Brutal	100	16	1	1	1		1				5	106	dmg-fire		10	60										weap	glov	ring	amul	misl	belt	lcha						0	0
+Massive	100	17	1	1	1		1				5	106	dmg-min		8	10	dmg-max		11	11						weap	glov	ring	amul	misl	belt	lcha						0	0
+Savage	100	18	1	1	1		1				5	106	dmg%		50	72										weap	glov	ring	amul	misl	belt	lcha						0	0
+Merciless	100	19	1	1	1		1				5	106	dex		7	9	dmg-max		5	6						weap	glov	ring	amul	misl	belt	lcha						0	0
+Vulpine	100	20	1	1	1		1				5	109	vit		7	9	dmg-max		5	6						weap	glov	ring	amul	misl	belt	lcha						0	0
+		21																																				0	0
+		22																																				0	0
+		23																																				0	0
+		24																																				0	0
+Tireless	100	25	1	1	1		1				5	109	regen		100	180										weap	glov	ring	amul	misl	belt	lcha						0	0
+Rugged	100	26	1	1	7		10				5	110	lifesteal		1	1										weap	glov	ring	amul	misl	belt	lcha						0	0
+Bronze	100	27	1	1	1		1				5	111	hp		5	10										weap	glov	ring	amul	misl	belt	lcha						0	0
+Iron	100	28	1	1	7		10				5	111	regen-mana		6	10										weap	glov	ring	amul	misl	belt	lcha						0	0
+Steel	100	29	1	1	1		6				5	111	att		50	96										weap	glov	ring	amul	misl	belt	lcha						0	0
+Silver	100	30	1	1	1		1				5	111	prop-dmgtounholy		10	14										weap	glov	ring	amul	misl	belt	lcha						0	0
+		31																																				0	0
+Gold	100	32	1	1	6		10				5	111	att%		10	24										weap	glov	ring	amul	misl	belt	lcha						0	0
+Platinum	100	33	1	1	6		10				5	111	mana-kill		5	12										weap	glov	ring	amul	misl	belt	lcha						0	0
+Meteoric	100	34	1	1	6		10				5	111	heal-kill		8	18										weap	glov	ring	amul	misl	belt	lcha						0	0
+Sharp	100	35	1	1	7		10				5	112	hp		15	24	mana		10	12						scha	mcha	jewl				jewl						0	0
+Fine	100	36	1	1	6		10				5	112	prop-dmgtounholy		10	14										weap	glov	ring	amul	misl	belt	lcha						0	0
+Warrior's	100	37	1	1	7		10				5	112	mag%		5	7	gold%		3	4						scha	mcha	jewl				jewl						0	0
+Soldier's	100	38	1	1	7		10				5	112	res-all		2	5	enr		2	4						scha	mcha	jewl				jewl						0	0
+Knight's	100	39	1	1	6		10				5	112	mana		5	10										weap	glov	ring	amul	misl	belt	lcha						0	0
+Lord's	100	40	1	1	6		10				5	112	hp		5	10										weap	glov	ring	amul	misl	belt	lcha						0	0
+King's	100	41	1	1	7		10				5	112	block1		2	2	str		2	4						scha	mcha	jewl				jewl						0	0
+Howling	100	42	1	1	1		1				5	113	str		5	11										weap	glov	ring	amul	misl	belt	lcha						0	0
+Fortuitous	100	43	1	1	7		10				5	114	all-stats		3	4										weap	glov	ring	amul	misl	belt	lcha						0	0
+		44																																				0	0
+		45																																				0	0
+		46																																				0	0
+		47																																				0	0
+		48																																				0	0
+Glimmering	100	49	1	1	1		1				5	116	red-dmg%		1	1										armo	shld	amul	ring	lcha	jewl							0	0
+Glowing	100	50	1	1	9		10				5	116	res-cold		9	16										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+		51																																				0	0
+		52																																				0	0
+Lizard's	0	53	1	1	4		10				5	118	enr		5	11										weap	glov	ring	amul	misl	belt	lcha						0	0
+		54																																				0	0
+Snake's	100	55	1	1	9		10				5	118	extra-cold		2	4	dmg-cold		10	20						scha	mcha	jewl				jewl						0	0
+Serpent's	100	56	1	1	21		10				5	118	res-pois-len		5	10	hp		60	100					dgld	ring	amul											0	0
+Serpent's	100	57	1	1	55		25				5	118	oskill	Mind Blast	1	2	all-stats		4	4																		0	0
+Drake's	100	58	1	1	50		18				5	118	res-mag		3	6										armo	ring	amul	glov	lcha								0	0
+Dragon's	100	59	1	1	36		12				5	118	ac%		14	19										armo	shld	amul	ring	lcha	jewl							0	0
+Dragon's	100	60	1	1	70		60				5	118	hp		150	200									cblu	weap	ring	amul	glov									0	0
+Wyrm's	100	61	1	1	45		18				5	118	res-mag		2	4										mcha	boot	ring	amul	tors								0	0
+		62																																				0	0
+		63																																				0	0
+Prismatic	100	64	1	1	15		10				5	120	cast1		9	16										weap	glov	ring	amul	misl	belt	lcha						0	0
+Prismatic	100	65	1	1	70		60				5	120	str%		2	3										mcha	jewl	misl										0	0
+Azure	100	66	1	1	70		60				5	121	res-fire		10	15										mcha	jewl	misl										0	0
+Lapis	100	67	1	1	18		10				5	121	extra-fire		3	5	dmg-fire		13	26						scha	mcha	jewl				jewl						0	0
+Lapis	100	68	1	1	52		25				5	121	mag%		7	10										mcha												0	0
+Cobalt	100	69	1		27		10				5	121	res-cold		21	36										armo	shld	amul	ring	lcha	jewl							0	0
+Cobalt	100	70	1	1	70		60				5	121	dmg-max		25	30										mcha	jewl	misl										0	0
+		71																																				0	0
+Sapphire	100	72	1	1	37		12				5	121	vit		12	25										weap	glov	ring	amul	misl	belt	lcha						0	0
+		73																																				0	0
+		74																																				0	0
+Crimson	100	75	1	1	7		10				5	122	mag%		1	1										weap	glov	ring	amul	misl	belt	lcha						0	0
+Burgundy	100	76	1	1	18		10				5	122	extra-ltng		3	5	dmg-ltng		13	26						scha	mcha	jewl				jewl						0	0
+Burgundy	100	77	1	1	1		1				5	122	res-mag		2	4										armo	shld	amul	ring	lcha	jewl							0	0
+Garnet	100	78	1		27		10				5	122	res-fire		21	36										armo	shld	amul	ring	lcha	jewl							0	0
+Garnet	100	79	1	1	70		60				5	122	dmg-min		50	60										weap	ring	amul	glov									0	0
+		80																																				0	0
+Ruby	100	81	1	1	37		12				5	122	dmg-mag		23	138										weap	glov	ring	amul	misl	belt	lcha						0	0
+		82																																				0	0
+		83																																				0	0
+Ocher	100	84	1	1	7		10				5	123	manasteal		1	1										weap	glov	ring	amul	misl	belt	lcha						0	0
+Tangerine	100	85	1	1	18		10				5	123	regen-mana		8	12										scha	mcha	jewl				jewl						0	0
+Tangerine	100	86	1	1	52		25				5	123	cast2		4	5									dgld	mcha												0	0
+Coral	100	87	1		27		10				5	123	regen		225	406										armo	shld	amul	ring	lcha	jewl	misl						0	0
+Coral	100	88	1	1	70		60				5	123	enr		30	40										weap	ring	amul	glov									0	0
+		89																																				0	0
+Amber	100	90	1	1	37		12				5	123	dex		12	25										weap	glov	ring	amul	misl	belt	lcha						0	0
+		91																																				0	0
+		92																																				0	0
+Beryl	100	93	1	1	7		10				5	124	move2		3	5	dex		2	4						scha	mcha	jewl				jewl						0	0
+Jade	100	94	1	1	18		10				5	124	extra-pois		3	5										scha	mcha	jewl				jewl						0	0
+Jade	100	95	1	1	52		25				5	124	dmg-min		11	14										mcha												0	0
+Viridian	100	96	1		27		10				5	124	red-dmg		12	25										armo	shld	amul	ring	lcha	jewl							0	0
+Viridian	100	97	1	1	70		60				5	129	dmg-ac		15	20									dred	weap	ring	amul	glov									0	0
+		98																																				0	0
+Emerald	100	99	1	1	37		12				5	124	hp		12	22										weap	glov	ring	amul	misl	belt	lcha						0	0
+		100																																				0	0
+Fletcher's	100	101	1	1	45		14				5	125	res-ltng		20	30										mcha	boot	ring	amul	tors								0	0
+Archer's	100	102	1	1	60		40				5	125	hp		135	180									cgrn	weap	ring	amul	glov									0	0
+Archer's	100	103	1	1	70		60				5	125	hp		150	200									cgrn	weap	ring	amul	glov									0	0
+Monk's	100	104	1	1	45		14				5	126	red-mag		12	25										armo	shld	amul	ring	lcha	jewl							0	0
+Priest's	100	105	1	1	60		40				5	126	res-cold		9	14									cgrn	armo	ring	amul	glov									0	0
+Priest's	100	106	1	1	70		60				5	126	move1		20	25									cgrn	weap	ring	amul	glov									0	0
+Summoner's	100	107	1	1	45		14				5	127	red-dmg%		1	2										mcha	boot	ring	amul	tors								0	0
+Necromancer's	100	108	1	1	60		40				5	127	cast2		8	9									dgld	weap	ring	amul	glov									0	0
+Necromancer's	100	109	1	1	70		60				5	127	mana-kill		50	60									cgrn	weap	ring	amul	glov									0	0
+Angel's	100	110	1	1	45		14				5	128	hp		80	144										mcha	boot	ring	amul	tors								0	0
+Arch-Angel's	100	111	1	1	60		40				5	128	str		9	14									cgrn	weap	ring	amul	glov									0	0
+Arch-Angel's	100	112	1	1	70		60				5	128	dmg-fire		400	500									cgrn	weap	ring	amul	glov									0	0
+Slayer's	100	113	1	1	45		18				5	129	move1		9	14										armo	shld	amul	ring	lcha	jewl							0	0
+Berserker's	100	114	1	1	60		40				5	129	mana		270	360									cgrn	weap	ring	amul	glov									0	0
+Berserker's	100	115	1	1	70		60				5	129	dmg-min		25	30										mcha	jewl	misl										0	0
+		116																																				0	0
+		117																																				0	0
+Triumphant	100	118	1	1	4		10				5	132	dmg%		50	72										weap	glov	ring	amul	misl	belt	lcha						0	0
+Expansion		119																																					
+Stout	100	120	1	1	1		1				5	101	all-stats		3	4										weap	glov	ring	amul	misl	belt	lcha						0	0
+Stout	100	121	1	1	30		10				5	101	res-all		4	10	enr		4	8						scha	mcha	jewl										0	0
+Stout	100	122	1	1	18		10				5	101	block1		3	4	str		3	5						scha	mcha	jewl				jewl						0	0
+Burly	100	123	1		25		10				5	101	move2		8	11	dex		5	9						scha	mcha	jewl										0	0
+Burly	100	124	1	1	70		60				5	129	res-cold		10	15										mcha	jewl	misl										0	0
+Burly	100	125	1	1	60		40				5	101	skilltab	2	1	2										weap	ring	amul	glov									0	0
+Stalwart	100	126	1	1	60		40				5	101	dmg-fire		360	450										weap	ring	amul	glov									0	0
+Stalwart	100	127	1	1	70		60				5	101	cast2		9	10										mcha	jewl	misl										0	0
+Stalwart	100	128	1	1	60		40				5	101	dex		17	25										armo	ring	amul	jewl									0	0
+Stout	100	129	1	1	30		10				5	101	move2		6	10	dex		4	8						scha	mcha	jewl										0	0
+Stout	100	130	1	1	21		10				5	101	dmg-fire		1	46			8	15						lcha	staf	boot	jewl	miss	armo	weap						0	0
+Stout	100	131	1	1	30		10				5	101	mag%		10	14	gold%		6	8						scha	mcha	jewl				weap						0	0
+Burly	100	132	1	1	40		18				5	101	mag%		12	17	gold%		7	9						scha	mcha	jewl										0	0
+Burly	100	133	1	1	1		1				5	101	lifesteal		1	1										weap	glov	ring	amul	misl	belt	lcha						0	0
+Stalwart	100	134	1	1	50		14				5	101	enr		27	43										weap	ring	amul	glov									0	0
+Stalwart	100	135	1	1	60		40				5	101	swing2		15	15	att		400	500						weap												0	0
+Stout	100	136	1	1	1		1				5	101	manasteal		1	1										weap	glov	ring	amul	misl	belt	lcha						0	0
+Stout	100	137	1	1	31		12				5	101	extra-cold		4	7	dmg-cold		20	40						scha	mcha	jewl				weap						0	0
+Burly	100	138	1	1	54		25				5	101	lifesteal		1	4										mcha												0	0
+Stalwart	100	139	1	1	70		60				5	101	dmg-undead		300	400										weap	ring	amul	glov									0	0
+Blanched	100	140	1	1	1		1				5	101	regen-mana		6	10										weap	glov	ring	amul	misl	belt	lcha						0	0
+Eburin	100	141	1		24		10				5	101	mana-kill		12	28										weap	glov	ring	amul	misl	belt	lcha						0	0
+Bone	100	142	1	1	48		14				5	101	dmg-ltng		100	360										mcha	glov	ring	amul	weap								0	0
+Ivory	100	143	1	1	50		14				5	101	dmg%		122	292										weap	ring	amul	glov	lcha								0	0
+Sturdy	100	144	1	1	1		1				5	101	mag%		1	1										weap	glov	ring	amul	misl	belt	lcha						0	0
+Sturdy	100	145	1	1	6		10				5	101	prop-dmgtoholy		10	14										weap	glov	ring	amul	misl	belt	lcha						0	0
+Strong	100	146	1	1	13		10				5	101	dex		7	14										weap	glov	ring	amul	misl	belt	lcha						0	0
+Glorious	100	147	1	1	28		10				5	101	att		100	192										weap	glov	ring	amul	misl	belt	lcha						0	0
+Blessed	100	148	1	1	37		12				5	101	dmg%		115	166										weap	glov	ring	amul	misl	belt	lcha						0	0
+Saintly	100	149	1	1	50		14				5	101	dmg-mag		324	486										weap	ring	amul	glov	lcha								0	0
+Holy	100	150	1	1	50		18				5	101	dmg-ltng		324	486										weap	ring	amul	glov	lcha								0	0
+Godly	100	151	1	1	50		18				5	101	res-ltng		8	16									lgld	armo	ring	amul	glov	lcha								0	0
+Devious	100	152	1	1	10		10				5	102	ac		30	48										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Blank	100	153	1	1	21		10				5	102	mana		5	24	red-dmg		1	10	mag%		1	5		lcha	staf	boot	jewl	miss	armo	weap						0	0
+Null	100	154	1	1	31		12				5	102	res-fire		18	31										armo	shld	amul	ring	lcha	jewl	weap						0	0
+Antimagic	100	155	1	1	42		14				5	102	extra-cold		5	8	dmg-cold		23	46						scha	mcha	jewl				weap						0	0
+Red	100	156	1	1	6		10				5	103	regen		100	180										weap	glov	ring	amul	misl	belt	lcha						0	0
+Red	100	157	1		24		10				5	103	regen		225	406										weap	glov	ring	amul	misl	belt	lcha						0	0
+Sanguinary	100	158	1	1	42		14				5	103	extra-pois		5	8										scha	mcha	jewl				weap						0	0
+Sanguinary	100	159	1	1	60		40				5	103	mag%		5	9										weap	ring	amul	glov									0	0
+Bloody	100	160	1	1	70		60				5	103	swing2		9	10										mcha	jewl	misl										0	0
+Red	100	161	1	1	16		10				5	103	all-stats		4	5										weap	glov	ring	amul	misl	belt	lcha						0	0
+Sanguinary	100	162	1	1	49		14				5	103	dmg-max		10	14										mcha	glov	ring	amul	weap								0	0
+Bloody	100	163	1	1	70		60				5	103	dmg-mag		400	500									dred	weap	ring	amul	glov									0	0
+Red	100	164	1	1	36		12				5	103	att		115	221										weap	glov	ring	amul	misl	belt	lcha						0	0
+Sanguinary	100	165	1	1	60		40				5	103	ac		138	289									dred	armo	ring	amul	jewl									0	0
+Bloody	100	166	1	1	70		60				5	103	nec		1	1									dred	weap	ring	amul	glov									0	0
+Scarlet	100	167	1	1	70		60				5	103	res-mag		3	5										mcha	jewl	misl										0	0
+Crimson	100	168	1	1	50		14				5	103	att		40	60									dred	weap	ring	amul	glov									0	0
+Jagged	100	169	1	1	4		10				5	104	dmg-min		8	10	dmg-max		11	11						weap	glov	ring	amul	misl	belt	lcha						0	0
+Jagged	100	170	1	1	15		10				5	104	prop-dmgtoholy		13	19										weap	glov	ring	amul	misl	belt	lcha						0	0
+Jagged	100	171	1		25		10				5	104	regen-mana		14	22										weap	glov	ring	amul	misl	belt	lcha						0	0
+Forked	100	172	1	1	37		12				5	104	dmg-cold		23	138										weap	glov	ring	amul	misl	belt	lcha						0	0
+Forked	100	173	1	1	48		18				5	104	dmg-mag		100	360										mcha	glov	ring	amul	weap								0	0
+Serrated	100	174	1	1	50		18				5	104	dmg-max		45	65										weap	ring	amul	glov									0	0
+Serrated	100	175	1	1	70		60				5	104	str		30	40										weap	ring	amul	glov									0	0
+Jagged	100	176	1	1	15		10				5	104	heal-kill		10	24										weap	glov	ring	amul	misl	belt	lcha						0	0
+Jagged	100	177	1	1	30		10				5	104	hp		30	48	mana		20	24						scha	mcha	jewl										0	0
+Forked	100	178	1	1	45		14				5	104	res-fire		20	30										mcha	boot	ring	amul	tors								0	0
+Forked	100	179	1	1	60		40				5	104	dmg-fire		45	270									blac	weap	ring	amul	glov									0	0
+Serrated	100	180	1	1	70		60				5	104	sor		1	1									blac	weap	ring	amul	glov									0	0
+Jagged	100	181	1	1	34		12				5	104	balance1		8	14										armo	shld	amul	ring	lcha	jewl							0	0
+Forked	100	182	1	1	50		14				5	104	dex		27	43									blac	weap	ring	amul	glov									0	0
+Serrated	100	183	1	1	70		60				5	104	pal		1	1									blac	weap	ring	amul	glov									0	0
+Carbuncle	100	184	1	1	18		10				5	104	light		7	10										scha	mcha	jewl				jewl						0	0
+Carmine	100	185	1	1	70		60				5	104	att		44	55									dred	weap	ring	amul	glov									0	0
+Vermillion	100	186	1	1	70		60				5	104	dru		1	1									dred	weap	ring	amul	glov									0	0
+Jagged	100	187	1	1	1		1				5	105	gold%		7	11										weap	glov	ring	amul	misl	belt	lcha						0	0
+Deadly	100	188	1	1	7		10				5	105	regen-mana		6	10										scha	mcha	jewl				jewl						0	0
+Vicious	100	189	1	1	12		10				5	105	red-mag		5	11										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Brutal	100	190	1		21		10				5	105	dmg-ltng		23	136										weap	glov	ring	amul	misl	belt	lcha						0	0
+Massive	100	191	1	1	30		10				5	105	block1		4	5	str		4	8						scha	mcha	jewl										0	0
+Savage	100	192	1	1	39		12				5	105	regen-mana		14	22										weap	glov	ring	amul	misl	belt	lcha						0	0
+Merciless	100	193	1	1	48		14				5	105	att		300	480										mcha	glov	ring	amul	weap								0	0
+Ferocious	100	194	1	1	60		40				5	105	red-dmg		22	48									blac	armo	ring	amul	jewl									0	0
+Cruel	100	195	1	1	70		60				5	105	dmg-max		50	60									blac	weap	ring	amul	glov									0	0
+Cinnabar	100	196	1	1	1		1				5	105	regen		100	180										weap	glov	ring	amul	misl	belt	lcha						0	0
+Rusty	100	197	1	1	19		10				5	105	balance1		5	10										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Realgar	100	198	1	1	60		40				5	105	res-cold		28	34									dred	armo	ring	amul	jewl									0	0
+Ruby	100	199	1	1	70		60				5	105	mana		300	400									dred	weap	ring	amul	glov									0	0
+Vulpine	100	200	1	1	13		10				5	107	str		7	14										weap	glov	ring	amul	misl	belt	lcha						0	0
+Dun	100	201	1	1	10		10				5	107	red-dmg		5	11										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Tireless	100	202	1	1	9		10				5	108	res-ltng		9	16										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Tireless	100	203	1		21		10				5	108	dmg-mag		23	136										weap	glov	ring	amul	misl	belt	lcha						0	0
+Brown	100	204	1	1	50		14				5	108	move1		18	28										weap	ring	amul	glov									0	0
+Rugged	100	205	1	1	20		10				5	109	ac%		9	12										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Rugged	100	206	1	1	10		10				5	109	move1		4	6										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Rugged	100	207	1	1	31		12				5	109	res-ltng		18	31										armo	shld	amul	ring	lcha	jewl							0	0
+Rugged	100	208	1	1	1		1				5	109	hp		5	10										weap	glov	ring	amul	misl	belt	lcha							
+Rugged	100	209	1	1	10		10				5	109	ac%		7	10										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Rugged	100	210	1	1	31		12				5	109	extra-fire		4	7	dmg-fire		20	40						scha	mcha	jewl										0	0
+Rugged	100	211	1	1	1		1				5	109	mana		5	10										weap	glov	ring	amul	misl	belt	lcha							
+Rugged	100	212	1	1	31		12				5	109	extra-ltng		4	7	dmg-ltng		20	40						scha	mcha	jewl										0	0
+Rugged	100	213	1	1	1		1				5	109	prop-dmgtounholy		10	14										weap	glov	ring	amul	misl	belt	lcha						0	0
+Rugged	100	214	1	1	12		10				5	109	dmg-fire		13	78										weap	glov	ring	amul	misl	belt	lcha						0	0
+Rugged	100	215	1	1	12		10				5	109	dmg-cold		13	78										weap	glov	ring	amul	misl	belt	lcha						0	0
+Vigorous	100	216	1	1	50		14				5	109	ac%		8	19										weap	ring	amul	glov	lcha								0	0
+Chestnut	100	217	1	1	1		1				5	109	prop-dmgtoholy		10	14										weap	glov	ring	amul	misl	belt	lcha						0	0
+Maroon	100	218	1	1	70		60				5	109	all-stats		10	15									dred	weap	ring	amul	glov									0	0
+Bronze	100	219	1	1	1		1				5	110	heal-kill		8	18										weap	glov	ring	amul	misl	belt	lcha						0	0
+Bronze	100	220	1	1	1		1				5	110	mana-kill		5	12										weap	glov	ring	amul	misl	belt	lcha						0	0
+Bronze	100	221	1	1	19		10				5	110	res-cold		12	20										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Iron	100	222	1	1	1		1				5	110	att%		10	24										weap	glov	ring	amul	misl	belt	lcha						0	0
+Iron	100	223	1	1	50		14				5	110	dmg-max		21	29										weap	ring	amul	glov	lcha								0	0
+Iron	100	224	1	1	50		14				5	110	res-pois		8	16										armo	ring	amul	glov	lcha								0	0
+Steel	100	225	1	1	55		25				5	110	oskill	Mind Blast	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Steel	100	226	1	1	1		1				5	110	cast1		7	12										weap	glov	ring	amul	misl	belt	lcha						0	0
+Steel	100	227	1	1	70		60				5	110	swing1		25	30										weap	ring	amul	glov									0	0
+Bronze	100	228	1	1	1		1				5	110	str		5	11										weap	glov	ring	amul	misl	belt	lcha						0	0
+Bronze	100	229	1	1	10		10				5	110	res-mag		2	4										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Bronze	100	230	1		24		10				5	110	heal-kill		18	42										weap	glov	ring	amul	misl	belt	lcha						0	0
+Iron	100	231	1	1	50		14				5	110	dmg%		65	88									lgld	weap	ring	amul	glov	lcha								0	0
+Iron	100	232	1	1	51		25				5	110	dmg-fire		41	292									blac	weap	ring	amul	glov	lcha								0	0
+Steel	100	233	1	1	60		40				5	110	hp		55	145										armo	ring	amul	jewl									0	0
+Steel	100	234	1	1	70		60				5	110	str		10	15										mcha	jewl	misl										0	0
+Bronze	100	235	1	1	1		1				5	110	enr		5	11										weap	glov	ring	amul	misl	belt	lcha						0	0
+Bronze	100	236	1	1	31		12				5	110	res-cold		18	31										armo	shld	amul	ring	lcha	jewl							0	0
+Iron	100	237	1	1	50		14				5	110	dmg%		135	324										weap	ring	amul	glov									0	0
+Steel	100	238	1	1	1		1				5	110	vit		5	11										weap	glov	ring	amul	misl	belt	lcha						0	0
+Bronze	100	239	1	1	1		1				5	110	dex		5	11										weap	glov	ring	amul	misl	belt	lcha						0	0
+Iron	100	240	1	1	6		10				5	110	reduce-ac		4	7										weap	glov	ring	amul	misl	belt	lcha						0	0
+Steel	100	241	1	1	12		10				5	110	dmg-mag		13	78										weap	glov	ring	amul	misl	belt	lcha						0	0
+Silver	100	242	1	1	70		60				5	110	ac%		10	20										mcha	jewl	misl										0	0
+Gold	100	243	1		25		10				5	110	all-stats		8	10										weap	glov	ring	amul	misl	belt	lcha						0	0
+Platinum	100	244	1	1	33		12				5	110	regen		200	360										armo	shld	amul	ring	lcha	jewl							0	0
+Meteoric	100	245	1	1	1		1				5	110	dmg%		50	72										weap	glov	ring	amul	misl	belt	lcha						0	0
+Strange	100	246	1	1	48		14				5	110	dex		12	36										jewl	glov	ring	amul	weap								0	0
+Weird	100	247	1	1	55		25				5	110	oskill	Mind Blast	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Nickel	100	248	1	1	1		1				5	110	dmg-ltng		10	60										weap	glov	ring	amul	misl	belt	lcha						0	0
+Tin	100	249	1	1	12		10				5	110	att		65	125										weap	glov	ring	amul	misl	belt	lcha						0	0
+Silver	100	250	1	1	37		12				5	110	dmg-ltng		23	138										weap	glov	ring	amul	misl	belt	lcha						0	0
+Argent	100	251	1	1	60		40				5	110	res-ltng		28	34										armo	ring	amul	jewl									0	0
+Fine	100	252	1		22		10				5	111	str		12	25										weap	glov	ring	amul	misl	belt	lcha						0	0
+Fine	100	253	1	1	33		12				5	111	res-mag		4	7										armo	shld	amul	ring	lcha	jewl							0	0
+Sharp	100	254	1	1	43		14				5	111	res-mag		5	8										armo	shld	amul	ring	lcha	jewl							0	0
+Fine	100	255	1		28		10				5	111	red-mag		12	25										armo	shld	amul	ring	lcha	jewl							0	0
+Sharp	100	256	1	1	42		14				5	111	extra-ltng		5	8	dmg-ltng		23	46						scha	mcha	jewl										0	0
+Fine	100	257	1	1	42		14				5	111	extra-fire		5	8	dmg-fire		23	46						scha	mcha	jewl										0	0
+Sharp	100	258	1	1	60		40				5	111	skilltab	20	1	2										weap	ring	amul	glov									0	0
+Fine	100	259	1	1	18		10				5	111	hp		20	31	mana		13	16						scha	mcha	jewl				jewl						0	0
+Warrior's	100	260	1	1	1		1				5	111	dmg-cold		10	60										weap	glov	ring	amul	misl	belt	lcha						0	0
+Soldier's	100	261	1	1	40		14				5	111	all-stats		7	8										weap	glov	ring	amul	misl	belt	lcha						0	0
+Knight's	100	262	1	1	50		14				5	111	dmg-min		45	65									dgld	weap	ring	amul	glov									0	0
+Lord's	100	263	1	1	1		1				5	111	att		50	96										weap	glov	ring	amul	misl	belt	lcha						0	0
+King's	100	264	1	1	70		60				5	111	ac		200	220										mcha	jewl	misl										0	0
+Master's	100	265	1	1	1		1				5	111	red-mag		5	11										armo	shld	amul	ring	lcha	jewl							0	0
+Grandmaster's	100	266	1	1	70		60				5	111	dex		30	40										weap	ring	amul	glov									0	0
+Glimmering	100	267	1	1	1		1				5	112	res-pois-len		5	8										armo	shld	amul	ring	lcha	jewl							0	0
+Glowing	100	268	1	1	1		1				5	112	ac%		7	10										armo	shld	amul	ring	lcha	jewl							0	0
+Bright	100	269	1	1	1		1				5	112	ac		30	48										armo	shld	amul	ring	lcha	jewl							0	0
+Screaming	100	270	1	1	1		1				5	113	move1		4	6										armo	shld	amul	ring	lcha	jewl							0	0
+Howling	100	271	1	1	1		1				5	113	regen		100	180										armo	shld	amul	ring	lcha	jewl							0	0
+Wailing	100	272	1	1	1		1				5	113	red-dmg		5	11										armo	shld	amul	ring	lcha	jewl							0	0
+Screaming	100	273	1	1	15		10				5	113	mana-kill		7	16										weap	glov	ring	amul	misl	belt	lcha						0	0
+Howling	100	274	1		24		10				5	113	prop-dmgtoholy		23	32										weap	glov	ring	amul	misl	belt	lcha						0	0
+Wailing	100	275	1	1	36		12				5	113	red-mag		10	22										armo	shld	amul	ring	lcha	jewl							0	0
+Lucky	100	276	1	1	70		60				5	114	dmg%		150	300									dred	weap	ring	amul	glov									0	0
+Lucky	100	277	1	1	70		60				5	114	cast1		25	30									dred	weap	ring	amul	glov									0	0
+Lucky	100	278	1	1	70		60				5	114	att%		50	100									dred	weap	ring	amul	glov									0	0
+Lucky	100	279	1	1	70		60				5	114	mana		300	400									dred	weap	ring	amul	glov									0	0
+Lucky	100	280	1	1	70		60				5	114	mana		300	400									dred	weap	ring	amul	glov									0	0
+Lucky	100	281	1	1	70		60				5	114	ass		1	1										weap	ring	amul	glov									0	0
+Felicitous	100	282	1	1	7		10				5	114	gold%		7	11										weap	glov	ring	amul	misl	belt	lcha						0	0
+Fortuitous	100	283	1	1	18		10				5	114	mag%		7	10	gold%		4	5						scha	mcha	jewl				jewl						0	0
+Emerald	100	284	1		24		10				5	114	hp		12	22										weap	glov	ring	amul	misl	belt	lcha						0	0
+Lizard's	100	285	1	1	12		10				5	115	res-pois-len		5	8										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Lizard's	100	286	1	1	10		10				5	115	res-pois		9	16										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Lizard's	100	287	1	1	19		10				5	115	red-dmg		7	14										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Snake's	100	288	1		28		10				5	115	res-pois-len		12	20										armo	shld	amul	ring	lcha	jewl							0	0
+Snake's	100	289	1	1	37		12				5	115	att%		23	55										weap	glov	ring	amul	misl	belt	lcha						0	0
+Snake's	100	290	1	1	1		1				5	115	res-pois		9	16										armo	shld	amul	ring	lcha	jewl							0	0
+Serpent's	100	291	1	1	55		25				5	115	oskill	Mind Blast	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Serpent's	100	292	1	1	60		40				5	115	hp%		1	4										armo	ring	amul	jewl									0	0
+Serpent's	100	293	1	1	70		60				5	115	dmg-ltng		400	500										weap	ring	amul	glov									0	0
+Lizard's	100	294	1	1	1		1				5	115	res-cold		9	16										armo	shld	amul	ring	lcha	jewl							0	0
+Lizard's	100	295	1	1	13		10				5	115	enr		7	14										weap	glov	ring	amul	misl	belt	lcha						0	0
+Lizard's	100	296	1		25		10				5	115	lifesteal		3	4										weap	glov	ring	amul	misl	belt	lcha						0	0
+Snake's	100	297	1	1	37		12				5	115	swing1		16	28										weap	glov	ring	amul	misl	belt	lcha						0	0
+Snake's	100	298	1	1	49		14				5	115	dmg-min		10	14										mcha	glov	ring	amul	weap								0	0
+Serpent's	100	299	1	1	60		40				5	115	enr%		2	5										armo	ring	amul	jewl									0	0
+Serpent's	100	300	1	1	70		60				5	115	hp		150	200										weap	ring	amul	glov									0	0
+Lizard's	100	301	1	1	70		60				5	115	mana		300	400									dred	weap	ring	amul	glov									0	0
+Lizard's	100	302	1		24		10				5	115	reduce-ac		9	17										weap	glov	ring	amul	misl	belt	lcha						0	0
+Snake's	100	303	1	1	48		14				5	115	dmg-fire		100	360										mcha	glov	ring	amul	weap								0	0
+Serpent's	100	304	1	1	70		60				5	115	hp		150	200										weap	ring	amul	glov									0	0
+Lizard's	100	305	1	1	4		10				5	115	vit		5	11										weap	glov	ring	amul	misl	belt	lcha						0	0
+Snake's	100	306	1	1	9		10				5	115	res-fire		9	16										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Serpent's	100	307	1	1	21		10				5	115	res-pois-len		7	11										armo	shld	amul	ring	lcha	jewl							0	0
+Serpent's	100	308	1	1	55		25				5	115	oskill	Poison Vials	1	2	all-stats		4	4																		0	0
+Drake's	100	309	1	1	50		14				5	115	dmg-max		41	59										weap	ring	amul	glov	lcha								0	0
+Dragon's	100	310	1	1	36		12				5	115	res-pois-len		10	17										armo	shld	amul	ring	lcha	jewl							0	0
+Dragon's	100	311	1	1	70		60				5	115	res-ltng		10	15										mcha	jewl	misl										0	0
+Wyrm's	100	312	1	1	60		40				5	115	skilltab	27	1	2									cblu	weap	ring	amul	glov									0	0
+Great Wyrm's	100	313	0	1	55		25				5	115																										0	0
+Bahamut's	100	314	1	1	60		40				5	115	all-stats		10	15									cblu	weap	ring	amul	glov									0	0
+Zircon	100	315	1	1	4		10				5	115	dex		5	11										weap	glov	ring	amul	misl	belt	lcha						0	0
+Jacinth	100	316	1		25		10				5	115	manasteal		3	4										weap	glov	ring	amul	misl	belt	lcha						0	0
+Turquoise	100	317	1	1	43		14				5	115	res-cold		21	36										armo	shld	amul	ring	lcha	jewl								
+Shimmering	100	318	1	1	12		10				5	116	dmg-ltng		13	78										weap	glov	ring	amul	misl	belt	lcha						1280	500
+Shimmering	100	319	1		21	51	10				5	116	dmg-fire		23	136										weap	glov	ring	amul	misl	belt	lcha						1280	1500
+Shimmering	100	320	1	1	52		25				5	116	res-ltng		4	8									lgld	mcha												1280	5000
+Shimmering	100	321	1		25	49	10				5	116	mag%		3	4										weap	glov	ring	amul	misl	belt	lcha						1280	1500
+Shimmering	100	322	1	1	51		25				5	116	dmg-ltng		41	292										weap	ring	amul	glov	lcha								1280	5000
+Shimmering	100	323	1	1	49		14				5	116	dmg-cold		100	360										mcha	glov	ring	amul	weap								1280	10000
+Shimmering	100	324	1	1	9		10				5	116	extra-ltng		2	4	dmg-ltng		10	20						scha	mcha	jewl				jewl						1280	500
+Rainbow	100	325	1		27		10				5	116	balance1		9	17										armo	shld	amul	ring	lcha	jewl							1280	2000
+Scintillating	100	326	1	1	42		14				5	116	light		12	17										scha	mcha	jewl										1280	4000
+Prismatic	100	327	1	1	50		14				5	116	att%		45	108									lpur	weap	ring	amul	glov									1280	8000
+Chromatic	100	328	1	1	70		60				5	116	res-pois		10	15										mcha	jewl	misl										1280	16000
+Shimmering	100	329	1	1	12		10				5	116	dmg-min		10	12	dmg-max		14	14						weap	glov	ring	amul	misl	belt	lcha						1280	3000
+Rainbow	100	330	1	1	31		12				5	116	extra-pois		4	7										scha	mcha	jewl										1280	6000
+Scintillating	100	331	1	1	1		1				5	116	extra-cold		2	4	dmg-cold		10	20						scha	mcha	jewl										1280	12000
+Prismatic	100	332	1	1	60		40				5	116	red-mag		22	48									lpur	armo	ring	amul	jewl									1280	24000
+Chromatic	100	333	1	1	70		60				5	116	dmg-ltng		50	300										mcha	jewl	misl										1280	32000
+Shimmering	100	334	1	1	60		40				5	116	res-fire		28	34									lpur	armo	ring	amul	jewl									1280	4000
+Rainbow	100	335	1	1	70		60				5	116	dmg%		80	90										mcha	jewl	misl										1280	8000
+Scintillating	100	336	1	1	1		1				5	116	extra-pois		2	4										scha	mcha	jewl										1280	16000
+Shimmering	100	337	1		24		10				5	116	cast1		17	28										weap	glov	ring	amul	misl	belt	lcha						1280	3000
+Scintillating	100	338	1	1	51		25				5	116	dmg-mag		41	292										weap	ring	amul	glov	lcha								1280	8000
+Azure	100	339	1	1	1		1				5	117	extra-fire		2	4	dmg-fire		10	20						scha	mcha	jewl										0	0
+Lapis	100	340	1	1	1		1				5	117	light		5	7										scha	mcha	jewl										0	0
+Cobalt	100	341	1	1	30		10				5	117	manasteal		2	2										weap	glov	ring	amul	misl	belt	lcha						0	0
+Sapphire	100	342	1	1	45		14				5	117	manasteal		2	6										mcha	boot	ring	amul	tors								0	0
+Azure	100	343	1	1	1		1				5	117	regen-mana		6	10										scha	mcha	jewl										0	0
+Lapis	100	344	1		24		10				5	117	prop-dmgtounholy		23	32										weap	glov	ring	amul	misl	belt	lcha						0	0
+Cobalt	100	345	1	1	37		12				5	117	dmg-fire		23	138										weap	glov	ring	amul	misl	belt	lcha						0	0
+Sapphire	100	346	1	1	52		25				5	117	manasteal		1	2									lgld	weap	ring	amul	glov	lcha								0	0
+Azure	100	347	1	1	1		1				5	117	extra-ltng		2	4	dmg-ltng		10	20						scha	mcha	jewl										0	0
+Lapis	100	348	1		21		10				5	117	dmg-cold		23	136										weap	glov	ring	amul	misl	belt	lcha						0	0
+Cobalt	100	349	1	1	40		18				5	117	regen-mana		14	22										scha	mcha	jewl										0	0
+Sapphire	100	350	1	1	60		40				5	117	skilltab	8	1	2									lblu	weap	ring	amul	glov									0	0
+Azure	100	351	1	1	7		10				5	117	extra-fire		2	4	dmg-fire		10	20						scha	mcha	jewl				jewl						0	0
+Lapis	100	352	1	1	18		10				5	117	extra-cold		3	5	dmg-cold		13	26						scha	mcha	jewl				jewl						0	0
+Lapis	100	353	1	1	52		25				5	117	res-pois		4	8										mcha												0	0
+Cobalt	100	354	1		27		10				5	117	extra-cold		5	10	dmg-cold		23	45						scha	mcha	jewl										0	0
+Cobalt	100	355	1	1	70		60				5	117	mag%		15	20										mcha	jewl	misl										0	0
+Sapphire	100	356	1	1	37		12				5	117	prop-dmgtoholy		23	34										weap	glov	ring	amul	misl	belt	lcha						0	0
+Lapis Lazuli	100	357	1	1	3		10				5	117	dmg-ltng		10	60										weap	glov	ring	amul	misl	belt	lcha						0	0
+Sapphire	100	358	1		28		10				5	117	ac%		17	22										armo	shld	amul	ring	lcha	jewl							0	0
+Crimson	100	359	1	1	1		1				5	118	mag%		5	7	gold%		3	4						scha	mcha	jewl										0	0
+Russet	100	360	1	1	15		10				5	118	reduce-ac		5	10										weap	glov	ring	amul	misl	belt	lcha						0	0
+Garnet	100	361	1	1	30		10				5	118	vit		10	22										weap	glov	ring	amul	misl	belt	lcha						0	0
+Ruby	100	362	1	1	45		14				5	118	balance1		10	14										mcha	boot	ring	amul	tors								0	0
+Crimson	100	363	1	1	1		1				5	118	res-fire		9	16										armo	shld	amul	ring	lcha	jewl							0	0
+Russet	100	364	1		24		10				5	118	mana		12	22										weap	glov	ring	amul	misl	belt	lcha						0	0
+Garnet	100	365	1	1	37		12				5	118	enr		12	25										weap	glov	ring	amul	misl	belt	lcha						0	0
+Ruby	100	366	1	1	52		25				5	118	dmg-cold		41	292										weap	ring	amul	glov	lcha								0	0
+Crimson	100	367	1	1	1		1				5	118	res-ltng		9	16										armo	shld	amul	ring	lcha	jewl							0	0
+Russet	100	368	1		21		10				5	118	dmg%		113	162										weap	glov	ring	amul	misl	belt	lcha						0	0
+Garnet	100	369	1	1	40		18				5	118	res-all		5	11	enr		5	9						scha	mcha	jewl										0	0
+Ruby	100	370	1	1	60		40				5	118	dmg-ac		14	18										weap	ring	amul	glov									0	0
+Russet	100	371	1	1	18		10				5	118	move2		4	6	dex		3	5						scha	mcha	jewl				jewl						0	0
+Russet	100	372	1	1	52		25				5	118	ac		81	107										mcha												0	0
+Garnet	100	373	1		27		10				5	118	extra-ltng		5	10	dmg-ltng		23	45						scha	mcha	jewl				lcha						0	0
+Garnet	100	374	1	1	70		60				5	118	mana		300	400										weap	ring	amul	glov									0	0
+Ruby	100	375	1	1	37		12				5	118	mana		12	22										weap	glov	ring	amul	misl	belt	lcha						0	0
+Garnet	100	376	1	1	3		10				5	117	dmg-mag		10	60										weap	glov	ring	amul	misl	belt	lcha						0	0
+Ruby	100	377	1		27		10				5	117	ac		68	108										armo	shld	amul	ring	lcha	jewl	mcha						0	0
+Tangerine	100	378	1	1	1		1				5	119	lifesteal		1	1										weap	glov	ring	amul	misl	belt	lcha						0	0
+Ocher	100	379	1	1	15		10				5	119	lifesteal		1	1										weap	glov	ring	amul	misl	belt	lcha						0	0
+Coral	100	380	1	1	30		10				5	119	dmg-ltng		20	120										weap	glov	ring	amul	misl	belt	lcha						0	0
+Amber	100	381	1	1	45		14				5	119	res-pois-len		12	19										armo	shld	amul	ring	lcha	jewl							0	0
+Tangerine	100	382	1	1	1		1				5	119	manasteal		1	1										weap	glov	ring	amul	misl	belt	lcha						0	0
+Ocher	100	383	1		24		10				5	119	att%		23	54										weap	glov	ring	amul	misl	belt	lcha						0	0
+Coral	100	384	1	1	37		12				5	119	prop-dmgtounholy		23	34										weap	glov	ring	amul	misl	belt	lcha						0	0
+Amber	100	385	1	1	52		25				5	119	lifesteal		1	6										weap	ring	amul	glov	lcha								0	0
+Tangerine	100	386	1	1	1		1				5	119	regen-mana		6	10										weap	glov	ring	amul	misl	belt	lcha						0	0
+Ocher	100	387	1		21		10				5	119	att		113	216										weap	glov	ring	amul	misl	belt	lcha						0	0
+Coral	100	388	1	1	40		12				5	119	manasteal		2	2										weap	glov	ring	amul	misl	belt	lcha						0	0
+Amber	100	389	1	1	60		40				5	119	sor		1	1									lyel	weap	ring	amul	glov									0	0
+Tangerine	100	390	1	1	1		1				5	119	mag%		1	1										weap	glov	ring	amul	misl	belt	lcha						0	0
+Ocher	100	391	1	1	60		40				5	119	dmg-mag		360	450										weap	ring	amul	glov									0	0
+Ocher	100	392	1	1	1		1				5	119	gold%		7	11										weap	glov	ring	amul	misl	belt	lcha						0	0
+Coral	100	393	1		27		10				5	119	res-pois		21	36										armo	shld	amul	ring	lcha	jewl	xboq						0	0
+Coral	100	394	1	1	70		60				5	119	dmg-cold		400	500										weap	ring	amul	glov									0	0
+Amber	100	395	1	1	37		12				5	119	reduce-ac		9	17										weap	glov	ring	amul	misl	belt	lcha						0	0
+Camphor	100	396	1	1	3		10				5	117	dmg-fire		10	60										weap	glov	ring	amul	misl	belt	lcha						0	0
+Ambergris	100	397	1		28		10				5	117	ac%		7	30									lyel	jewl	ring	amul	orb	circ	bowq	xboq						0	0
+Beryl	100	398	1	1	1		1				5	120	balance1		4	7										armo	shld	amul	ring	lcha	jewl							0	0
+Viridian	100	399	1	1	15		10				5	120	mag%		1	1										weap	glov	ring	amul	misl	belt	lcha						0	0
+Jade	100	400	1	1	30		10				5	120	dmg-mag		20	120										weap	glov	ring	amul	misl	belt	lcha						0	0
+Emerald	100	401	1	1	45		14				5	120	red-dmg%		2	2										armo	shld	amul	ring	lcha	jewl							0	0
+Beryl	100	402	1	1	1		1				5	120	mana		5	10										weap	glov	ring	amul	misl	belt	lcha						0	0
+Viridian	100	403	1		24		10				5	120	gold%		17	25										weap	glov	ring	amul	misl	belt	lcha						0	0
+Jade	100	404	1	1	37		12				5	120	mana-kill		12	28										weap	glov	ring	amul	misl	belt	lcha						0	0
+Emerald	100	405	1	1	52		25				5	120	ac%		4	10										mcha												0	0
+Beryl	100	406	1	1	1		1				5	120	red-dmg		5	11										armo	shld	amul	ring	lcha	jewl							0	0
+Viridian	100	407	1		21		10				5	120	dmg-min		18	22	dmg-max		26	26						weap	glov	ring	amul	misl	belt	lcha						0	0
+Jade	100	408	1	1	40		14				5	120	move2		7	11	dex		5	9						scha	mcha	jewl										0	0
+Emerald	100	409	1	1	60		40				5	120	str%		2	3									cgrn	weap	ring	amul	glov									0	0
+Beryl	100	410	1	1	7		10				5	120	extra-pois		2	4										scha	mcha	jewl				jewl						0	0
+Viridian	100	411	1	1	18		10				5	120	res-all		3	6	enr		3	5						scha	mcha	jewl				jewl						0	0
+Viridian	100	412	1	1	60		40				5	120	ac		180	198										weap	ring	amul	glov									0	0
+Jade	100	413	1		27		10				5	120	res-mag		5	10										armo	shld	amul	ring	lcha	jewl							0	0
+Jade	100	414	1	1	70		60				5	120	hp		75	100										mcha	jewl	misl										0	0
+Emerald	100	415	1	1	37		12				5	120	cast1		16	28										weap	glov	ring	amul	misl	belt	lcha						0	0
+Beryl	100	416	1	1	3		10				5	117	dmg-cold		10	60										weap	glov	ring	amul	misl	belt	lcha						0	0
+Jade	100	417	1		28		10				5	117	red-dmg%		3	4										armo	shld	amul	ring	lcha	jewl							0	0
+Triumphant	100	418	1	1	4		10				5	121	str		5	11										weap	glov	ring	amul	misl	belt	lcha						0	0
+Victorious	100	419	1		25		10				5	121	mag%		12	17	gold%		8	9						scha	mcha	jewl										0	0
+Aureolin	100	420	1	1	33		12				5	121	res-pois		18	31										armo	shld	amul	ring	lcha	jewl							0	0
+Mechanist's	100	421	1	1	15		10				5	122	hp		7	12										weap	glov	ring	amul	misl	belt	lcha						0	0
+Artificer's	100	422	1	1	49		14				5	122	dmg%		100	360										weap	glov	ring	amul									0	0
+Jeweler's	100	423	1	1	70		60				5	122	bar		1	1										weap	ring	amul	glov									0	0
+Assamic	100	424	1	1	4		10				5	123	swing1		7	12										weap	glov	ring	amul	misl	belt	lcha						0	0
+Arcadian	100	425	1	1	1		1				5	123	extra-pois		2	4										scha	mcha	jewl										0	0
+Unearthly	100	426	1	1	37		12				5	123	str		12	25										weap	glov	ring	amul	misl	belt	lcha						0	0
+Astral	100	427	1	1	70		60				5	123	dmg-fire		50	300										mcha	jewl	misl										0	0
+Elysian	100	428	1	1	60		40				5	123	res-fire		10	15	res-cold		10	15					dgld	armor	lcha											0	0
+Celestial	100	429	1	1	70		60				5	123	dmg-mag		50	300										mcha	jewl	misl										0	0
+Diamond	100	430	1	1	39		12				5	123	mag%		2	2										weap	glov	ring	amul	misl	belt	lcha						0	0
+Fletcher's	100	431	1		70		60				5	125	res-cold		50	70										armo	ring	amul	misl									0	0
+Acrobat's	100	432	1		70		60				5	125	res-fire		50	70										armo	ring	amul	misl									0	0
+Harpoonist's	100	433	1		70		60				5	125	res-pois		50	70										armo	ring	amul	misl									0	0
+Fletcher's	100	434	1	1	30		10				5	125	dmg%		100	144										weap	glov	ring	amul	misl	belt	lcha						0	0
+Bowyer's	100	435	1	1	60		40				5	125	manasteal		1	2									lgld	weap	ring	amul	glov									0	0
+Archer's	100	436	1		70		60				5	125	res-ltng		50	70										armo	ring	amul	misl									0	0
+Acrobat's	100	437	1	1	30		10				5	125	dex		10	22										weap	glov	ring	amul	misl	belt	lcha						0	0
+Gymnast's	100	438	1	1	60		40				5	125	mag%		5	9									lgld	weap	ring	amul	glov									0	0
+Athlete's	100	439	1		70		60				5	125	hp%		2	7										armo	ring	amul	misl									0	0
+Harpoonist's	100	440	1	1	30		10				5	125	enr		10	22										weap	glov	ring	amul	misl	belt	lcha						0	0
+Spearmaiden's	100	441	1	1	60		40				5	125	mag%		5	9									lgld	weap	ring	amul	glov									0	0
+Lancer's	100	442	1		70		60				5	125	hp		100	263										armo	ring	amul	misl									0	0
+Burning	100	443	1		70		60				5	125	enr		30	70										armo	ring	amul	misl									0	0
+Sparking	100	444	1		70		60				5	125	dex		30	70										armo	ring	amul	misl									0	0
+Chilling	100	445	1		70		60				5	125	str		30	70										armo	ring	amul	misl									0	0
+Burning	100	446	1	1	30		10				5	125	str		10	22										weap	glov	ring	amul	misl	belt	lcha						0	0
+Blazing	100	447	1	1	60		40				5	125	skilltab	7	1	2									lgld	weap	ring	amul	glov									0	0
+Volcanic	100	448	1		70		60				5	125	red-mag		40	88										armo	ring	amul	misl									0	0
+Sparking	100	449	1	1	30		10				5	125	swing1		14	24										weap	glov	ring	amul	misl	belt	lcha						0	0
+Charged	100	450	1	1	60		40				5	125	skilltab	13	1	2									lgld	weap	ring	amul	glov									0	0
+Powered	100	451	1	1	1		1				5	125	enr		5	11										weap	glov	ring	amul	misl	belt	lcha						0	0
+Chilling	100	452	1	1	30		10				5	125	cast1		14	24										weap	glov	ring	amul	misl	belt	lcha						0	0
+Freezing	100	453	1	1	60		40				5	125	skilltab	18	1	2									lgld	weap	ring	amul	glov									0	0
+Glacial	100	454	1		70		60				5	125	red-dmg		40	88										armo	ring	amul	misl									0	0
+Hexing	100	455	1		70		60				5	125	ac		250	525										armo	ring	amul	misl									0	0
+Fungal	100	456	1		70		60				5	125	enr%		3	9										armo	ring	amul	misl									0	0
+Graverobber's	100	457	1	1	1		1				5	125	red-mag		5	11										armo	shld	amul	ring	lcha	jewl							0	0
+Hexing	100	458	1	1	60		40				5	125	dmg-cold		45	270										weap	ring	amul	glov									0	0
+Blighting	100	459	1	1	1		1				5	125	swing1		7	12										weap	glov	ring	amul	misl	belt	lcha						0	0
+Accursed	100	460	1		70		60				5	125	enr		30	70										armo	ring	amul	misl									0	0
+Fungal	100	461	1	1	30		10				5	125	reduce-ac		8	14										weap	glov	ring	amul	misl	belt	lcha						0	0
+Noxious	100	462	1	1	60		40				5	125	dmg%		72	81									lgld	weap	ring	amul	glov									0	0
+Venomous	100	463	1		70		60				5	125	dex%		3	9										armo	ring	amul	misl									0	0
+Graverobber's	100	464	1		70		60				5	125	str%		3	9										armo	ring	amul	misl									0	0
+Vodoun	100	465	1	1	60		40				5	125	res-ltng		9	14									lgld	armo	ring	amul	glov									0	0
+Golemlord's	100	466	1		70		60				5	125	allskills		1	1										weap	ring	amul	misl	glov								0	0
+Lion Branded	100	467	1		70		60				5	125	dmg-cold		300	1225										weap	ring	amul	misl	glov								0	0
+Captain's	100	468	1		70		60				5	125	dmg-mag		300	1225										weap	ring	amul	misl	glov								0	0
+Preserver's	100	469	1		70		60				5	125	dmg-ltng		300	1225										weap	ring	amul	misl	glov								0	0
+Lion Branded	100	470	1	1	30		10				5	125	att%		20	48										weap	glov	ring	amul	misl	belt	lcha						0	0
+Hawk Branded	100	471	1	1	60		40				5	125	skilltab	25	1	2									lgld	weap	ring	amul	glov									0	0
+Rose Branded	100	472	1		70		60				5	125	dmg-fire		300	1225										weap	ring	amul	misl	glov								0	0
+Captain's	100	473	1	1	30		10				5	125	mana-kill		10	24										weap	glov	ring	amul	misl	belt	lcha						0	0
+Commander's	100	474	1	1	60		40				5	125	hp		135	180									lgld	weap	ring	amul	glov									0	0
+Marshal's	100	475	1		70		60				5	125	cast1		25	53										weap	ring	amul	misl	glov								0	0
+Preserver's	100	476	1	1	1		1				5	125	cast1		7	12										weap	glov	ring	amul	misl	belt	lcha						0	0
+Warder's	100	477	1	1	1		1				5	125	reduce-ac		4	7										weap	glov	ring	amul	misl	belt	lcha						0	0
+Guardian's	100	478	1		70		60				5	125	lifesteal		4	12										weap	ring	amul	misl	glov								0	0
+Expert's	100	479	1		70		60				5	125	manasteal		10	21										weap	ring	amul	misl	glov								0	0
+Fanatic	100	480	1		70		60				5	125	swing1		25	53										weap	ring	amul	misl	glov								0	0
+Sounding	100	481	1		70		60				5	125	dmg%		200	438										weap	ring	amul	misl	glov								0	0
+Expert's	100	482	1	1	30		10				5	125	heal-kill		16	36										weap	glov	ring	amul	misl	belt	lcha						0	0
+Veteran's	100	483	1	1	50		14				5	125	dmg-undead		270	432									lgld	weap	ring	amul	glov									0	0
+Master's	100	484	1		70		60				5	125	dmg-max		50	105										weap	ring	amul	misl	glov								0	0
+Fanatic	100	485	1	1	30		10				5	125	prop-dmgtoholy		20	29										weap	glov	ring	amul	misl	belt	lcha						0	0
+Raging	100	486	1	1	50		18				5	125	mana-kill		45	65									lgld	weap	ring	amul	glov									0	0
+Furious	100	487	1		70		60				5	125	dmg-min		50	105										weap	ring	amul	misl	glov								0	0
+Sounding	100	488	1	1	30		10				5	125	prop-dmgtounholy		20	29										weap	glov	ring	amul	misl	belt	lcha						0	0
+Resonant	100	489	1	1	60		40				5	125	mag%		5	9									lgld	weap	ring	amul	glov									0	0
+Echoing	100	490	1		70		60				5	125	att		800	1575										weap	ring	amul	misl	glov								0	0
+Trainer's	100	491	1		70		60				5	125	str		30	70										armo	ring	amul	misl									0	0
+Spiritual	100	492	1		70		60				5	125	dex		30	70										armo	ring	amul	misl									0	0
+Nature's	100	493	1		70		60				5	125	skilltab	30	3	3										weap	ring	amul	misl									0	0
+Trainer's	100	494	1	1	30		10				5	125	mana		10	19										weap	glov	ring	amul	misl	belt	lcha						0	0
+Caretaker's	100	495	1	1	60		40				5	125	dru		1	1									lgld	weap	ring	amul	glov									0	0
+Keeper's	100	496	1		70		60				5	125	skilltab	29	3	3										weap	ring	amul	misl									0	0
+Spiritual	100	497	1	1	30		10				5	125	hp		10	19										weap	glov	ring	amul	misl	belt	lcha						0	0
+Feral	100	498	1	1	60		40				5	125	mana		270	360									lgld	weap	ring	amul	glov									0	0
+Communal	100	499	1		70		60				5	125	skilltab	28	3	3										weap	ring	amul	misl									0	0
+Nature's	100	500	1	1	30		10				5	125	regen		200	360										weap	glov	ring	amul	misl	belt	lcha						0	0
+Terra's	100	501	1	1	60		40				5	125	skilltab	12	1	2									lgld	weap	ring	amul	glov									0	0
+Gaea's	100	502	1		70		60				5	125	skilltab	27	3	3										weap	ring	amul	misl									0	0
+Entrapping	100	503	1		70		60				5	125	skilltab	26	3	3										weap	ring	amul	misl									0	0
+Mentalist's	100	504	1		70		60				5	125	skilltab	25	3	3										weap	ring	amul	misl									0	0
+Shogukusha's	100	505	1		70		60				5	125	skilltab	24	3	3										weap	ring	amul	misl									0	0
+Entrapping	100	506	1	1	30		10				5	125	gold%		14	22										weap	glov	ring	amul	misl	belt	lcha						0	0
+Trickster's	100	507	1	1	60		40				5	125	hp		135	180									lgld	weap	ring	amul	glov									0	0
+Cunning	100	508	1		70		60				5	125	skilltab	23	3	3										weap	ring	amul	misl									0	0
+Mentalist's	100	509	1	1	30		10				5	125	mag%		2	2										weap	glov	ring	amul	misl	belt	lcha						0	0
+Psychic	100	510	1	1	60		40				5	125	mana		270	360									dgld	weap	ring	amul	glov									0	0
+Shadow	100	511	1		70		60				5	125	skilltab	22	3	3										weap	ring	amul	misl									0	0
+Shogukusha's	100	512	1	1	30		10				5	125	regen-mana		12	19										weap	glov	ring	amul	misl	belt	lcha						0	0
+Sensei's	100	513	1	1	60		40				5	125	mana		270	360									lgld	weap	ring	amul	glov									0	0
+Kenshi's	100	514	1		70		60				5	125	skilltab	21	3	3										weap	ring	amul	misl									0	0
+Miocene	100	515	1	1	1		1				5	101	dmg-fire		10	60										weap	glov	ring	amul	misl	belt	lcha						0	0
+Miocene	100	516	1	1	1		1				5	101	att%		10	24										weap	glov	ring	amul	misl	belt	lcha						0	0
+Oligocene	100	517	1	1	15		10				5	101	att%		13	31										weap	glov	ring	amul	misl	belt	lcha						0	0
+Oligocene	100	518	1	1	15		10				5	101	swing1		9	16										weap	glov	ring	amul	misl	belt	lcha						0	0
+Eocene	100	519	1	1	30		10				5	101	dmg-cold		20	120										weap	glov	ring	amul	misl	belt	lcha						0	0
+Eocene	100	520	1	1	30		10				5	101	lifesteal		2	2										weap	glov	ring	amul	misl	belt	lcha						0	0
+Paleocene	100	521	1	1	45		14				5	101	balance1		9	17										armo	shld	amul	ring	lcha	jewl							0	0
+Paleocene	100	522	1	1	45		18				5	101	ac		69	110										armo	shld	amul	ring	lcha	jewl							0	0
+Knave's	100	523	1	1	1		1				5	111	dmg-mag		10	60										weap	glov	ring	amul	misl	belt	lcha						0	0
+Jack's	100	524	1	1	15		10				5	111	regen		130	234										weap	glov	ring	amul	misl	belt	lcha						0	0
+Jester's	100	525	1	1	30		10				5	111	all-stats		6	7										weap	glov	ring	amul	misl	belt	lcha						0	0
+Joker's	100	526	1	1	52		25				5	111	res-fire		4	8										mcha												0	0
+Trump	100	527	1		70		60				5	125	skilltab	20	3	3										weap	ring	amul	misl									0	0
+Loud	100	528	1	1	1		1				5	105	dmg-min		8	10	dmg-max		11	11						weap	glov	ring	amul	misl	belt	lcha						0	0
+Calling	100	529	1	1	15		10				5	105	gold%		9	14										weap	glov	ring	amul	misl	belt	lcha						0	0
+Yelling	100	530	1	1	30		10				5	105	regen-mana		12	19										scha	mcha	jewl										0	0
+Shouting	100	531	1	1	52		25				5	105	res-cold		4	8									cgrn	mcha												0	0
+Gritty	100	532	1		70		60				5	125	skilltab	19	3	3										weap	ring	amul	misl									0	0
+Paradox	100	533	1	1	1		1				5	101	mana-kill		5	12										weap	glov	ring	amul	misl	belt	lcha						0	0
+Paradox	100	534	1	1	37		12				5	105	dmg-min		18	22	dmg-max		25	25						weap	glov	ring	amul	misl	belt	lcha						0	0
+Robineye	100	535	1	1	1		1				5	111	heal-kill		8	18										weap	glov	ring	amul	misl	belt	lcha						0	0
+Sparroweye	100	536	1	1	15		10				5	111	regen-mana		8	12										weap	glov	ring	amul	misl	belt	lcha						0	0
+Falconeye	100	537	1	1	15		10				5	111	manasteal		1	1										weap	glov	ring	amul	misl	belt	lcha						0	0
+Hawkeye	100	538	1		26		10				5	111	hp		35	54	mana		23	27						scha	mcha	jewl				mace						0	0
+Eagleeye	100	539	1	1	38		12				5	111	regen		230	414										weap	glov	ring	amul	misl	belt	lcha						0	0
+Visionary	100	540	1	1	19		10				5	111	ac		39	62										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Mnemonic	100	541	1	1	19		10				5	115	regen		130	234										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Snowflake	100	542	1	1	19		10				5	137	move1		5	8										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Shivering	100	543	1		26		10				5	137	extra-fire		5	10	dmg-fire		23	45						scha	mcha	jewl				mace						0	0
+Boreal	100	544	1	1	38		12				5	137	gold%		16	25										weap	glov	ring	amul	misl	belt	lcha						0	0
+Hibernal	100	545	1	1	1		1				5	137	prop-dmgtoholy		10	14										weap	glov	ring	amul	misl	belt	lcha						0	0
+Ember	100	546	1	1	19		10				5	138	res-ltng		12	20										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Smoldering	100	547	1		26		10				5	138	light		12	17										scha	mcha	jewl				mace						0	0
+Smoking	100	548	1	1	35		12				5	138	ac		60	96										armo	shld	amul	ring	lcha	jewl	mace						0	0
+Flaming	100	549	1	1	46		14				5	138	str		12	36										jewl	glov	ring	amul	weap								0	0
+Scorching	100	550	1		70		60				5	125	skilltab	18	3	3										weap	ring	amul	misl									0	0
+Static	100	551	1	1	19		10				5	139	res-pois		12	20										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Glowing	100	552	1		26		10				5	139	regen-mana		14	22										scha	mcha	jewl				mace						0	0
+Buzzing	100	553	1	1	35		12				5	139	red-dmg%		2	2										armo	shld	amul	ring	lcha	jewl							0	0
+Arcing	100	554	1	1	1		1				5	139	att		50	96										weap	glov	ring	amul	misl	belt	lcha						0	0
+Shocking	100	555	1	1	55		25				5	139	oskill	Mind Blast	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Septic	100	556	1	1	1		1				5	140	ac%		7	10										armo	shld	amul	ring	lcha	jewl							0	0
+Envenomed	100	557	1	1	15		10				5	140	mana		7	12										weap	glov	ring	amul	misl	belt	lcha						0	0
+Corosive	100	558	1	1	30		10				5	140	dmg-min		16	19	dmg-max		22	22						weap	glov	ring	amul	misl	belt	lcha						0	0
+Toxic	100	559	1	1	52		25				5	140	res-mag		2	4										mcha												0	0
+Pestilent	100	560	1	1	1		1				5	140	swing1		7	12										weap	glov	ring	amul	misl	belt	lcha						0	0
+Maiden's	1	561	1	1	54		25				5	125	dmg-ltng		21	146										mcha												0	0
+Valkyrie's	1	562	1		70		60				5	125	skilltab	17	3	3										weap	ring	amul	misl									0	0
+Maiden's	1	563	1	1	45		14				5	125	mag%		10	14										mcha	boot	ring	amul	tors								0	0
+Valkyrie's	1	564	1		70		60				5	125	skilltab	16	3	3										weap	ring	amul	misl									0	0
+Monk's	1	565	1	1	54		25				5	125	dmg-fire		21	146									blac	mcha												0	0
+Priest's	1	566	1		70		60				5	125	skilltab	15	3	3										weap	ring	amul	misl									0	0
+Monk's	1	567	1	1	45		18				5	125	ac%		16	22										armo	shld	amul	ring	lcha	jewl							0	0
+Priest's	1	568	1		70		60				5	125	skilltab	14	3	3										weap	ring	amul	misl									0	0
+Monk's	1	569	1	1	52		25				5	125	dmg-max		11	14										mcha												0	0
+Priest's	1	570	1		70		60				5	125	skilltab	13	3	3										weap	ring	amul	misl									0	0
+Summoner's	1	571	1	1	54		25				5	125	dmg%		33	44									lgld	mcha												0	0
+Necromancer's	1	572	1	1	1		1				5	125	res-ltng		9	16										armo	shld	amul	ring	lcha	jewl							0	0
+Summoner's	1	573	1	1	45		14				5	125	gold%		15	18										mcha	boot	ring	amul	tors								0	0
+Necromancer's	1	574	1		70		60				5	125	skilltab	12	3	3										weap	ring	amul	misl									0	0
+Angel's	1	575	1	1	54		25				5	125	dmg-mag		21	146										mcha												0	0
+Arch-Angel's	1	576	1		70		60				5	125	skilltab	11	3	3										weap	ring	amul	misl									0	0
+Angel's	1	577	1	1	45		14				5	125	hp%		2	4										mcha	boot	ring	amul	tors								0	0
+Arch-Angel's	1	578	1		70		60				5	125	skilltab	10	3	3										weap	ring	amul	misl									0	0
+Slayer's	1	579	1	1	54		25				5	125	dmg-cold		21	146										mcha												0	0
+Berserker's	1	580	1		70		60				5	125	skilltab	9	3	3										weap	ring	amul	misl									0	0
+Slayer's	1	581	1	1	45		14				5	125	res-pois		20	30										mcha	boot	ring	amul	tors								0	0
+Berserker's	1	582	1		70		60				5	125	skilltab	8	3	3										weap	ring	amul	misl									0	0
+Slayer's	100	583	1	1	45		18				5	125	res-all		4	7										mcha	boot	ring	amul	tors								0	0
+Berserker's	100	584	1		70		60				5	125	skilltab	7	3	3										weap	ring	amul	misl									0	0
+Shaman's	100	585	1	1	54		25				5	125	manasteal		1	1									lgld	mcha												0	0
+Hierophant's	100	586	1		70		60				5	125	skilltab	6	3	3										weap	ring	amul	misl									0	0
+Shaman's	100	587	1	1	45		14				5	125	red-dmg		12	25										armo	shld	amul	ring	lcha	jewl							0	0
+Hierophant's	100	588	1		70		60				5	125	skilltab	5	3	3										weap	ring	amul	misl									0	0
+Magekiller's	100	589	1	1	54		25				5	125	dmg-fire		1	46			8	15						armo	rod	miss	ring	amul	lcha							0	0
+Witch-hunter's	100	590	1		70		60				5	125	skilltab	4	3	3										weap	ring	amul	misl									0	0
+Magekiller's	100	591	1	1	1		1				5	125	reduce-ac		4	7										weap	glov	ring	amul	misl	belt	lcha						0	0
+Witch-hunter's	100	592	1		70		60				5	125	skilltab	3	3	3										weap	ring	amul	misl									0	0
+Compact	100	593	1	1	1		1				5	141	extra-fire		2	4	dmg-fire		10	20						scha	mcha	jewl										0	0
+Thin	100	594	1		25		10				5	141	block1		5	6	str		5	9						scha	mcha	jewl				mace						0	0
+Dense	100	595	1	1	50		14				5	141	str		27	43										weap	ring	amul	glov									0	0
+Consecrated	100	596	1	1	1		1				5	142	red-dmg%		1	1										armo	shld	amul	ring	lcha	jewl							0	0
+Pure	100	597	1		22		10				5	142	vit		12	25										weap	glov	ring	amul	misl	belt	lcha						0	0
+Sacred	100	598	1	1	37		12				5	142	heal-kill		18	42										weap	glov	ring	amul	misl	belt	lcha						0	0
+Hallowed	100	599	1	1	52		25				5	142	swing2		4	5										mcha												0	0
+Divine	100	600	1	1	60		40				5	142	move2		30	40									lgld	boot												0	0
+Pearl	100	601	1		27		10				5	142	extra-pois		5	10										scha	mcha	jewl				mace						0	0
+Crimson	100	602	1	1	7		10				5	118	light		5	7										scha	mcha	jewl				jewl						0	0
+Red	100	603	1	1	1		1				5	103	regen		100	180										armo	shld	amul	ring	lcha	jewl							0	0
+Sanguinary	100	604	1	1	60		40				5	103	res-cold		10	15	res-ltng		10	15						armor	lcha											0	0
+Bloody	100	605	1		70		60				5	103	skilltab	2	3	3										weap	ring	amul	misl									0	0
+Red	100	606	1	1	45		14				5	103	light		10	13										mcha	boot	ring	amul	tors								0	0
+Sanguinary	100	607	1		70		60				5	103	skilltab	1	3	3										weap	ring	amul	misl									0	0
+Red	100	608	1	1	70		60				5	103	res-all		2	2										scha	jewl											0	0
+Jagged	100	609	1	1	10		10				5	104	regen		100	180										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Forked	100	610	1	1	55		25				5	104	oskill	Mind Blast	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Serrated	100	611	1	1	70		60				5	104	res-mag		3	3										scha	jewl											0	0
+Jagged	100	612	1	1	70		60				5	104	res-pois		4	9										scha	jewl											0	0
+Forked	100	613	1	1	70		60				5	104	res-ltng		4	9										scha	jewl											0	0
+Jagged	100	614	1	1	70		60				5	104	res-cold		4	9										scha	jewl											0	0
+Snowflake	100	615	1	1	13		10				5	137	vit		7	14										weap	glov	ring	amul	misl	belt	lcha						0	0
+Shivering	100	616	1		22		10				5	137	enr		12	25										weap	glov	ring	amul	misl	belt	lcha						0	0
+Boreal	100	617	1	1	45		14				5	137	res-cold		20	30										mcha	boot	ring	amul	tors								0	0
+Hibernal	100	618	1	1	60		40				5	137	dmg-min		30	60	dmg%		100	200						weap												0	0
+Snowflake	100	619	1		27		10				5	137	move1		9	14										armo	shld	amul	ring	lcha	jewl	jave						0	0
+Shivering	100	620	1	1	43		14				5	137	res-pois		21	36										armo	shld	amul	ring	lcha	jewl	jave						0	0
+Boreal	100	621	1	1	70		60				5	137	res-fire		4	9										scha	jewl											0	0
+Hibernal	100	622	1	1	70		60				5	137	cast2		3	7										scha	jewl											0	0
+Snowflake	100	623	1	1	40		14				5	137	block1		5	6	str		5	9						scha	mcha	jewl				mace						0	0
+Shivering	100	624	1	1	60		40				5	137	str		17	25										armo	ring	amul	jewl									0	0
+Boreal	100	625	1	1	70		60				5	137	swing2		3	7										scha	jewl											0	0
+Hibernal	100	626	1	1	70		60				5	137	ac		40	100										scha	jewl											0	0
+Ember	100	627	1	1	70		60				5	138	mag%		10	15										scha	jewl											0	0
+Smoldering	100	628	1		22		10				5	138	swing1		17	28										weap	glov	ring	amul	misl	belt	lcha						0	0
+Smoking	100	629	1	1	42		18				5	138	res-ltng		21	36										armo	shld	amul	ring	lcha	jewl	mace						0	0
+Flaming	100	630	1	1	60		40				5	138	enr		17	25									dgld	armo	ring	amul	jewl									0	0
+Ember	100	631	1	1	19		10				5	138	res-mag		3	5										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Smoldering	100	632	1	1	70		60				5	138	mag%		10	15										scha	jewl											0	0
+Smoking	100	633	1	1	70		60				5	138	mag%		10	15										scha	jewl											0	0
+Flaming	100	634	1	1	50		14				5	138	mana		243	389										weap	ring	amul	glov	lcha								0	0
+Ember	100	635	1	1	31		12				5	138	light		10	14										scha	mcha	jewl				mace						0	0
+Smoldering	100	636	1	1	60		40				5	138	dmg-min		23	27										weap	ring	amul	glov									0	0
+Smoking	100	637	1	1	70		60				5	138	mag%		10	15										scha	jewl											0	0
+Flaming	100	638	1	1	70		60				5	138	mag%		10	15										scha	jewl											0	0
+Static	100	639	1	1	10		10				5	139	balance1		4	7										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Glowing	100	640	1		21		10				5	139	dex		12	25										weap	glov	ring	amul	misl	belt	lcha						0	0
+Arcing	100	641	1	1	43		18				5	139	regen		230	414										armo	shld	amul	ring	lcha	jewl	mace						0	0
+Shocking	100	642	1	1	60		40				5	139	res-pois		28	34										armo	ring	amul	jewl									0	0
+Static	100	643	1	1	21		10				5	139	red-mag		7	14										armo	shld	amul	ring	lcha	jewl	mace						0	0
+Glowing	100	644	1	1	42		14				5	139	res-fire		21	36										armo	shld	amul	ring	lcha	jewl	mace						0	0
+Arcing	100	645	1	1	70		60				5	139	mag%		10	15										scha	jewl											0	0
+Shocking	100	646	1	1	70		60				5	139	mag%		10	15										scha	jewl											0	0
+Static	100	647	1	1	34		12				5	139	move1		8	12										armo	shld	amul	ring	lcha	jewl	mace						0	0
+Glowing	100	648	1	1	60		40				5	139	enr		17	39										armo	ring	amul	jewl									0	0
+Arcing	100	649	1	1	70		60				5	139	mag%		10	15										scha	jewl											0	0
+Shocking	100	650	1	1	70		60				5	139	mag%		10	15										scha	jewl											0	0
+Septic	100	651	1	1	1		1				5	140	balance1		4	7										armo	shld	amul	ring	lcha	jewl							0	0
+Envenomed	100	652	1	1	18		10				5	140	res-fire		12	20										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Toxic	100	653	1	1	40		18				5	140	hp		35	55	mana		23	28						scha	mcha	jewl				mace						0	0
+Pestilent	100	654	1	1	1		1				5	140	res-mag		2	4										armo	shld	amul	ring	lcha	jewl							0	0
+Septic	100	655	1	1	13		10				5	140	dmg%		65	94										weap	glov	ring	amul	misl	belt	lcha						0	0
+Envenomed	100	656	1	1	1		1				5	140	res-cold		9	16										armo	shld	amul	ring	lcha	jewl							0	0
+Toxic	100	657	1	1	60		40				5	140	res-ltng		10	15	res-fire		10	15					dgrn	armor	lcha											0	0
+Pestilent	100	658	1	1	70		60				5	140	manasteal		1	5										mcha	jewl	misl										0	0
+Septic	100	659	1		27		10				5	140	res-ltng		21	36										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Envenomed	100	660	1	1	50		14				5	140	cast1		23	32										weap	ring	amul	glov									0	0
+Toxic	100	661	1	1	70		60				5	140	lifesteal		1	5										mcha	jewl	misl										0	0
+Pestilent	100	662	1	1	70		60				5	140	dmg-cold		50	300										mcha	jewl	misl										0	0
+Tireless	100	663	1	1	1		1				5	108	res-fire		9	16										armo	shld	amul	ring	lcha	jewl							0	0
+Lizard's	100	664	1	1	1		1				5	115	extra-cold		2	4	dmg-cold		10	20						scha	mcha	jewl										0	0
+Azure	100	665	1	1	1		1				5	117	extra-ltng		2	4	dmg-ltng		10	20						scha	mcha	jewl										0	0
+Crimson	100	666	1	1	1		1				5	118	light		5	7										scha	mcha	jewl										0	0
+Tangerine	100	667	1	1	1		1				5	119	regen-mana		6	10										scha	mcha	jewl										0	0
+Beryl	100	668	1	1	1		1				5	120	hp		15	24	mana		10	12						scha	mcha	jewl										0	0
+Godly	100	669	1	1	55		30				5	101	oskill	Tesla Arrow	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	670	1	1	55		30				5	141	oskill	Flaming Arrow	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	671	1	1	55		30				5	141	oskill	Magic Quiver	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	672	1	1	55		30				5	141	oskill	Critical Strike	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	673	1	1	55		30				5	141	oskill	Fan of Glaives	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	674	1	1	55		30				5	141	oskill	Frost Arrow	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	675	1	1	55		30				5	141	oskill	Meteor Arrow	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	676	1	1	55		30				5	141	oskill	Dodge	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	677	1	1	55		30				5	141	oskill	Shattering Javelin	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	678	1	1	55		30				5	141	oskill	Cluster Grenades	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	679	1	1	55		30				5	141	oskill	Arrow Hail	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	680	1	1	55		30				5	141	oskill	Slow Missiles	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	681	1	1	55		30				5	141	oskill	Lightning Arrow	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	682	1	1	55		30				5	141	oskill	Shatter Arrow	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	683	1	1	55		30				5	141	oskill	Flaming Spears	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	684	1	1	55		30				5	141	oskill	Avoid	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	685	1	1	55		30				5	141	oskill	Wind Strike	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	686	1	1	55		30				5	141	oskill	Unstable Current	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	687	1	1	55		30				5	141	oskill	Caustic Spear	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	688	1	1	55		30				5	141	oskill	Chain Lightning Arrow	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	689	1	1	55		30				5	141	oskill	Elemental Legend	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	690	1	1	55		30				5	141	oskill	Power Of Arrows	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	691	1	1	55		30				5	141	oskill	Evade	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	692	1	1	55		30				5	141	oskill	Heavens Arrow	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	693	1	1	55		30				5	141	oskill	Seismic Spear	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	694	1	1	55		30				5	141	oskill	Spear Maiden	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	695	1	1	55		30				5	141	oskill	Queen Of The Jungle	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	696	1	1	55		30				5	141	oskill	Lightning Fury	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	697	1	1	55		30				5	141	oskill	Evil Spearit	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	698	1	1	55		30				5	141	oskill	Holy Spearit	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	699	1	1	55		30				5	141	oskill	Volcanic Strike	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	700	1	1	55		30				5	141	oskill	Snowball	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	701	1	1	55		30				5	141	oskill	Storm Strike	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	702	1	1	55		30				5	141	oskill	Flame Torrent	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	703	1	1	55		30				5	141	oskill	Flame Cloak	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	704	1	1	55		30				5	141	oskill	Meteor Shower	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	705	1	1	55		30				5	141	oskill	Lightning Rod	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	706	1	1	55		30				5	141	oskill	Warmth	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	707	1	1	55		30				5	141	oskill	Flame Wave	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	708	1	1	55		30				5	141	oskill	Ice Shard	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	709	1	1	55		30				5	141	oskill	Eldritch FIre	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	710	1	1	55		30				5	141	oskill	Scepter of Zeus	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	711	1	1	55		30				5	141	oskill	Falling Cinder	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	712	1	1	55		30				5	141	oskill	Energy Shield	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	713	1	1	55		30				5	141	oskill	Twin Peaks	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	714	1	1	55		30				5	141	oskill	Lightning Speed	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	715	1	1	55		30				5	141	oskill	Enchant	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	716	1	1	55		30				5	141	oskill	Storm Cloak	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	717	1	1	55		30				5	141	oskill	Splitting Staff	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	718	1	1	55		30				5	141	oskill	Ice Queen	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	719	1	1	55		30				5	141	oskill	Frozen Fortress	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	720	1	1	55		30				5	141	oskill	Ars Nova Borealis	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	721	1	1	55		30				5	141	oskill	Lightning Orb	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	722	1	1	55		30				5	141	oskill	Fire Mastery	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	723	1	1	55		30				5	141	oskill	Storm Force	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	724	1	1	55		30				5	141	oskill	Wave of Force	1	2	all-stats		4	4						weap	glov	amul	ring	lcha								0	0
+Grandmaster's	100	725	1	1	55		30				5	141	oskill	Wave of Force	1	2	all-stats		4	4						weap	glov	amul	ring	lcha								0	0
+Grandmaster's	100	726	1	1	55		30				5	141	oskill	Cold Mastery	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	727	1	1	55		30				5	141	oskill	Poison Vials	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	728	1	1	55		30				5	141	oskill	Claw Mastery	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	729	1	1	55		30				5	141	oskill	Detonating Claw	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	730	1	1	55		30				5	141	oskill	Chi Burst	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	731	1	1	55		30				5	141	oskill	Trap Master	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	732	1	1	55		30				5	141	oskill	Sludge Wave	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	733	1	1	55		30				5	141	oskill	Sludge Wave	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	734	1	1	55		30				5	141	oskill	Dispersion Strike	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	735	1	1	55		30				5	141	oskill	Combination Strike	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	736	1	1	55		30				5	141	oskill	Corrosion	1	2	all-stats		4	4						weap	glov	amul	ring	lcha								0	0
+Grandmaster's	100	737	1	1	55		30				5	141	oskill	Fade	1	2	all-stats		4	4						weap	glov	amul	ring	lcha								0	0
+Grandmaster's	100	738	1	1	55		25				5	141	oskill	Tesla Claw	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	739	1	1	55		25				5	141	oskill	Tesla Claw	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	740	1	1	55		25				5	141	oskill	Tectonic Claw	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	741	1	1	55		25				5	141	oskill	Frost Bomb	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	742	1	1	55		25				5	141	oskill	Festering Claw	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	743	1	1	55		25				5	141	oskill	Cloak of Shadows	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	744	1	1	55		25				5	141	oskill	Weapon Block	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	745	1	1	55		25				5	141	oskill	Poison Hadoken	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	746	1	1	55		25				5	141	oskill	Shuriken Spiral	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	747	1	1	55		25				5	141	oskill	Death Spikes	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	748	1	1	55		25				5	141	oskill	Mind Blast	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	749	1	1	55		25				5	141	oskill	Mind Blast	1	2	all-stats		4	4						weap	glov	amul	ring	lcha								0	0
+Grandmaster's	100	750	1	1	55		25				5	141	oskill	Fridgid Claw	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	751	1	1	55		25				5	141	oskill	Ninja Stars	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	752	1	1	55		25				5	141	oskill	Homing Axes	1	2	all-stats		4	4						axe	glov	amul	ring	lcha								0	0
+Grandmaster's	100	753	1	1	55		25				5	141	oskill	Venom	1	2	all-stats		4	4						weap	glov	amul	ring	lcha								0	0
+Grandmaster's	100	754	1	1	55		25				5	141	oskill	Blade Shield	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	755	1	1	55		25				5	141	oskill	Toxic Gases	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	756	1	1	55		25				5	141	oskill	Shadow Claw	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	757	1	1	55		25				5	141	oskill	Zantetsuken	1	2	all-stats		4	4						swor	glov	amul	ring	lcha								0	0
+Grandmaster's	100	758	1	1	55		25				5	141	oskill	Ravager	1	2	all-stats		4	4						weap	glov	amul	ring	lcha								0	0
+Grandmaster's	100	759	1	1	55		25				5	141	oskill	Swordsplosion	1	2	all-stats		4	4						swor	glov	amul	ring	lcha								0	0
+Grandmaster's	100	760	1	1	55		25				5	141	oskill	Rocksplit	1	2	all-stats		4	4						mace	glov	amul	ring	lcha								0	0
+Grandmaster's	100	761	1	1	55		25				5	141	oskill	Axe Storm	1	2	all-stats		4	4						axe	glov	amul	ring	lcha								0	0
+Grandmaster's	100	762	1	1	55		25				5	141	oskill	Avalanche	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	763	1	1	55		25				5	141	oskill	Spear Mastery	1	2	all-stats		4	4						spea	glov	amul	ring	lcha								0	0
+Grandmaster's	100	764	1	1	55		25				5	141	oskill	Leap	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	765	1	1	55		25				5	141	oskill	Throwing Mastery	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	766	1	1	55		25				5	141	oskill	Master Of The Earth	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	767	1	1	55		25				5	141	oskill	Homing Axes	1	2	all-stats		4	4						axe	glov	amul	ring	lcha								0	0
+Grandmaster's	100	768	1	1	55		25				5	141	oskill	Spear Mastery	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	769	1	1	55		25				5	141	oskill	Explosive Potion	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	770	1	1	55		25				5	141	oskill	Volcanic Shout	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	771	1	1	55		25				5	141	oskill	Mace Mastery	1	2	all-stats		4	4						blun	glov	amul	ring	lcha								0	0
+Grandmaster's	100	772	1	1	55		25				5	141	oskill	Axe Mastery	1	2	all-stats		4	4						axe	glov	amul	ring	lcha								0	0
+Grandmaster's	100	773	1	1	55		25				5	141	oskill	Blade Mastery	1	2	all-stats		4	4						swor	glov	amul	ring	lcha								0	0
+Grandmaster's	100	774	1	1	55		25				5	141	oskill	Thunderous Mace	1	2	all-stats		4	4						blun	glov	amul	ring	lcha								0	0
+Grandmaster's	100	775	1	1	55		25				5	141	oskill	Battle Orders	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	776	1	1	55		25				5	141	oskill	Frenzy	1	2	all-stats		4	4						swor	glov	amul	ring	lcha								0	0
+Grandmaster's	100	777	1	1	55		25				5	141	oskill	Electrical Storm	1	2	all-stats		4	4						weap	glov	amul	ring	lcha								0	0
+Grandmaster's	100	778	1	1	55		25				5	141	oskill	Intimidation	1	2	all-stats		4	4						weap	glov	amul	ring	lcha								0	0
+Grandmaster's	100	779	1	1	55		25				5	141	oskill	Whirlwind	1	2	all-stats		4	4						swor	glov	amul	ring	lcha								0	0
+Grandmaster's	100	780	1	1	55		25				5	141	oskill	Hellfire	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	781	1	1	55		25				5	141	oskill	Arcane Warrior	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	782	1	1	55		25				5	141	oskill	Frostborne	1	2	all-stats		4	4						weap	glov	amul	ring	lcha								0	0
+Grandmaster's	100	783	1	1	55		25				5	141	oskill	Baal Sword	1	2	all-stats		4	4						swor	glov	amul	ring	lcha								0	0
+Grandmaster's	100	784	1	1	55		25				5	141	oskill	Battle Command	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	785	1	1	55		25				5	141	oskill	Skadi's Spear	1	2	all-stats		4	4						spea	glov	amul	ring	lcha								0	0
+Grandmaster's	100	786	1	1	55		25				5	141	oskill	Forcewave	1	2	all-stats		4	4						weap	glov	amul	ring	lcha								0	0
+Grandmaster's	100	787	1	1	55		25				5	141	oskill	Chi Strike	1	2	all-stats		4	4						axe	glov	amul	ring	lcha								0	0
+Grandmaster's	100	788	1	1	55		25				5	141	oskill	Guardian Of Wind	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	789	1	1	55		25				5	141	oskill	Master Of The Wind	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	790	1	1	55		25				5	141	oskill	Cold Totem	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	791	1	1	55		25				5	141	oskill	Shattering Smash	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	792	1	1	55		25				5	141	oskill	Blood Hooves	1	2	all-stats		4	4						weap	glov	amul	ring	lcha								0	0
+Grandmaster's	100	793	1	1	55		25				5	141	oskill	Bovine Burst	1	2	all-stats		4	4						weap	glov	amul	ring	lcha								0	0
+Grandmaster's	100	794	1	1	55		25				5	141	oskill	Polearm Mastery	1	2	all-stats		4	4						pole	glov	amul	ring	lcha								0	0
+Grandmaster's	100	795	1	1	55		25				5	141	oskill	Fire Totem	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	796	1	1	55		25				5	141	oskill	Storm Totem	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	797	1	1	55		25				5	141	oskill	Shotgun Bolts	1	2	all-stats		4	4						scep	glov	amul	ring	lcha								0	0
+Grandmaster's	100	798	1	1	55		25				5	141	oskill	Guardian Of Earth	1	2	all-stats		4	4						pole	glov	amul	ring	lcha								0	0
+Grandmaster's	100	799	1	1	55		25				5	141	oskill	Sword Master	1	2	all-stats		4	4						swor	glov	amul	ring	lcha								0	0
+Grandmaster's	100	800	1	1	55		25				5	141	oskill	Molten Smash	1	2	all-stats		4	4						blun	glov	amul	ring	lcha								0	0
+Grandmaster's	100	801	1	1	55		25				5	141	oskill	Totem Mastery	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	802	1	1	55		25				5	141	oskill	Bovine Barrier	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	803	1	1	55		25				5	141	oskill	Totem Mastery	1	2	all-stats		4	4						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	804	1	1	55		25				5	141	oskill	Wave Of Light	1	2	all-stats		4	4						pole	glov	amul	ring	lcha								0	0
+Grandmaster's	100	805	1	1	55		25				5	141	oskill	Frigid Winds	1	2	all-stats		4	4						axe	glov	amul	ring	lcha								0	0
+Grandmaster's	100	806	1	1	55		25				5	141	oskill	Sweeping Gale	1	2	all-stats		4	4						pole	glov	amul	ring	lcha								0	0
+Grandmaster's	100	807	1	1	55		25				5	141	oskill	Blunt Mastery	1	2	all-stats		4	4						blun	glov	amul	ring	lcha								0	0
+Grandmaster's	100	808	1	1	55		25				5	141	oskill	Hunger	1	2	all-stats		4	4						pole	glov	amul	ring	lcha								0	0
+Grandmaster's	100	809	1	1	55		25				5	141	oskill	Moo Moo Magic	1	2	all-stats		4	4						pole	glov	amul	ring	lcha								0	0
+Grandmaster's	100	810	1	1	55		25				5	141	oskill	Shaman Strike	1	2	all-stats		4	4						axe	glov	amul	ring	lcha								0	0
+Grandmaster's	100	811	1	1	55		25				5	141	oskill	Razor Winds	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	812	1	1	55		25				5	141	oskill	Splitting Earth	1	2	all-stats		4	4						axe	glov	amul	ring	lcha								0	0
+Grandmaster's	100	813	1	1	55		25				5	141	oskill	Splitting Earth	1	2	all-stats		4	4						axe	glov	amul	ring	lcha								0	0
+Grandmaster's	100	814	1	1	55		25				5	141	oskill	Stonefist	1	2	all-stats		4	4						weap	glov	amul	ring	lcha								0	0
+Grandmaster's	100	815	1	1	55		25				5	141	oskill	Stone Spears	1	2	all-stats		4	4						pole	glov	amul	ring	lcha								0	0
+Grandmaster's	100	816	1	1	55		25				5	141	oskill	Runic Hammer	1	2	all-stats		4	4						hamm	glov	amul	ring	lcha								0	0
+Grandmaster's	100	817	1	1	55		25				5	141	oskill	Blood Mastery	1	2	all-stats		4	4						armo	glov	amul	ring	lcha								0	0
+Grandmaster's	100	818	1	1	55		25				5	141	oskill	Bone Storm	1	2	all-stats		4	4						wand	glov	amul	ring	lcha								0	0
+Grandmaster's	100	819	1	1	55		25				5	141	oskill	Bone Shot	1	2	all-stats		4	4						xbow	glov	amul	ring	lcha								0	0
+Grandmaster's	100	820	1	1	55		25				5	141	oskill	Brain Grenade	1	2	all-stats		4	4						xbow	glov	amul	ring	lcha								0	0
+Grandmaster's	100	821	1	1	55		25				5	141	oskill	Spirit Barrage	1	2	all-stats		4	4						wand	glov	amul	ring	lcha								0	0
+Grandmaster's	100	822	1	1	55		25				5	141	oskill	Bone Spikes	1	2	all-stats		4	4						knif	glov	amul	ring	lcha								0	0
+Grandmaster's	100	823	1	1	55		25				5	141	oskill	Fan Of Knives	1	2	all-stats		4	4						knif	glov	amul	ring	lcha								0	0
+Grandmaster's	100	824	1	1	55		25				5	141	oskill	Barrage	1	2	all-stats		4	4						xbow	glov	amul	ring	lcha								0	0
+Grandmaster's	100	825	1	1	55		30				5	141	oskill	Bone Sentry	1	2	all-stats		4	4						wand	glov	amul	ring	lcha								0	0
+Grandmaster's	100	826	1	1	55		25				5	141	oskill	Savage Vipers	1	2	all-stats		4	4						wand	glov	amul	ring	lcha								0	0
+Grandmaster's	100	827	1	1	55		25				5	141	oskill	Expert Marksman	1	2	all-stats		4	4						xbow	glov	amul	ring	lcha								0	0
+Grandmaster's	100	828	1	1	55		25				5	141	oskill	Seeking Daggers	1	2	all-stats		4	4						knif	glov	amul	ring	lcha								0	0
+Grandmaster's	100	829	1	1	55		25				5	141	oskill	Bloodborne	1	2	all-stats		4	4						knif	glov	amul	ring	lcha								0	0
+Grandmaster's	100	830	1	1	55		25				5	141	oskill	Bleeding Heart	1	2	all-stats		4	4						knif	glov	amul	ring	lcha								0	0
+Grandmaster's	100	831	1	1	55		25				5	141	oskill	Ravager	1	2	all-stats		4	4						weap	glov	amul	ring	lcha								0	0
+Grandmaster's	100	832	1	1	55		25				5	141	oskill	Ghostly Daggers	1	2	all-stats		4	4						knif	glov	amul	ring	lcha								0	0
+Grandmaster's	100	833	1	1	55		25				5	141	oskill	Hells Knife	1	2	all-stats		4	4						knif	glov	amul	ring	lcha								0	0
+Grandmaster's	100	834	1	1	55		25				5	141	oskill	Blood Nova	1	2	all-stats		4	4						knif	glov	amul	ring	lcha								0	0
+Grandmaster's	100	835	1	1	55		25				5	141	oskill	Blood Nova	1	2	all-stats		4	4						wand	glov	amul	ring	lcha								0	0
+Grandmaster's	100	836	1	1	55		25				5	141	oskill	Skeleton Sentry	1	2	all-stats		4	4						wand	glov	amul	ring	lcha								0	0
+Grandmaster's	100	837	1	1	55		25				5	141	oskill	Harbinger	1	2	all-stats		4	4						knif	glov	amul	ring	lcha								0	0
+Grandmaster's	100	838	1	1	55		25				5	141	oskill	Knife Mastery	1	2	all-stats		4	4						knif	glov	amul	ring	lcha								0	0
+Grandmaster's	100	839	1	1	55		25				5	141	oskill	Acid Skull	1	2	all-stats		4	4						wand	glov	amul	ring	lcha								0	0
+Grandmaster's	100	840	1	1	55		25				5	141	oskill	Bloodstream	1	2	all-stats		4	4						knif	glov	amul	ring	lcha								0	0
+Grandmaster's	100	841	1	1	55		25				5	141	oskill	Revive	1	2	all-stats		4	4						wand	glov	amul	ring	lcha								0	0
+Grandmaster's	100	842	1	1	55		25				5	141	oskill	Claws of Thunder	1	2	all-stats		4	4						h2h2	glov	amul	ring	lcha								0	0
+Grandmaster's	100	843	1	1	55		25				5	141	oskill	Blood Geysers	1	2	res-all		10	12						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	844	1	1	55		25				5	141	oskill	Ricochet	1	2	res-all 		10	12						xbow	glov	amul	ring	lcha								0	0
+Grandmaster's	100	845	1	1	55		25				5	141	oskill	Spirit Shot	1	2	enr		10	15						xbow	glov	amul	ring	lcha								0	0
+Grandmaster's	100	846	1	1	55		25				5	141	oskill	Spirit CIrcle	1	2	enr		10	15						wand	glov	amul	ring	lcha								0	0
+Grandmaster's	100	847	1	1	55		25				5	141	oskill	Climhazard	1	2	all-stats		4	10						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	848	1	1	55		25				5	141	oskill	Heavens Fury	1	2	enr		10	15						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	849	1	1	55		25				5	141	oskill	Electromagnetic	1	2	extra-ltng		6	6						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	850	1	1	55		25				5	141	oskill	Meditation	1	2	mana		200	300						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	851	1	1	55		25				5	141	oskill	Warrior of Light	1	2	light		15	15						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	852	1	1	55		25				5	141	oskill	Boon Of The Hoarder	1	2	mag%		25	25						boot	glov	amul	ring	lcha								0	0
+Grandmaster's	100	853	1	1	55		25				5	141	oskill	Frostflower	1	2	all-stats		4	4						blun	glov	amul	ring	lcha								0	0
+Grandmaster's	100	854	1	1	55		25				5	141	oskill	Holy Shield	1	2	all-stats		4	4						shld	glov	amul	ring	lcha								0	0
+Grandmaster's	100	855	1	1	55		25				5	141	oskill	Agility	1	2	all-stats		4	4						shld	glov	amul	ring	lcha								0	0
+Grandmaster's	100	856	1	1	55		25				5	141	oskill	Runic Hammer	1	2	all-stats		4	4						hamm	glov	amul	ring	lcha								0	0
+Grandmaster's	100	857	1	1	55		25				5	141	oskill	Hammer Nova	1	2	all-stats		4	4						hamm	glov	amul	ring	lcha								0	0
+Grandmaster's	100	858	1	1	55		25				5	141	oskill	Lightningproof	1	2	all-stats		4	4						shld	glov	amul	ring	lcha								0	0
+Grandmaster's	100	859	1	1	55		25				5	141	oskill	Crippling Wave	1	2	all-stats		4	4						shld	glov	amul	ring	lcha								0	0
+Grandmaster's	100	860	1	1	55		25				5	141	oskill	Scepter Master	1	2	all-stats		4	4						scep	glov	amul	ring	lcha								0	0
+Grandmaster's	100	861	1	1	55		25				5	141	oskill	Sword Master	1	2	all-stats		4	4						swor	glov	amul	ring	lcha								0	0
+Grandmaster's	100	862	1	1	55		25				5	141	oskill	Shotgun Bolts	1	2	all-stats		4	4						scep	glov	amul	ring	lcha								0	0
+Grandmaster's	100	863	1	1	55		25				5	141	oskill	Guardian Of Earth	1	2	all-stats		4	4						axe	glov	amul	ring	lcha								0	0
+Grandmaster's	100	864	1	1	55		25				5	141	oskill	Hammer Master	1	2	all-stats		4	4						hamm	glov	amul	ring	lcha								0	0
+Grandmaster's	100	865	1	1	55		25				5	141	oskill	Thorns	1	2	all-stats		4	4						shld	glov	amul	ring	lcha								0	0
+Grandmaster's	100	866	1	1	55		25				5	141	oskill	Righteous Fire	1	2	all-stats		4	4						shld	glov	amul	ring	lcha								0	0
+Grandmaster's	100	867	1	1	55		25				5	141	oskill	Judgement Cross	1	2	all-stats		4	4						scep	glov	amul	ring	lcha								0	0
+Grandmaster's	100	868	1	1	55		25				5	141	oskill	Judgement Cross	1	2	all-stats		4	4						scep	glov	amul	ring	lcha								0	0
+Grandmaster's	100	869	1	1	55		25				5	141	oskill	Longevity	1	2	all-stats		4	4						shld	glov	amul	ring	lcha								0	0
+Grandmaster's	100	870	1	1	55		25				5	141	oskill	Shield Split	1	2	all-stats		4	4						shld	glov	amul	ring	lcha								0	0
+Grandmaster's	100	871	1	1	55		25				5	141	oskill	Holy Sword Strike	1	2	all-stats		4	4						swor	glov	amul	ring	lcha								0	0
+Grandmaster's	100	872	1	1	55		25				5	141	oskill	Fanaticism	1	2	all-stats		4	4						shld	glov	amul	ring	lcha								0	0
+Grandmaster's	100	873	1	1	55		25				5	141	oskill	Conviction	1	2	all-stats		4	4						shld	glov	amul	ring	lcha								0	0
+Grandmaster's	100	874	1	1	55		25				5	141	oskill	Redemption	1	2	all-stats		4	4						shld	glov	amul	ring	lcha								0	0
+Grandmaster's	100	875	1	1	55		25				5	141	oskill	Master of Magic	1	2	all-stats		4	4						shld	ring	amul	jewl	armo								0	0
+Sensei's	100	876	1	1	50		14				5	142	swing2		25	36											glov	ring	amul	weap								0	0
+Sensei's	100	877	1	1	50		14				5	142	cast1		21	29										weap	ring	amul	glov	lcha								0	0
+Sensei's	100	878	1	1	50		14				5	142	dmg-max		10	14										mcha	glov	ring	amul	weap								0	0
+Sensei's	100	879	1	1	50		18				5	142	hp		122	194									cgrn	weap	ring	amul	glov	lcha								0	0
+Sensei's	100	880	1	1	50		14				5	142	cast2		25	36											glov	ring	amul	weap								0	0
+Sensei's	100	881	1	1	50		14				5	142	dmg-cold		324	486										weap	ring	amul	glov	lcha								0	0
+Sensei's	100	882	1	1	50		14				5	142	str		24	38										weap	ring	amul	glov	lcha								0	0
+Sensei's	100	883	1	1	50		14				5	142	sor		1	1									lyel	weap	ring	amul	glov	lcha								0	0
+Sensei's	100	884	1	1	50		14				5	142	nec		1	1										weap	ring	amul	glov	lcha								0	0
+Sensei's	100	885	1	1	50		14				5	142	dru		1	1									lgld	weap	ring	amul	glov	lcha								0	0
+Sensei's	100	886	1	1	50		14				5	143	mana-kill		41	59									lgld	weap	ring	amul	glov	lcha								0	0
+Sensei's	100	887	1	1	50		14				5	143	dmg-fire		324	486										weap	ring	amul	glov	lcha								0	0
+Sensei's	100	888	1	1	50		18				5	143	all-stats		8	16										weap	ring	amul	glov	lcha								0	0
+Sensei's	100	889	1	1	50		18				5	143	mana		243	389									lgld	weap	ring	amul	glov	lcha								0	0
+Sensei's	100	890	1	1	50		18				5	143	hp		122	194									lgld	weap	ring	amul	glov	lcha								0	0
+Sensei's	100	891	1	1	50		18				5	143	mana		243	389									lgld	weap	ring	amul	glov	lcha								0	0
+Sensei's	100	892	1	1	50		18				5	143	hp		61	97										weap	ring	amul	glov	lcha								0	0
+Sensei's	100	893	1	1	50		14				5	143	mag%		13	19										weap	ring	amul	glov	lcha								0	0
+Sensei's	100	894	1	1	50		18				5	143	cast2		7	10									dgld	weap	ring	amul	glov	lcha								0	0
+Sensei's	100	895	1	1	50		18				5	143	swing2		7	10										weap	ring	amul	glov	lcha								0	0
+Sensei's	100	896	1	1	50		18				5	143	dmg-min		21	29										weap	ring	amul	glov	lcha								0	0
+Sensei's	100	897	1	1	50		18				5	143	pal		1	1										weap	ring	amul	glov	lcha								0	0
+Sensei's	100	898	1	1	50		18				5	143	ass		1	1										weap	ring	amul	glov	lcha								0	0
+Sensei's	100	899	1	1	50		18				5	143	mana		243	389									dgld	weap	ring	amul	glov	lcha								0	0
+Sensei's	100	900	1	1	1		1				5	143	ac		30	48										armo	shld	amul	ring	lcha	jewl							0	0
+Sensei's	100	901	1	1	50		18				5	143	hp		122	194									lgld	weap	ring	amul	glov	lcha								0	0
+Sensei's	100	902	1	1	50		18				5	144	bar		1	1										weap	ring	amul	glov	lcha								0	0
+Sensei's	100	903	1	1	50		18				5	144	dex		24	38									blac	weap	ring	amul	glov	lcha								0	0
+Sensei's	100	904	1	1	50		18				5	144	att		36	54									dred	weap	ring	amul	glov	lcha								0	0
+Sensei's	100	905	1	1	50		14				5	144	ac		162	214										weap	ring	amul	glov	lcha								0	0
+Sensei's	100	906	1	1	50		14				5	144	dmg-min		10	14										mcha	glov	ring	amul	weap								0	0
+Sensei's	100	907	1	1	50		18				5	144	dmg-undead		243	389									lgld	weap	ring	amul	glov	lcha								0	0
+Sensei's	100	908	1	1	50		18				5	144	swing1		21	29										weap	ring	amul	glov	lcha								0	0
+Sensei's	100	909	1	1	50		18				5	144	att%		41	97									lpur	weap	ring	amul	glov	lcha								0	0
+Sensei's	100	910	1	1	50		14				5	144	move1		16	25										weap	ring	amul	glov	lcha								0	0
+Sensei's	100	911	1	1	50		14				5	144	str%		2	4									cgrn	weap	ring	amul	glov	lcha								0	0
+Sensei's	100	912	1	1	50		14				5	144	hp		122	194										weap	ring	amul	glov	lcha								0	0
+Sensei's	100	913	1	1	50		14				5	144	dmg-min		41	59									dgld	weap	ring	amul	glov	lcha								0	0
+Sensei's	100	914	1	1	50		14				5	144	mana		243	389									cgrn	weap	ring	amul	glov	lcha								0	0
+Azure	100	915	1	1	60		40				5	144	res-fire		9	14										armo	ring	amul	glov									0	0
+Azure	100	916	1	1	60		40				5	144	res-pois		9	14										armo	ring	amul	glov									0	0
+Azure	100	917	1	1	60		40				5	144	res-mag		3	5										armo	ring	amul	glov									0	0
+Azure	100	918	1	1	60		40				5	144	dmg-max		23	27										weap	ring	amul	glov									0	0
+Azure	100	919	1	1	60		40				5	144	skilltab	22	1	2										weap	ring	amul	glov									0	0
+Azure	100	920	1	1	60		40				5	145	mag%		5	9										weap	ring	amul	glov									0	0
+Azure	100	921	1	1	60		40				5	145	mag%		5	9										weap	ring	amul	glov									0	0
+Azure	100	922	1	1	60		40				5	145	mag%		5	9										weap	ring	amul	glov									0	0
+Azure	100	923	1	1	60		40				5	145	skilltab	1	1	2										weap	ring	amul	glov									0	0
+Azure	100	924	1	1	60		40				5	145	skilltab	10	1	2										weap	ring	amul	glov									0	0
+Azure	100	925	1	1	60		40				5	145	skilltab	5	1	2										weap	ring	amul	glov									0	0
+Azure	100	926	1	1	60		40				5	145	skilltab	6	1	2										weap	ring	amul	glov									0	0
+Azure	100	927	1	1	60		40				5	145	skilltab	4	1	2										weap	ring	amul	glov									0	0
+Azure	100	928	1	1	1		1				5	145	mag%		5	7	gold%		3	4						scha	mcha	jewl										0	0
+Azure	100	929	1	1	60		40				5	145	skilltab	11	1	2										weap	ring	amul	glov									0	0
+Azure	100	930	1	1	1		1				5	145	res-pois		9	16										armo	shld	amul	ring	lcha	jewl							0	0
+Azure	100	931	1	1	60		40				5	145	skilltab	14	1	2										weap	ring	amul	glov									0	0
+Azure	100	932	1	1	60		40				5	145	skilltab	15	1	2										weap	ring	amul	glov									0	0
+Azure	100	933	1	1	60		40				5	145	skilltab	17	1	2										weap	ring	amul	glov									0	0
+Azure	100	934	1	1	60		40				5	145	lifesteal		1	5										weap	ring	amul	glov									0	0
+Azure	100	935	1	1	60		40				5	145	str%		2	2										armo	ring	amul	jewl									0	0
+Azure	100	936	1	1	60		40				5	145	swing2		8	9										weap	ring	amul	glov									0	0
+Azure	100	937	1	1	60		40				5	145	hp		68	90										weap	ring	amul	glov									0	0
+Azure	100	938	1	1	60		40				5	145	hp		135	180										weap	ring	amul	glov									0	0
+Azure	100	939	1	1	60		40				5	146	ac%		9	18										weap	ring	amul	glov									0	0
+Azure	100	940	1	1	60		40				5	146	all-stats		9	14										weap	ring	amul	glov									0	0
+Azure	100	941	1	1	60		40				5	146	dmg-cold		360	450										weap	ring	amul	glov									0	0
+Azure	100	942	1	1	60		40				5	146	dmg-ltng		360	450										weap	ring	amul	glov									0	0
+Azure	100	943	1	1	60		40				5	146	dex%		2	2										armo	ring	amul	jewl									0	0
+Azure	100	944	1	1	60		40				5	146	nec		1	1										weap	ring	amul	glov									0	0
+Azure	100	945	1	1	60		40				5	146	dmg-mag		45	270										weap	ring	amul	glov									0	0
+Azure	100	946	1	1	60		40				5	146	ass		1	1										weap	ring	amul	glov									0	0
+Azure	100	947	1	1	60		40				5	146	pal		1	1										weap	ring	amul	glov									0	0
+Azure	100	948	1	1	60		40				5	146	mag%		5	9										weap	ring	amul	glov									0	0
+Azure	100	949	1	1	60		40				5	146	bar		1	1										weap	ring	amul	glov									0	0
+Azure	100	950	1	1	60		40				5	146	mag%		5	9										weap	ring	amul	glov									0	0
+Azure	100	951	1	1	50		18				5	146	swing1		23	32										weap	ring	amul	glov									0	0
+Azure	100	952	1	1	60		40				5	146	skilltab	9	1	2										weap	ring	amul	glov									0	0
+Azure	100	953	1	1	60		40				5	146	skilltab	3	1	2										weap	ring	amul	glov									0	0
+Azure	100	954	1	1	60		40				5	146	skilltab	28	1	2										weap	ring	amul	glov									0	0
+Azure	100	955	1	1	60		40				5	146	mana		270	360										weap	ring	amul	glov									0	0
+Azure	100	956	1	1	60		40				5	146	skilltab	30	1	2										weap	ring	amul	glov									0	0
+Azure	100	957	1	1	60		40				5	147	skilltab	24	1	2										weap	ring	amul	glov									0	0
+Azure	100	958	1	1	60		40				5	147	mag%		14	18										weap	ring	amul	glov									0	0
+Azure	100	959	1	1	60		40				5	147	skilltab	16	1	2										weap	ring	amul	glov									0	0
+Azure	100	960	1	1	60		40				5	147	skilltab	29	1	2										weap	ring	amul	glov									0	0
+Azure	100	961	1	1	1		1				5	147	move1		4	6										armo	shld	amul	ring	lcha	jewl							0	0
+Azure	100	962	1	1	60		40				5	147	skilltab	19	1	2										weap	ring	amul	glov									0	0
+Azure	100	963	1	1	60		40				5	147	skilltab	21	1	2										weap	ring	amul	glov									0	0
+Azure	100	964	1	1	60		40				5	147	dmg-ltng		45	270										weap	ring	amul	glov									0	0
+Azure	100	965	1	1	60		40				5	147	skilltab	26	1	2										weap	ring	amul	glov									0	0
+Azure	100	966	1	1	60		40				5	147	skilltab	23	1	2										weap	ring	amul	glov									0	0
+Glowing	100	967	1	1	1		1				5	148	res-pois-len		5	8										armo	shld	amul	ring	lcha	jewl							0	0
+Glowing	100	968	1	1	5		10				5	148	cast1		7	12										weap	glov	ring	amul	misl	belt	lcha						0	0
+Glowing	100	969	1	1	10		10				5	148	red-dmg%		1	1										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Glowing	100	970	1	1	15		10				5	148	prop-dmgtounholy		13	19										weap	glov	ring	amul	misl	belt	lcha						0	0
+Glowing	100	971	1	1	20		10				5	148	red-dmg%		1	1										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Glowing	100	972	1		25		10				5	148	res-all		5	11	enr		5	9						scha	mcha	jewl				jewl						0	0
+Glowing	100	973	1	1	30		10				5	148	dmg-fire		20	120										weap	glov	ring	amul	misl	belt	lcha						0	0
+Glowing	100	974	1	1	35		12				5	148	red-dmg		10	22										armo	shld	amul	ring	lcha	jewl	jewl						0	0
+Glowing	100	975	1	1	40		12				5	148	lifesteal		2	2										weap	glov	ring	amul	misl	belt	lcha						0	0
+Glowing	100	976	1	1	45		14				5	148	move1		10	14										mcha	boot	ring	amul	tors								0	0
+Glowing	100	977	1	1	50		14				5	148	dmg-ac		13	19										weap	ring	amul	glov	lcha								0	0
+Godly	100	978	1	1	70		60				10	149	att-skill	Volcanic Strike	15	35										weap	amul											0	0
+Godly	100	979	1	1	70		60				10	149	att-skill	Volcanic Shout	15	35										weap	amul											0	0
+Godly	100	980	1	1	70		60				10	149	att-skill	Wave Of Force	15	35										weap	amul											0	0
+Godly	100	981	1	1	70		60				10	149	att-skill	Ice Shard	15	35										weap	amul											0	0
+Godly	100	982	1	1	70		60				10	149	att-skill	Avalanche	15	35										weap	amul											0	0
+Godly	100	983	1	1	70		60				10	149	att-skill	Twin Peaks	15	35										weap	amul											0	0
+Godly	100	984	1	1	70		60				10	149	att-skill	Holy Sword Strike	15	35										weap	amul											0	0
+Godly	100	985	1	1	70		60				10	149	att-skill	Climhazard	15	35										weap	amul											0	0
+Godly	100	986	1	1	70		60				10	149	att-skill	Death Spikes	15	35										weap	amul											0	0
+Godly	100	987	1	1	70		60				10	149	att-skill	Tectonic Claw	15	35										weap	amul											0	0
+Godly	100	988	1	1	70		60				10	149	att-skill	Spirit Circle	15	35										weap	amul											0	0
+Godly	100	989	1	1	70		60				10	149	att-skill	Hell's Knife	15	35										weap	amul											0	0
+Godly	100	990	1	1	70		60				10	149	att-skill	Bleeding Heart	15	35										weap	amul											0	0
+Godly	100	991	1	1	70		60				10	149	att-skill	Ghostly Daggers	15	35										weap	amul											0	0
+Godly	100	992	1	1	70		60				10	149	att-skill	Acid Skull	15	35										weap	amul											0	0
+Godly	100	993	1	1	70		60				10	149	att-skill	Splitting Staff	15	35										weap	amul											0	0
+Godly	100	994	1	1	70		60				10	149	att-skill	Snowball	15	35										weap	amul											0	0
+Godly	100	995	1	1	70		60				10	149	att-skill	Storm Strike	15	35										weap	amul											0	0
+Godly	100	996	1	1	70		60				10	149	att-skill	Seismic Spear	15	35										weap	amul											0	0
+Godly	100	997	1	1	70		60				10	149	att-skill	Wind Strike	15	35										weap	amul											0	0
+Godly	100	998	1	1	70		60				10	149	att-skill	Lightning Rod	15	35										weap	amul											0	0
+Godly	100	999	1	1	70		60				10	149	att-skill	Falling Cinder	15	35										weap	amul											0	0
+Godly	100	1000	1	1	70		60				10	149	att-skill	Bone Spikes	15	35										weap	amul											0	0
+Godly	100	1001	1	1	70		60				10	149	att-skill	Lightning Orb	15	35										weap	amul											0	0
+Godly	100	1002	1	1	70		60				10	149	att-skill	Bloodstream	15	35										weap	amul											0	0
+Godly	100	1003	1	1	70		60				10	149	att-skill	Blood Nova	15	35										weap	amul											0	0
+Godly	100	1004	1	1	70		60				10	149	gethit-skill	Volcanic Strike	8	40										boot	amul	ring										0	0
+Godly	100	1005	1	1	70		60				10	149	gethit-skill	Volcanic Shout	8	40										boot	amul	ring										0	0
+Godly	100	1006	1	1	70		60				10	149	gethit-skill	Wave Of Force	8	40										boot	amul	ring										0	0
+Godly	100	1007	1	1	70		60				10	149	gethit-skill	Ice Shard	8	40										boot	amul	ring										0	0
+Godly	100	1008	1	1	70		60				10	149	gethit-skill	Avalanche	8	40										boot	amul	ring										0	0
+Godly	100	1009	1	1	70		60				10	149	gethit-skill	Twin Peaks	8	40										boot	amul	ring										0	0
+Godly	100	1010	1	1	70		60				10	149	gethit-skill	Holy Sword Strike	8	40										boot	amul	ring										0	0
+Godly	100	1011	1	1	70		60				10	149	gethit-skill	Climhazard	8	40										boot	amul	ring										0	0
+Godly	100	1012	1	1	70		60				10	149	gethit-skill	Death Spikes	8	40										boot	amul	ring										0	0
+Godly	100	1013	1	1	70		60				10	149	gethit-skill	Tectonic Claw	8	40										boot	amul	ring										0	0
+Godly	100	1014	1	1	70		60				10	149	gethit-skill	Spirit Circle	8	40										boot	amul	ring										0	0
+Godly	100	1015	1	1	70		60				10	149	gethit-skill	Hell's Knife	8	40										boot	amul	ring										0	0
+Godly	100	1016	1	1	70		60				10	149	gethit-skill	Bleeding Heart	8	40										boot	amul	ring										0	0
+Godly	100	1017	1	1	70		60				10	149	gethit-skill	Ghostly Daggers	8	40										boot	amul	ring										0	0
+Godly	100	1018	1	1	70		60				10	149	gethit-skill	Acid Skull	8	40										boot	amul	ring										0	0
+Godly	100	1019	1	1	70		60				10	149	gethit-skill	Splitting Staff	8	40										boot	amul	ring										0	0
+Godly	100	1020	1	1	70		60				10	149	gethit-skill	Snowball	8	40										boot	amul	ring										0	0
+Godly	100	1021	1	1	70		60				10	149	gethit-skill	Storm Strike	8	40										boot	amul	ring										0	0
+Godly	100	1022	1	1	70		60				10	149	gethit-skill	Seismic Spear	8	40										boot	amul	ring										0	0
+Godly	100	1023	1	1	70		60				10	149	gethit-skill	Wind Strike	8	40										boot	amul	ring										0	0
+Godly	100	1024	1	1	70		60				10	149	gethit-skill	Lightning Rod	8	40										boot	amul	ring										0	0
+Godly	100	1025	1	1	70		60				10	149	gethit-skill	Falling Cinder	8	40										boot	amul	ring										0	0
+Godly	100	1026	1	1	70		60				10	149	gethit-skill	Bone Spikes	8	40										boot	amul	ring										0	0
+Godly	100	1027	1	1	70		60				10	149	gethit-skill	Lightning Orb	8	40										boot	amul	ring										0	0
+Godly	100	1028	1	1	70		60				10	149	gethit-skill	Bloodstream	8	40										boot	amul	ring										0	0
+Godly	100	1029	1	1	70		60				10	149	gethit-skill	Blood Nova	8	40										boot	amul	ring										0	0
+Godly	100	1030	1	1	70		60				10	149	gethit-skill	Electrical Storm	8	40										boot	amul	ring										0	0
+Godly	100	1031	1		89		80				10	149	oskill	Volcanic Strike	3	3										jewl	lcha											0	0
+Godly	100	1032	1		89		80				10	149	oskill	Volcanic Shout	3	3										jewl	lcha											0	0
+Godly	100	1033	1		89		80				10	149	oskill	Wave Of Force	3	3										jewl	lcha											0	0
+Godly	100	1034	1		89		80				10	149	oskill	Ice Shard	3	3										jewl	lcha											0	0
+Godly	100	1035	1		89		80				10	149	oskill	Avalanche	3	3										jewl	lcha											0	0
+Godly	100	1036	1		89		80				10	149	oskill	Twin Peaks	3	3										jewl	lcha											0	0
+Godly	100	1037	1		89		80				10	149	oskill	Holy Sword Strike	3	3										jewl	lcha											0	0
+Godly	100	1038	1		89		80				10	149	oskill	Climhazard	3	3										jewl	lcha											0	0
+Godly	100	1039	1		89		80				10	149	oskill	Death Spikes	3	3										jewl	lcha											0	0
+Godly	100	1040	1		89		80				10	149	oskill	Tectonic Claw	3	3										jewl	lcha											0	0
+Godly	100	1041	1		89		80				10	149	oskill	Spirit Circle	3	3										jewl	lcha											0	0
+Godly	100	1042	1		89		80				10	149	oskill	Hell's Knife	3	3										jewl	lcha											0	0
+Godly	100	1043	1		89		80				10	149	oskill	Bleeding Heart	3	3										jewl	lcha											0	0
+Godly	100	1044	1		89		80				10	149	oskill	Ghostly Daggers	3	3										jewl	lcha											0	0
+Godly	100	1045	1		89		80				10	149	oskill	Acid Skull	3	3										jewl	lcha											0	0
+Godly	100	1046	1		89		80				10	149	oskill	Splitting Staff	3	3										jewl	lcha											0	0
+Godly	100	1047	1		89		80				10	149	oskill	Snowball	3	3										jewl	lcha											0	0
+Godly	100	1048	1		89		80				10	149	oskill	Storm Strike	3	3										jewl	lcha											0	0
+Godly	100	1049	1		89		80				10	149	oskill	Seismic Spear	3	3										jewl	lcha											0	0
+Godly	100	1050	1		89		80				10	149	oskill	Wind Strike	3	3										jewl	lcha											0	0
+Godly	100	1051	1		89		80				10	149	oskill	Lightning Rod	3	3										jewl	lcha											0	0
+Godly	100	1052	1		89		80				10	149	oskill	Falling Cinder	3	3										jewl	lcha											0	0
+Godly	100	1053	1		89		80				10	149	oskill	Bone Spikes	3	3										jewl	lcha											0	0
+Godly	100	1054	1		89		80				10	149	oskill	Lightning Orb	3	3										jewl	lcha											0	0
+Godly	100	1055	1		89		80				10	149	oskill	Bloodstream	3	3										jewl	lcha											0	0
+Godly	100	1056	1		89		80				10	149	oskill	Blood Nova	3	3										jewl	lcha											0	0

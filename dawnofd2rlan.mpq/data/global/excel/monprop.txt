@@ -1,0 +1,49 @@
+Id	prop1	chance1	par1	min1	max1	prop2	chance2	par2	min2	max2	prop3	chance3	par3	min3	max3	prop4	chance4	par4	min4	max4	prop5	chance5	par5	min5	max5	prop6	chance6	par6	min6	max6	prop1 (N)	chance1 (N)	par1 (N)	min1 (N)	max1 (N)	prop2 (N)	chance2 (N)	par2 (N)	min2 (N)	max2 (N)	prop3 (N)	chance3 (N)	par3 (N)	min3 (N)	max3 (N)	prop4 (N)	chance4 (N)	par4 (N)	min4 (N)	max4 (N)	prop5 (N)	chance5 (N)	par5 (N)	min5 (N)	max5 (N)	prop6 (N)	chance6 (N)	par6 (N)	min6 (N)	max6 (N)	prop1 (H)	chance1 (H)	par1 (H)	min1 (H)	max1 (H)	prop2 (H)	chance2 (H)	par2 (H)	min2 (H)	max2 (H)	prop3 (H)	chance3 (H)	par3 (H)	min3 (H)	max3 (H)	prop4 (H)	chance4 (H)	par4 (H)	min4 (H)	max4 (H)	prop5 (H)	chance5 (H)	par5 (H)	min5 (H)	max5 (H)	prop6 (H)	chance6 (H)	par6 (H)	min6 (H)	max6 (H)	*eol
+lvl1hadokenondeath	death-skill	10	221	1	1																										death-skill	1	262	3	1																										death-skill	100	262	3	5																										0
+fasterattackwalkres	move2	5		90	90	swing2	5		90	90	res-all	5		30	30																move2	8		90	90	swing2	5		90	90	res-all	5		30	30																move2	8		90	90	swing2	5		90	90	res-all	5		30	30																0
+lvl3poisonvialonhit	swing2	5		100	100	hit-skill	5	251	10	1	res-all	5		30	30																swing2	8		100	100	hit-skill	5	251	10	7	res-all	5		30	30																swing2	8		100	100	hit-skill	5	251	10	7	res-all	5		30	30																0
+lvl1waveofforceondeath	death-skill	100	221	1	1	swing2	10		90	90	res-all	10		30	30																death-skill	100	64	3	5	swing2	10		90	90	res-all	10		30	30																death-skill	100	64	3	5	swing2	10		90	90	res-all	10		30	30																0
+morefiredamage	extra-cold	20		50	50																										extra-cold	20		50	50																										extra-cold	20		50	50																										0
+morecolddamage	extra-fire	20		50	50																										extra-fire	20		50	50																										extra-fire	20		50	50																										0
+moreltngdamage	extra-ltng	20		50	50																										extra-ltng	20		50	50																										extra-ltng	20		50	50																										0
+morepoisondamage	extra-pois	20		50	50																										extra-pois	20		50	50																										extra-pois	20		50	50																										0
+lvl1evilspearitondeath	death-skill	10	150	1	1	swing2	10		90	90	res-all	10		30	30																death-skill	1	34	3	1	swing2	20		90	90	res-all	10		30	30																death-skill	100	34	3	5	swing2	20		90	90	res-all	10		30	30																0
+lvl1holyspearitondeath	death-skill	10	150	1	1	swing2	10		90	90	res-all	10		30	30																death-skill	1	35	3	1	swing2	20		90	90	res-all	10		30	30																death-skill	100	35	3	5	swing2	20		90	90	res-all	10		30	30																0
+lvl1volcanicstrikeondeath	death-skill	10	150	1	1	swing2	10		90	90	res-all	10		30	30																death-skill	1	36	3	1	swing2	20		90	90	res-all	10		30	30																death-skill	100	36	3	5	swing2	20		90	90	res-all	10		30	30																0
+lvl1snowballondeath	death-skill	10	150	1	1	swing2	10		90	90	res-all	10		30	30																death-skill	1	37	3	1	swing2	20		90	90	res-all	10		30	30																death-skill	100	37	3	5	swing2	20		90	90	res-all	10		30	30																0
+lvl1windstrikeondeath	death-skill	10	150	1	1	swing2	10		90	90	res-all	10		30	30																death-skill	1	22	3	1	swing2	20		90	90	res-all	10		30	30																death-skill	100	22	3	5	swing2	20		90	90	res-all	10		30	30																0
+lvl1clustergrenadesondeath	death-skill	10	150	1	1	cast2	10		90	90	res-all	10		30	30																death-skill	1	15	3	1	cast2	20		90	90	res-all	10		30	30																death-skill	100	15	3	5	cast2	20		90	90	res-all	10		30	30																0
+baboon6	fade			1	1																										fade			3	3	move2		15	15																						fade			3	3	move2		15	15																						0
+irongolem	fade			16	16																										fade			16	16	move2		15	15																						fade			16	16	move2		15	15																						0
+mephisto																																																													cast2			15	15	swing2			15	15	move2			15	15																0
+blunderbore																															crush			15	15	move2		15	15																						crush			15	15	move2		15	15																						0
+councilmember1																															extra-fire			40	40	move2		15	15																						extra-fire			40	40	move2		15	15																						0
+councilmember2																															extra-fire			40	40	move2		15	15																						extra-fire			40	40	move2		15	15																						0
+councilmember3																															extra-fire			40	40	move2		15	15																						extra-fire			40	40	move2		15	15																						0
+baalhighpriest																															extra-fire			60	60	move2		15	15																						extra-fire			60	60	move2		15	15																						0
+bloodraven																																																																																											0
+quillrat6																															thorns			15	20	move2		15	15																						thorns			15	20	move2		15	15																						0
+quillrat7																															thorns			15	20	move2		15	15																						thorns			15	20	move2		15	15																						0
+quillrat8																															thorns			15	20	move2		15	15																						thorns			15	20	move2		15	15																						0
+druidhawk	swing2	100		100	100																										swing2	100		100	100	move2		15	15																						swing2	100		100	100	move2		15	15																						0
+lvl3arrowhailondeath	death-skill	10	221	1	10	cast2	10		90	90	res-all	10		30	30																death-skill	1	16	3	1	cast2	20		90	90	res-all	10		30	30																death-skill	100	16	3	8	cast2	20		90	90	res-all	10		30	30																0
+lvl3lightningrodondeath	death-skill	10	221	1	10	cast2	10		90	90	res-all	10		30	30																death-skill	1	42	3	1	cast2	20		90	90	res-all	10		30	30																death-skill	100	42	3	8	cast2	20		90	90	res-all	10		30	30																0
+lvl3twinpeaksondeath	death-skill	10	221	1	10	cast2	10		90	90	res-all	10		30	30																death-skill	1	50	3	1	cast2	20		90	90	res-all	10		30	30																death-skill	100	50	3	8	cast2	20		90	90	res-all	10		30	30																0
+lvl3ghostlydaggers	death-skill	10	221	1	10	cast2	10		90	90	res-all	10		30	30																death-skill	1	74	3	1	cast2	20		90	90	res-all	10		30	30																death-skill	100	74	3	8	cast2	20		90	90	res-all	10		30	30																0
+lvl3fanofknives	death-skill	10	221	1	10	cast2	10		90	90	res-all	10		30	30																death-skill	1	83	3	1	cast2	20		90	90	res-all	10		30	30																death-skill	100	83	3	8	cast2	20		90	90	res-all	10		30	30																0
+andy	swing2	100		5	5	move2	100		5	5	allskills			1	1																swing2	100		10	10	move2	100		10	10	extra-pois			10	10	prop-dmgtoearth			80	80											knock			1	1																										0
+baal	swing2	100		12	12	move2	100		12	12	gethit-skill	66	2	10	gethit-skill	48	2	10													swing2	100		12	12	move2	100		12	12	gethit-skill	66	1	1	gethit-skill	48	2	10													knock			1	1																										0
+rad	swing2			50	50	cast2			50	50	gethit-skill	45		10	15	gethit-skill	70		10	15											swing2			20	20	cast2			20	20																																																			0
+duriel	swing2			20	20	res-mag			1	1																					skillmod-auracooldownelemental			8	8	extra-fire			15	15	extra-cold		15	15																	extra-ltng			50	50	gethit-skill	100	75	10	20																					0
+diablo 	extra-fire			80	80																										swing2			2	2	cast2			2	2																																																			0
+creepycrawler																																																													death-skill	100	66	15	15																										0
+corruptedfetish																																																													death-skill	100	78	15	15																										0
+RuneBat																																																													death-skill	100	146	15	14																										0
+sandleaper8																																																													death-skill	100	152	15	12																										0
+vulture6																																																													death-skill	100	280	15	12																										0
+foulcrow9																																																													death-skill	100	469	15	12																										0
+snowyeti5																																																													death-skill	100	609	3	20																										0
+clawviper11																																																													death-skill	100	555	3	20																										0
+hellfireondeath																																																													death-skill	100	152	3	20																										0
+megademon																																																													death-skill	100	579	2	20																										0
+goatman																																																													death-skill	100	423	3	5																										0
