@@ -23,11 +23,18 @@
             }
         },
         {
+            "type": "ImageWidget", "name": "LeftSprite",
+            "fields": {
+                "rect": "$LeftSideRectHireMenu",
+                "filename": "$LeftSideSpriteNew"
+            }
+        },
+        {
             "type": "ImageWidget", "name": "LeftHinge",
             "fields": {
                 "rect": "$LeftHingeRect",
                 "filename": "$LeftHingeSprite"
-            },
+            }
         },
         {
             "type": "TextBoxWidget", "name": "StatsPanelTitle",
@@ -973,9 +980,10 @@
                         "filename": "PANEL\\Character_Sheet\\LevelUpButton",
                         "hoveredFrame": 1,
                         "pressedFrame": 2,
-                        "onClickMessage": "CharacterStatsPanelMessage:UseSkillPoint:0",
+                        "statsIndex": 0,
                         "tooltipString": "@TooltipCharacterScreenSpendStatPoint",
                         "sound": "none",
+                        "onClickMessage": "CharacterStatsPanelMessage:UseSkillPoint:0",
                     },
                 },
                 {
@@ -985,9 +993,10 @@
                         "filename": "PANEL\\Character_Sheet\\LevelUpButton",
                         "hoveredFrame": 1,
                         "pressedFrame": 2,
-                        "onClickMessage": "CharacterStatsPanelMessage:UseSkillPoint:1",
+                        "statsIndex": 1,
                         "tooltipString": "@TooltipCharacterScreenSpendStatPoint",
                         "sound": "none",
+                        "onClickMessage": "CharacterStatsPanelMessage:UseSkillPoint:1",
                     },
                 },
                 {
@@ -997,9 +1006,10 @@
                         "filename": "PANEL\\Character_Sheet\\LevelUpButton",
                         "hoveredFrame": 1,
                         "pressedFrame": 2,
-                        "onClickMessage": "CharacterStatsPanelMessage:UseSkillPoint:2",
+                        "statsIndex": 2,
                         "tooltipString": "@TooltipCharacterScreenSpendStatPoint",
                         "sound": "none",
+                        "onClickMessage": "CharacterStatsPanelMessage:UseSkillPoint:2",
                     },
                 },
                 {
@@ -1009,9 +1019,10 @@
                         "filename": "PANEL\\Character_Sheet\\LevelUpButton",
                         "hoveredFrame": 1,
                         "pressedFrame": 2,
-                        "onClickMessage": "CharacterStatsPanelMessage:UseSkillPoint:3",
+                        "statsIndex": 3,
                         "tooltipString": "@TooltipCharacterScreenSpendStatPoint",
                         "sound": "none",
+                        "onClickMessage": "CharacterStatsPanelMessage:UseSkillPoint:3",
                     },
                 },
             ]
