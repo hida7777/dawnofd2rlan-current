@@ -204,7 +204,7 @@ amuletaura	201					1																																					aura_fanatic	aura_fanat
 swordaura	202																																																																						0
 longevityaura	203					1																																					aura_prayer_front	aura_prayer_back																		paladin_aura_prayer									0
 fireproofaura	204					1									1																												aura_resistfire					cast_resistfire		fireresist												paladin_aura_resistfire									0
-manaflask	205					1																																					fire_cast_2	fire_cast_2																		paladin_aura_might									0
+manaflask	205																																																																						0
 hammermaster	206																																																																						0
 coldproofaura	207					1									1																												aura_resistcold					cast_resistfire		coldresist												paladin_aura_resistfire									0
 sceptermaster	208																																										blessedaimfront	blessedaimback											scep	bwht															0
